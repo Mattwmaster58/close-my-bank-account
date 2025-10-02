@@ -21,7 +21,7 @@ class ClosureData(BaseModel):
 
 class ExtractedCommentData(BaseModel):
     commentId: str
-    date: int  # Unix timestamp
+    timestamp: int  # Unix timestamp
     extracted_data: ClosureData
 
 
@@ -216,7 +216,7 @@ def update_extracted_data():
         else:
             closure_data = extract_comment_data(comment)
             print(f"extracted closure data for {comment.id}: {closure_data}")
-            extracted_comment_data = ExtractedCommentData(commentId=comment.id, date=comment.date, extracted_data=closure_data)
+            extracted_comment_data = ExtractedCommentData(commentId=comment.id, timestamp=comment.timestamp, extracted_data=closure_data)
             with open(extracted_data_path, "a") as extracted_data_file:
                 extracted_data_file.write(f"{extracted_comment_data.model_dump_json()}\n")
 
