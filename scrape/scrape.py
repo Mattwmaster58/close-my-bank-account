@@ -1,26 +1,22 @@
 import itertools
-import json
 import re
 from datetime import datetime
 from pathlib import Path
-from typing import Optional, Dict, Any, Set, List
+from typing import Optional, Set, List
 
 import pytz
 import requests
 from lxml import html
 from lxml.etree import _Element, ParserError
-from pydantic import BaseModel, field_validator
+from pydantic import BaseModel
 
 session = requests.session()
-session.headers.update({'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64; rv:142.0) Gecko/20100101 Firefox/142.0', })
+session.headers.update({'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64; rv:142.0) Gecko/20100101 Firefox/142.0'})
 
 
 class Comment(BaseModel):
-    """Validated comment model with proper date parsing"""
     id: str
-    url: Optional[str] = None
-    author: str
-    date: datetime
+    timestamp: int
     text: str
 
 
@@ -36,8 +32,13 @@ def load_older_comments(last_parent_id: Optional[int] = None) -> List[Comment]:
     """
     # https://www.doctorofcredit.com/complete-list-of-ways-to-close-bank-accounts-at-each-bank/#comments
     BANK_ACCOUNT_CLOSURES_POST = 24906
-    data = {"postId": BANK_ACCOUNT_CLOSURES_POST, "action": "wpdLoadMoreComments", "sorting": "newest", "wpdType": "",
-            **({"lastParentId": last_parent_id} if last_parent_id is not None else {})}
+    data = {
+        "postId": BANK_ACCOUNT_CLOSURES_POST,
+        "action": "wpdLoadMoreComments",
+        "sorting": "newest",
+        "wpdType": "",
+        **({"lastParentId": last_parent_id} if last_parent_id is not None else {})
+    }
 
     comments_endpoint = "https://www.doctorofcredit.com/wp-admin/admin-ajax.php"
     response = session.post(comments_endpoint,
@@ -69,8 +70,7 @@ def parse_top_level_comments(html_element: _Element) -> List[Comment]:
     """
     comments = []
 
-    top_level_comments = html_element.cssselect(".wpd_comment_level-1")
-    for comment_el in top_level_comments:
+    for comment_el in html_element.cssselect(".wpd_comment_level-1"):
 
         date_el = comment_el.cssselect(".wpd-comment-date")
         date_raw = date_el[0].text_content().strip() if date_el else None
@@ -87,12 +87,7 @@ def parse_top_level_comments(html_element: _Element) -> List[Comment]:
         else:
             raise ValueError(f"Unable to parse comment id from url: {url}")
 
-        # Extract author name
-        author_el = comment_el.cssselect(".wpd-comment-author")
-        author = author_el[0].text_content().strip() if author_el else None
-
-        comment = Comment(id=comment_id, url=url, author=author, date=to_iso_timestamp(date_raw), text=text)
-        comments.append(comment)
+        comments.append(Comment(id=comment_id, timestamp=to_unix_timestamp(date_raw), text=text))
 
     return comments
 
@@ -120,19 +115,23 @@ def get_all_comments() -> List[Comment]:
     return all_comments
 
 
-def to_iso_timestamp(raw: str) -> str:
+def to_unix_timestamp(raw: str) -> int:
     # eg "December 30, 2022 17:27"
     pattern = r'(\w+)\s+(\d+),\s+(\d{4})\s+(\d{1,2}):(\d{2})'
     match = re.search(pattern, raw, re.IGNORECASE)
+    if not match:
+        raise ValueError(f"Could not parse timestamp string: {raw}")
     month, day, year, hour, minute = match.groups()
     month_num = datetime.strptime(month, '%B').month
-    # todo: webpage is probably localized to the requester's tz
-    # for now, just assume eastern
-    return datetime(int(year), month_num, int(day), int(hour), int(minute),
-                    tzinfo=pytz.timezone('US/Eastern')).isoformat()
+    dt = datetime(int(year), month_num, int(day), int(hour), int(minute))
+    # Assume Eastern time, convert to UTC
+    eastern = pytz.timezone('US/Eastern')
+    dt_eastern = eastern.localize(dt)
+    dt_utc = dt_eastern.astimezone(pytz.UTC)
+    return int(dt_utc.timestamp())
 
 
-def update_comment_dump(file_path: str = "comments.jsonl") -> List[Comment]:
+def update_comment_dump(file_path: Path = Path(__file__).parent / "comments.jsonl") -> List[Comment]:
     """
     Update comment dump by fetching new comments and organizing them chronologically.
     
@@ -183,15 +182,13 @@ def update_comment_dump(file_path: str = "comments.jsonl") -> List[Comment]:
 
     all_comments = existing_comments + new_comments
     print(f"Total comments: {len(all_comments)} ({len(new_comments)} new)")
-    sorted_comments = sorted(all_comments, key=lambda x: x.date)
+    sorted_comments = sorted(all_comments, key=lambda x: x.timestamp)
 
     if new_comments:
         with file_path.open('w') as f:
             for comment in sorted_comments:
                 f.write(comment.model_dump_json() + "\n")
         print(f"Successfully updated {file_path} with comments in chronological order")
-    else:
-        print(f"No new comments found, file remains unchanged")
 
     return sorted_comments
 
