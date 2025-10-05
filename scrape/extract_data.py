@@ -1,6 +1,4 @@
-import json
 import os
-from datetime import datetime
 from itertools import zip_longest
 from pathlib import Path
 from typing import Literal
@@ -11,13 +9,16 @@ from pydantic import BaseModel
 
 from scrape import Comment
 
+
 class ClosureAttempt(BaseModel):
     success: bool
     bank_name: str
-    method: Literal["chat", "phone", "in-branch", "0-balance", "secure-message"]
+    method: Literal["chat", "secure-message", "phone", "in-branch", "0-balance", "on-platform", "unknown"]
+
 
 class ClosureData(BaseModel):
     closure_attempts: list[ClosureAttempt]
+
 
 class ExtractedCommentData(BaseModel):
     commentId: str
@@ -28,11 +29,13 @@ class ExtractedCommentData(BaseModel):
 load_dotenv()
 ai_client = genai.Client(api_key=os.getenv('GENAI_API_KEY'))
 
+
 def extract_comment_data(comment: Comment) -> ClosureData:
     prompt = f"""
     Based on provided comment text, provide a list of bank account closure attempts.
      - It is possible there is 0 closure attempts in a comment
      - If a comment is neutrally worded, assume a positive result (ie, successful closure)
+     - on-platform refers to being able to close the account on the site or app, without additional human interaction 
 
     Here's a list of banks your should prefer, but are not required to choose from:
 
@@ -216,10 +219,10 @@ def update_extracted_data():
         else:
             closure_data = extract_comment_data(comment)
             print(f"extracted closure data for {comment.id}: {closure_data}")
-            extracted_comment_data = ExtractedCommentData(commentId=comment.id, timestamp=comment.timestamp, extracted_data=closure_data)
+            extracted_comment_data = ExtractedCommentData(commentId=comment.id, timestamp=comment.timestamp,
+                                                          extracted_data=closure_data)
             with open(extracted_data_path, "a") as extracted_data_file:
                 extracted_data_file.write(f"{extracted_comment_data.model_dump_json()}\n")
-
 
 
 if __name__ == '__main__':
