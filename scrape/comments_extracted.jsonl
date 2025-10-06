@@ -1,0 +1,762 @@
+{"commentId":"219188","timestamp":1453394160,"extracted_data":{"closure_attempts":[{"success":false,"bank_name":"M&T Bank","method":"secure-message"}]}}
+{"commentId":"219189","timestamp":1453394280,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Citi","method":"chat"}]}}
+{"commentId":"219201","timestamp":1453397460,"extracted_data":{"closure_attempts":[{"success":false,"bank_name":"U.S. Bank","method":"secure-message"}]}}
+{"commentId":"219202","timestamp":1453397520,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"PNC","method":"chat"}]}}
+{"commentId":"219204","timestamp":1453399020,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Citi","method":"in-branch"},{"success":true,"bank_name":"Bank of America","method":"in-branch"}]}}
+{"commentId":"219205","timestamp":1453399380,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"PNC","method":"chat"}]}}
+{"commentId":"219208","timestamp":1453399860,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Bank of America","method":"chat"},{"success":true,"bank_name":"Chase","method":"secure-message"},{"success":false,"bank_name":"Citi","method":"chat"},{"success":true,"bank_name":"Citi","method":"phone"}]}}
+{"commentId":"219225","timestamp":1453403880,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Chase","method":"secure-message"},{"success":true,"bank_name":"Capital One 360","method":"phone"},{"success":true,"bank_name":"Nationwide","method":"secure-message"},{"success":true,"bank_name":"Amboy","method":"secure-message"},{"success":true,"bank_name":"SunTrust","method":"secure-message"},{"success":false,"bank_name":"Discover","method":"secure-message"},{"success":true,"bank_name":"First Citizens Bank","method":"unknown"},{"success":true,"bank_name":"HomeStreet","method":"unknown"}]}}
+{"commentId":"219235","timestamp":1453406040,"extracted_data":{"closure_attempts":[]}}
+{"commentId":"219234","timestamp":1453406040,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Bank of America","method":"phone"}]}}
+{"commentId":"219240","timestamp":1453406460,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Citi","method":"secure-message"}]}}
+{"commentId":"219249","timestamp":1453408800,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Huntington","method":"0-balance"},{"success":true,"bank_name":"Fifth Third","method":"0-balance"}]}}
+{"commentId":"219259","timestamp":1453410900,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Citizens Bank","method":"phone"},{"success":true,"bank_name":"TD Bank","method":"secure-message"},{"success":true,"bank_name":"First Niagara","method":"unknown"},{"success":true,"bank_name":"Huntington","method":"chat"},{"success":true,"bank_name":"Citadel Credit Union","method":"secure-message"},{"success":true,"bank_name":"Nationwide","method":"secure-message"},{"success":true,"bank_name":"U.S Bank","method":"phone"},{"success":true,"bank_name":"Capital One","method":"phone"},{"success":true,"bank_name":"Capital One","method":"on-platform"},{"success":true,"bank_name":"Santander","method":"phone"},{"success":true,"bank_name":"M&T","method":"in-branch"}]}}
+{"commentId":"219268","timestamp":1453414440,"extracted_data":{"closure_attempts":[]}}
+{"commentId":"219295","timestamp":1453419780,"extracted_data":{"closure_attempts":[]}}
+{"commentId":"219311","timestamp":1453423800,"extracted_data":{"closure_attempts":[{"success":false,"bank_name":"KeyBank","method":"secure-message"}]}}
+{"commentId":"219316","timestamp":1453426080,"extracted_data":{"closure_attempts":[]}}
+{"commentId":"219969","timestamp":1453713840,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Citi","method":"chat"}]}}
+{"commentId":"220310","timestamp":1453842240,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"KeyBank","method":"phone"}]}}
+{"commentId":"220331","timestamp":1453848000,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"BMO Harris","method":"chat"}]}}
+{"commentId":"220430","timestamp":1453872120,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"BB&T","method":"secure-message"}]}}
+{"commentId":"221177","timestamp":1454118840,"extracted_data":{"closure_attempts":[{"success":false,"bank_name":"Huntington","method":"chat"},{"success":false,"bank_name":"Huntington","method":"secure-message"},{"success":true,"bank_name":"Huntington","method":"in-branch"}]}}
+{"commentId":"222162","timestamp":1454529180,"extracted_data":{"closure_attempts":[]}}
+{"commentId":"223866","timestamp":1455014280,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Astoria Bank","method":"secure-message"}]}}
+{"commentId":"224875","timestamp":1455219900,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"MountainOne Bank","method":"secure-message"}]}}
+{"commentId":"225327","timestamp":1455324960,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"M&T","method":"phone"}]}}
+{"commentId":"232534","timestamp":1457738760,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"First Niagara","method":"phone"}]}}
+{"commentId":"232536","timestamp":1457739000,"extracted_data":{"closure_attempts":[{"success":false,"bank_name":"M&T Bank","method":"phone"},{"success":true,"bank_name":"M&T Bank","method":"in-branch"}]}}
+{"commentId":"235360","timestamp":1458589620,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Citi","method":"chat"},{"success":true,"bank_name":"Huntington","method":"chat"}]}}
+{"commentId":"245481","timestamp":1460583540,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Discover","method":"secure-message"}]}}
+{"commentId":"262022","timestamp":1464127800,"extracted_data":{"closure_attempts":[{"success":false,"bank_name":"First National Bank","method":"phone"}]}}
+{"commentId":"264701","timestamp":1464882180,"extracted_data":{"closure_attempts":[]}}
+{"commentId":"266709","timestamp":1465571940,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"HSBC Bank","method":"phone"}]}}
+{"commentId":"267702","timestamp":1465937280,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"HomeStreet","method":"secure-message"}]}}
+{"commentId":"271934","timestamp":1467313320,"extracted_data":{"closure_attempts":[]}}
+{"commentId":"272209","timestamp":1467395220,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Northpointe","method":"0-balance"},{"success":true,"bank_name":"Pinnacle Bank","method":"chat"},{"success":true,"bank_name":"Associated Bank","method":"0-balance"},{"success":true,"bank_name":"Wells Fargo","method":"secure-message"}]}}
+{"commentId":"272222","timestamp":1467397200,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Seacoast Bank","method":"phone"}]}}
+{"commentId":"273305","timestamp":1467806640,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"KeyBank","method":"secure-message"}]}}
+{"commentId":"273383","timestamp":1467822720,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Bank Of The West","method":"secure-message"}]}}
+{"commentId":"274492","timestamp":1468122900,"extracted_data":{"closure_attempts":[{"success":false,"bank_name":"Fifth Third Bank","method":"phone"},{"success":true,"bank_name":"Fifth Third Bank","method":"in-branch"}]}}
+{"commentId":"276237","timestamp":1468617000,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"First Tennessee","method":"phone"}]}}
+{"commentId":"280081","timestamp":1470058920,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Santander Bank","method":"in-branch"}]}}
+{"commentId":"281031","timestamp":1470280080,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Regions Bank","method":"secure-message"},{"success":true,"bank_name":"Tech CU","method":"secure-message"}]}}
+{"commentId":"283339","timestamp":1470989460,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Northpointe Bank","method":"phone"}]}}
+{"commentId":"283691","timestamp":1471108320,"extracted_data":{"closure_attempts":[{"success":false,"bank_name":"Bank of America","method":"secure-message"},{"success":false,"bank_name":"Bank of America","method":"chat"}]}}
+{"commentId":"284448","timestamp":1471371780,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Fidelity Bank","method":"chat"},{"success":true,"bank_name":"Five Star Bank","method":"0-balance"}]}}
+{"commentId":"284502","timestamp":1471382340,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"First Tennessee","method":"secure-message"},{"success":false,"bank_name":"Santander","method":"phone"},{"success":true,"bank_name":"Santander","method":"phone"}]}}
+{"commentId":"284947","timestamp":1471483980,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Amalgamated Bank","method":"phone"},{"success":true,"bank_name":"Amalgamated Bank","method":"in-branch"},{"success":true,"bank_name":"Amalgamated Bank","method":"unknown"}]}}
+{"commentId":"287779","timestamp":1472070720,"extracted_data":{"closure_attempts":[{"success":false,"bank_name":"Talmer Bank","method":"phone"},{"success":false,"bank_name":"Talmer Bank","method":"secure-message"}]}}
+{"commentId":"292299","timestamp":1473196980,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Bank of America","method":"chat"}]}}
+{"commentId":"293105","timestamp":1473381660,"extracted_data":{"closure_attempts":[]}}
+{"commentId":"293114","timestamp":1473384240,"extracted_data":{"closure_attempts":[{"success":false,"bank_name":"Iberia Bank","method":"secure-message"},{"success":false,"bank_name":"Iberia Bank","method":"phone"},{"success":true,"bank_name":"Iberia Bank","method":"in-branch"}]}}
+{"commentId":"293256","timestamp":1473424800,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Citi","method":"chat"}]}}
+{"commentId":"296185","timestamp":1474118460,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Amalgamated Bank","method":"secure-message"}]}}
+{"commentId":"297109","timestamp":1474402080,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Popular Community Bank","method":"secure-message"},{"success":true,"bank_name":"TD Bank","method":"secure-message"}]}}
+{"commentId":"298999","timestamp":1474815720,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Fifth Third","method":"secure-message"}]}}
+{"commentId":"301887","timestamp":1475276400,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"First Niagara","method":"secure-message"}]}}
+{"commentId":"302613","timestamp":1475437260,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"KeyBank","method":"secure-message"},{"success":true,"bank_name":"KeyBank","method":"secure-message"}]}}
+{"commentId":"304091","timestamp":1475776080,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Santander","method":"phone"},{"success":true,"bank_name":"Citi","method":"chat"},{"success":true,"bank_name":"First Tennessee","method":"secure-message"},{"success":true,"bank_name":"Chase","method":"phone"},{"success":false,"bank_name":"Talmer Bank","method":"unknown"}]}}
+{"commentId":"304971","timestamp":1476045600,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"FirstBank","method":"chat"}]}}
+{"commentId":"308323","timestamp":1477085580,"extracted_data":{"closure_attempts":[{"success":false,"bank_name":"Pinnacle Bank (Texas)","method":"chat"},{"success":false,"bank_name":"Pinnacle Bank (Texas)","method":"phone"},{"success":true,"bank_name":"Pinnacle Bank (Texas)","method":"in-branch"},{"success":true,"bank_name":"Northpointe Bank","method":"phone"},{"success":true,"bank_name":"LegacyTexas Bank","method":"phone"},{"success":true,"bank_name":"U.S Bank","method":"phone"}]}}
+{"commentId":"308622","timestamp":1477232520,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Fifth Third","method":"phone"}]}}
+{"commentId":"312679","timestamp":1478397480,"extracted_data":{"closure_attempts":[{"success":false,"bank_name":"Chase","method":"secure-message"}]}}
+{"commentId":"316844","timestamp":1479516660,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Pinnacle Bank (Texas)","method":"0-balance"}]}}
+{"commentId":"317350","timestamp":1479687720,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Associated Bank","method":"phone"},{"success":true,"bank_name":"BMO Harris","method":"phone"}]}}
+{"commentId":"320840","timestamp":1480368420,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Pinnacle Bank","method":"0-balance"}]}}
+{"commentId":"321176","timestamp":1480441740,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Amalgamated Bank","method":"chat"}]}}
+{"commentId":"323289","timestamp":1480948260,"extracted_data":{"closure_attempts":[]}}
+{"commentId":"323762","timestamp":1481036460,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Huntington","method":"in-branch"},{"success":true,"bank_name":"Huntington","method":"phone"}]}}
+{"commentId":"324139","timestamp":1481089920,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"BBVA","method":"secure-message"}]}}
+{"commentId":"324210","timestamp":1481122500,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"TD Bank","method":"phone"}]}}
+{"commentId":"329746","timestamp":1482294000,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"LegacyTexas Bank","method":"0-balance"}]}}
+{"commentId":"330741","timestamp":1482538080,"extracted_data":{"closure_attempts":[{"success":false,"bank_name":"Pinnacle Bank","method":"chat"}]}}
+{"commentId":"335898","timestamp":1483976220,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"SunTrust","method":"secure-message"}]}}
+{"commentId":"336078","timestamp":1483996800,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Santander","method":"phone"}]}}
+{"commentId":"337271","timestamp":1484170260,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"LevelOne Bank","method":"unknown"},{"success":true,"bank_name":"LevelOne Bank","method":"in-branch"}]}}
+{"commentId":"337288","timestamp":1484173140,"extracted_data":{"closure_attempts":[{"success":false,"bank_name":"Fifth Third","method":"secure-message"},{"success":true,"bank_name":"Fifth Third","method":"phone"}]}}
+{"commentId":"338832","timestamp":1484421360,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Santander","method":"phone"}]}}
+{"commentId":"340777","timestamp":1484779320,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Bank & Trust","method":"phone"},{"success":false,"bank_name":"Bank & Trust","method":"phone"}]}}
+{"commentId":"340872","timestamp":1484797020,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"First National Bank of PA","method":"secure-message"}]}}
+{"commentId":"342176","timestamp":1485036600,"extracted_data":{"closure_attempts":[]}}
+{"commentId":"344258","timestamp":1485454380,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Associated Bank","method":"chat"}]}}
+{"commentId":"348167","timestamp":1486098480,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"M&T","method":"secure-message"},{"success":true,"bank_name":"BMO Harris","method":"phone"}]}}
+{"commentId":"349336","timestamp":1486418220,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"KeyBank","method":"secure-message"},{"success":true,"bank_name":"KeyBank","method":"secure-message"}]}}
+{"commentId":"350668","timestamp":1486639920,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Discover","method":"secure-message"}]}}
+{"commentId":"351877","timestamp":1486835040,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"M&T","method":"secure-message"},{"success":true,"bank_name":"M&T","method":"0-balance"}]}}
+{"commentId":"351880","timestamp":1486835280,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"SunTrust","method":"secure-message"}]}}
+{"commentId":"352472","timestamp":1486950840,"extracted_data":{"closure_attempts":[]}}
+{"commentId":"355500","timestamp":1487318700,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"BMO Harris","method":"unknown"}]}}
+{"commentId":"357051","timestamp":1487605860,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"KeyBank","method":"phone"}]}}
+{"commentId":"361729","timestamp":1488293160,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Christian Community Credit Union","method":"secure-message"},{"success":true,"bank_name":"Fifth Third","method":"phone"},{"success":true,"bank_name":"KeyBank","method":"phone"},{"success":true,"bank_name":"Chase","method":"secure-message"}]}}
+{"commentId":"362381","timestamp":1488379140,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"M&T","method":"unknown"},{"success":true,"bank_name":"City National Bank","method":"phone"}]}}
+{"commentId":"362725","timestamp":1488421680,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"TIAA Direct","method":"secure-message"}]}}
+{"commentId":"365995","timestamp":1488925500,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Discover","method":"secure-message"}]}}
+{"commentId":"367036","timestamp":1489032660,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"PNC","method":"secure-message"}]}}
+{"commentId":"368766","timestamp":1489340760,"extracted_data":{"closure_attempts":[]}}
+{"commentId":"375284","timestamp":1490238840,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"American Eagle Financial Credit Union","method":"secure-message"}]}}
+{"commentId":"375724","timestamp":1490312280,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"PNC","method":"chat"}]}}
+{"commentId":"376085","timestamp":1490368380,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Flushing Bank","method":"secure-message"}]}}
+{"commentId":"378067","timestamp":1490666460,"extracted_data":{"closure_attempts":[]}}
+{"commentId":"385548","timestamp":1491602700,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Centennial Bank and Trust","method":"phone"},{"success":true,"bank_name":"Centennial Bank and Trust","method":"0-balance"}]}}
+{"commentId":"387935","timestamp":1491947460,"extracted_data":{"closure_attempts":[{"success":false,"bank_name":"Mountain America Credit Union","method":"chat"},{"success":true,"bank_name":"Mountain America Credit Union","method":"phone"}]}}
+{"commentId":"388347","timestamp":1492009080,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Capital One 360","method":"on-platform"}]}}
+{"commentId":"388796","timestamp":1492062060,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"U.S. Bank","method":"secure-message"}]}}
+{"commentId":"390075","timestamp":1492267980,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"HSBC","method":"secure-message"}]}}
+{"commentId":"395354","timestamp":1493079000,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"HSBC","method":"secure-message"}]}}
+{"commentId":"397591","timestamp":1493395320,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Wells Fargo","method":"secure-message"}]}}
+{"commentId":"397596","timestamp":1493395800,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Discover","method":"secure-message"},{"success":true,"bank_name":"FirstBank","method":"secure-message"}]}}
+{"commentId":"398923","timestamp":1493680020,"extracted_data":{"closure_attempts":[{"success":false,"bank_name":"Flushing Bank","method":"phone"},{"success":true,"bank_name":"Flushing Bank","method":"phone"}]}}
+{"commentId":"398924","timestamp":1493680080,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Santander","method":"phone"}]}}
+{"commentId":"400111","timestamp":1493823900,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Fifth Third","method":"phone"}]}}
+{"commentId":"401241","timestamp":1493922780,"extracted_data":{"closure_attempts":[{"success":false,"bank_name":"FCB South County Bank","method":"phone"}]}}
+{"commentId":"405688","timestamp":1494635940,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"TIAA Direct","method":"secure-message"},{"success":true,"bank_name":"HSBC","method":"secure-message"},{"success":true,"bank_name":"Bancorp","method":"in-branch"}]}}
+{"commentId":"410008","timestamp":1495644480,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Citi","method":"chat"}]}}
+{"commentId":"410041","timestamp":1495648500,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"KeyBank","method":"secure-message"}]}}
+{"commentId":"410240","timestamp":1495671060,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Webster Bank","method":"secure-message"}]}}
+{"commentId":"413810","timestamp":1496438400,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"PNC","method":"chat"}]}}
+{"commentId":"414001","timestamp":1496495160,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Associated Bank","method":"chat"}]}}
+{"commentId":"416948","timestamp":1496897520,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Chase","method":"phone"}]}}
+{"commentId":"416950","timestamp":1496897760,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Pinnacle Bank","method":"in-branch"}]}}
+{"commentId":"417108","timestamp":1496933760,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Citi","method":"chat"}]}}
+{"commentId":"423265","timestamp":1497890160,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Wells Fargo","method":"in-branch"}]}}
+{"commentId":"423263","timestamp":1497890160,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Citi","method":"chat"}]}}
+{"commentId":"426302","timestamp":1498241760,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"HSBC","method":"secure-message"}]}}
+{"commentId":"427311","timestamp":1498442460,"extracted_data":{"closure_attempts":[]}}
+{"commentId":"427701","timestamp":1498502460,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Hancock Bank","method":"unknown"}]}}
+{"commentId":"428714","timestamp":1498594860,"extracted_data":{"closure_attempts":[{"success":false,"bank_name":"Chase","method":"secure-message"}]}}
+{"commentId":"435244","timestamp":1499448780,"extracted_data":{"closure_attempts":[{"success":false,"bank_name":"Pinnacle Bank","method":"secure-message"},{"success":false,"bank_name":"Pinnacle Bank","method":"chat"},{"success":true,"bank_name":"Pinnacle Bank","method":"phone"}]}}
+{"commentId":"438433","timestamp":1499891220,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"TD Bank","method":"secure-message"}]}}
+{"commentId":"440629","timestamp":1500218940,"extracted_data":{"closure_attempts":[]}}
+{"commentId":"441271","timestamp":1500310740,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Northpointe","method":"chat"}]}}
+{"commentId":"442787","timestamp":1500521640,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Bank of America","method":"phone"}]}}
+{"commentId":"445759","timestamp":1500934920,"extracted_data":{"closure_attempts":[{"success":false,"bank_name":"Fifth Third Bank","method":"secure-message"},{"success":true,"bank_name":"PNC","method":"secure-message"}]}}
+{"commentId":"447137","timestamp":1501091940,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Fifth Third","method":"secure-message"},{"success":true,"bank_name":"Regions","method":"secure-message"},{"success":true,"bank_name":"TD Bank","method":"secure-message"},{"success":true,"bank_name":"Capital One 360","method":"phone"}]}}
+{"commentId":"447716","timestamp":1501166760,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"PNC","method":"secure-message"}]}}
+{"commentId":"450089","timestamp":1501528320,"extracted_data":{"closure_attempts":[{"success":false,"bank_name":"Santander","method":"phone"}]}}
+{"commentId":"454685","timestamp":1502137680,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"BB&T","method":"secure-message"}]}}
+{"commentId":"455210","timestamp":1502208420,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Fifth Third","method":"secure-message"},{"success":true,"bank_name":"PNC","method":"chat"}]}}
+{"commentId":"459170","timestamp":1502822280,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Capital One 360","method":"chat"}]}}
+{"commentId":"459199","timestamp":1502825880,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Quorum FCU","method":"phone"}]}}
+{"commentId":"459358","timestamp":1502840880,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Radius Bank","method":"secure-message"}]}}
+{"commentId":"467256","timestamp":1503943980,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"PNC","method":"chat"},{"success":true,"bank_name":"U.S Bank","method":"phone"},{"success":true,"bank_name":"Capital One 360","method":"on-platform"},{"success":true,"bank_name":"Chime","method":"secure-message"}]}}
+{"commentId":"468358","timestamp":1504040940,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Bank of America","method":"phone"}]}}
+{"commentId":"470393","timestamp":1504360020,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"BMO Harris","method":"chat"}]}}
+{"commentId":"473418","timestamp":1504841340,"extracted_data":{"closure_attempts":[{"success":false,"bank_name":"M&T","method":"secure-message"}]}}
+{"commentId":"476382","timestamp":1505325720,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Wells Fargo","method":"secure-message"}]}}
+{"commentId":"477068","timestamp":1505422440,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Chase","method":"0-balance"},{"success":false,"bank_name":"Chase","method":"secure-message"},{"success":true,"bank_name":"Chase","method":"phone"}]}}
+{"commentId":"477661","timestamp":1505509560,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"HSBC","method":"phone"}]}}
+{"commentId":"477664","timestamp":1505509680,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Huntington","method":"chat"}]}}
+{"commentId":"480853","timestamp":1506011220,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Northwest","method":"secure-message"}]}}
+{"commentId":"481413","timestamp":1506098220,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Fifth Third","method":"0-balance"},{"success":true,"bank_name":"Fifth Third","method":"secure-message"}]}}
+{"commentId":"481550","timestamp":1506112380,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Santander","method":"phone"}]}}
+{"commentId":"482982","timestamp":1506433200,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Capital One 360","method":"chat"},{"success":true,"bank_name":"Capital One 360","method":"chat"}]}}
+{"commentId":"483133","timestamp":1506456600,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"BMO Harris","method":"chat"},{"success":true,"bank_name":"Regions Bank","method":"secure-message"},{"success":true,"bank_name":"PNC","method":"chat"},{"success":true,"bank_name":"Quorum FCU","method":"phone"}]}}
+{"commentId":"483347","timestamp":1506487680,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Chase","method":"0-balance"},{"success":true,"bank_name":"Chase","method":"secure-message"}]}}
+{"commentId":"484082","timestamp":1506617400,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Citi","method":"secure-message"}]}}
+{"commentId":"487567","timestamp":1507146780,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"BMO Harris","method":"chat"},{"success":false,"bank_name":"BMO Harris","method":"secure-message"}]}}
+{"commentId":"488073","timestamp":1507219860,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"BMO Harris","method":"chat"}]}}
+{"commentId":"488515","timestamp":1507247400,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"First Merchants Bank","method":"in-branch"},{"success":true,"bank_name":"First Merchants Bank","method":"0-balance"}]}}
+{"commentId":"489120","timestamp":1507314240,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"U.S Bank","method":"secure-message"}]}}
+{"commentId":"489124","timestamp":1507314660,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Capital One 360","method":"chat"}]}}
+{"commentId":"491543","timestamp":1507674540,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Hancock Whitney","method":"phone"}]}}
+{"commentId":"491638","timestamp":1507686900,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Capital One 360","method":"on-platform"}]}}
+{"commentId":"495566","timestamp":1508260980,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Hancock Whitney","method":"phone"},{"success":true,"bank_name":"M&T","method":"secure-message"}]}}
+{"commentId":"496050","timestamp":1508328180,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Chase Bank","method":"secure-message"},{"success":true,"bank_name":"Hancock Whitney Bank","method":"phone"}]}}
+{"commentId":"496518","timestamp":1508379960,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"PNC","method":"chat"}]}}
+{"commentId":"500030","timestamp":1508862900,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Associated Bank","method":"secure-message"}]}}
+{"commentId":"500913","timestamp":1508958240,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Associated Bank","method":"secure-message"},{"success":true,"bank_name":"Fifth Third Bank","method":"secure-message"}]}}
+{"commentId":"509008","timestamp":1509898860,"extracted_data":{"closure_attempts":[{"success":false,"bank_name":"Citizens Bank","method":"secure-message"},{"success":true,"bank_name":"Citizens Bank","method":"phone"}]}}
+{"commentId":"509010","timestamp":1509899040,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"BMO Harris","method":"chat"},{"success":false,"bank_name":"BMO Harris","method":"chat"}]}}
+{"commentId":"510467","timestamp":1510083120,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Bank of America","method":"phone"}]}}
+{"commentId":"517386","timestamp":1510886160,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"M&T","method":"secure-message"}]}}
+{"commentId":"520838","timestamp":1511288760,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"M&T","method":"secure-message"}]}}
+{"commentId":"521963","timestamp":1511385360,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Webster Bank","method":"secure-message"},{"success":true,"bank_name":"Citi","method":"secure-message"}]}}
+{"commentId":"529149","timestamp":1512272460,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Discover","method":"secure-message"},{"success":true,"bank_name":"Discover","method":"secure-message"}]}}
+{"commentId":"530815","timestamp":1512501120,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Capital One 360","method":"phone"},{"success":true,"bank_name":"Capital One 360","method":"phone"}]}}
+{"commentId":"533825","timestamp":1513012320,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"M&T","method":"secure-message"},{"success":false,"bank_name":"M&T","method":"secure-message"}]}}
+{"commentId":"533827","timestamp":1513012440,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"PNC","method":"chat"}]}}
+{"commentId":"533975","timestamp":1513031160,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"BMO Harris","method":"chat"}]}}
+{"commentId":"534087","timestamp":1513049700,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"KeyBank","method":"secure-message"}]}}
+{"commentId":"534092","timestamp":1513050660,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Santander","method":"phone"}]}}
+{"commentId":"535945","timestamp":1513362840,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"TD Bank","method":"secure-message"}]}}
+{"commentId":"537552","timestamp":1513610580,"extracted_data":{"closure_attempts":[]}}
+{"commentId":"539536","timestamp":1513871340,"extracted_data":{"closure_attempts":[{"success":false,"bank_name":"Citi","method":"chat"},{"success":false,"bank_name":"Citi","method":"secure-message"}]}}
+{"commentId":"541906","timestamp":1514397780,"extracted_data":{"closure_attempts":[{"success":false,"bank_name":"Ocean First Bank","method":"secure-message"}]}}
+{"commentId":"543219","timestamp":1514555460,"extracted_data":{"closure_attempts":[{"success":false,"bank_name":"M&T","method":"secure-message"},{"success":true,"bank_name":"M&T","method":"secure-message"}]}}
+{"commentId":"546551","timestamp":1515004860,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"BMO Harris","method":"chat"}]}}
+{"commentId":"546595","timestamp":1515011880,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Fifth Third","method":"secure-message"}]}}
+{"commentId":"547074","timestamp":1515084900,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"LegacyTexas Bank","method":"secure-message"}]}}
+{"commentId":"549530","timestamp":1515621720,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"First Tennessee","method":"secure-message"}]}}
+{"commentId":"553064","timestamp":1516636620,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"PNC","method":"chat"}]}}
+{"commentId":"553823","timestamp":1516815900,"extracted_data":{"closure_attempts":[{"success":false,"bank_name":"Bank of America","method":"chat"}]}}
+{"commentId":"554139","timestamp":1516870980,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Citi","method":"chat"}]}}
+{"commentId":"554197","timestamp":1516897680,"extracted_data":{"closure_attempts":[]}}
+{"commentId":"554725","timestamp":1517006820,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"PNC","method":"chat"}]}}
+{"commentId":"557752","timestamp":1517872560,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"BMO Harris","method":"chat"},{"success":true,"bank_name":"M&T","method":"phone"},{"success":true,"bank_name":"M&T","method":"phone"}]}}
+{"commentId":"559030","timestamp":1518146040,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Sandy Spring Bank","method":"secure-message"}]}}
+{"commentId":"559582","timestamp":1518297300,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Univest","method":"on-platform"}]}}
+{"commentId":"563672","timestamp":1519472040,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Andigo Credit Union","method":"unknown"}]}}
+{"commentId":"563758","timestamp":1519507920,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"U.S. Bank","method":"secure-message"}]}}
+{"commentId":"565366","timestamp":1519916160,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Wells Fargo","method":"0-balance"}]}}
+{"commentId":"566117","timestamp":1520027700,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"1st United Bank","method":"secure-message"}]}}
+{"commentId":"566438","timestamp":1520129580,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Union Bank","method":"unknown"},{"success":true,"bank_name":"Columbia Bank (WA, OR, ID)","method":"unknown"}]}}
+{"commentId":"566718","timestamp":1520231160,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"KeyBank","method":"secure-message"},{"success":true,"bank_name":"Santander","method":"phone"},{"success":true,"bank_name":"Huntington","method":"chat"},{"success":true,"bank_name":"PNC","method":"chat"}]}}
+{"commentId":"566719","timestamp":1520231220,"extracted_data":{"closure_attempts":[]}}
+{"commentId":"566845","timestamp":1520272140,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"M&T","method":"secure-message"}]}}
+{"commentId":"569269","timestamp":1520898660,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Huntington","method":"chat"},{"success":true,"bank_name":"Popular Community Bank","method":"secure-message"},{"success":true,"bank_name":"Northpointe","method":"on-platform"}]}}
+{"commentId":"570762","timestamp":1521172080,"extracted_data":{"closure_attempts":[{"success":false,"bank_name":"S&T Bank","method":"secure-message"}]}}
+{"commentId":"571248","timestamp":1521300240,"extracted_data":{"closure_attempts":[]}}
+{"commentId":"574238","timestamp":1522104480,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"All America Bank","method":"secure-message"}]}}
+{"commentId":"574641","timestamp":1522184400,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Pinnacle Bank","method":"phone"},{"success":false,"bank_name":"Pinnacle Bank","method":"chat"}]}}
+{"commentId":"577636","timestamp":1522856460,"extracted_data":{"closure_attempts":[{"success":false,"bank_name":"Fulton Bank","method":"secure-message"},{"success":true,"bank_name":"Fulton Bank","method":"in-branch"}]}}
+{"commentId":"577954","timestamp":1522888800,"extracted_data":{"closure_attempts":[{"success":false,"bank_name":"Capital One 360","method":"on-platform"}]}}
+{"commentId":"579359","timestamp":1523284560,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"PNC","method":"phone"}]}}
+{"commentId":"583926","timestamp":1524157860,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Northwest","method":"secure-message"}]}}
+{"commentId":"584015","timestamp":1524165180,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Popular Bank","method":"secure-message"}]}}
+{"commentId":"585831","timestamp":1524600720,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Wells Fargo","method":"0-balance"}]}}
+{"commentId":"587357","timestamp":1524850860,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"M&T Bank","method":"secure-message"}]}}
+{"commentId":"588644","timestamp":1525199400,"extracted_data":{"closure_attempts":[{"success":false,"bank_name":"Fulton Bank","method":"secure-message"},{"success":true,"bank_name":"Fulton Bank","method":"in-branch"}]}}
+{"commentId":"588661","timestamp":1525200240,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Unity Bank","method":"secure-message"}]}}
+{"commentId":"589802","timestamp":1525357500,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Bridgeview Bank","method":"phone"}]}}
+{"commentId":"590428","timestamp":1525443660,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Memory Bank","method":"0-balance"},{"success":true,"bank_name":"Memory Bank","method":"phone"}]}}
+{"commentId":"592364","timestamp":1525886280,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Wells Fargo","method":"secure-message"}]}}
+{"commentId":"592423","timestamp":1525894620,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Citi","method":"chat"}]}}
+{"commentId":"594109","timestamp":1526260200,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"TD Bank","method":"secure-message"}]}}
+{"commentId":"596781","timestamp":1526678640,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Union Bank","method":"secure-message"},{"success":true,"bank_name":"HSBC","method":"chat"},{"success":true,"bank_name":"Citi","method":"chat"}]}}
+{"commentId":"602937","timestamp":1528320300,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"LegacyTexas Bank","method":"chat"}]}}
+{"commentId":"604319","timestamp":1528742220,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Fifth Third Bank","method":"secure-message"}]}}
+{"commentId":"604390","timestamp":1528754760,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Fifth Third","method":"phone"}]}}
+{"commentId":"604570","timestamp":1528809600,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Valley National Bank","method":"secure-message"}]}}
+{"commentId":"605234","timestamp":1528920600,"extracted_data":{"closure_attempts":[{"success":false,"bank_name":"Bridgeview Bank","method":"phone"}]}}
+{"commentId":"605242","timestamp":1528921260,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"HSBC","method":"chat"}]}}
+{"commentId":"609858","timestamp":1530211680,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Memory Bank","method":"phone"}]}}
+{"commentId":"610229","timestamp":1530275520,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Northwest Bank","method":"secure-message"},{"success":false,"bank_name":"Northwest Bank","method":"chat"}]}}
+{"commentId":"611581","timestamp":1530540000,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Fifth Third","method":"secure-message"},{"success":false,"bank_name":"Fifth Third","method":"secure-message"},{"success":false,"bank_name":"Fifth Third","method":"phone"}]}}
+{"commentId":"611804","timestamp":1530568860,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Unknown Bank","method":"0-balance"}]}}
+{"commentId":"612153","timestamp":1530631140,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"E-Trade","method":"on-platform"}]}}
+{"commentId":"614279","timestamp":1530976080,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Huntington","method":"in-branch"}]}}
+{"commentId":"618593","timestamp":1531924980,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"BB&T","method":"phone"}]}}
+{"commentId":"619624","timestamp":1532105820,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Fulton Bank","method":"in-branch"},{"success":true,"bank_name":"PNC","method":"secure-message"},{"success":true,"bank_name":"Chase","method":"phone"},{"success":true,"bank_name":"Columbia Bank (NJ)","method":"unknown"},{"success":true,"bank_name":"Santander","method":"phone"}]}}
+{"commentId":"622121","timestamp":1532615220,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Chase","method":"secure-message"},{"success":true,"bank_name":"PNC","method":"secure-message"},{"success":true,"bank_name":"Bank of America","method":"phone"},{"success":true,"bank_name":"Citi","method":"chat"},{"success":true,"bank_name":"BMO Harris","method":"chat"},{"success":true,"bank_name":"Capital One 360","method":"chat"}]}}
+{"commentId":"625295","timestamp":1533156960,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"M&T","method":"secure-message"}]}}
+{"commentId":"626528","timestamp":1533316800,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"LegacyTexas Bank","method":"on-platform"}]}}
+{"commentId":"628047","timestamp":1533767400,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"PNC","method":"chat"},{"success":true,"bank_name":"Fifth Third","method":"secure-message"},{"success":false,"bank_name":"Huntington","method":"chat"},{"success":true,"bank_name":"Huntington","method":"phone"},{"success":true,"bank_name":"Hancock Whitney","method":"phone"}]}}
+{"commentId":"632401","timestamp":1534958700,"extracted_data":{"closure_attempts":[{"success":false,"bank_name":"BB&T","method":"secure-message"},{"success":true,"bank_name":"BB&T","method":"phone"},{"success":false,"bank_name":"BB&T","method":"phone"},{"success":true,"bank_name":"BB&T","method":"in-branch"}]}}
+{"commentId":"632408","timestamp":1534959480,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Lakeland Bank","method":"0-balance"}]}}
+{"commentId":"636613","timestamp":1535576220,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Bank & Trust","method":"secure-message"},{"success":true,"bank_name":"Bank & Trust","method":"phone"}]}}
+{"commentId":"638641","timestamp":1536083580,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Memory Bank","method":"chat"}]}}
+{"commentId":"639088","timestamp":1536172560,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"BMO Harris","method":"chat"}]}}
+{"commentId":"639382","timestamp":1536240780,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Hancock Whitney","method":"phone"}]}}
+{"commentId":"639460","timestamp":1536251640,"extracted_data":{"closure_attempts":[{"success":false,"bank_name":"Capital One 360","method":"on-platform"},{"success":false,"bank_name":"Capital One 360","method":"chat"}]}}
+{"commentId":"640551","timestamp":1536534720,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Incredible Bank","method":"secure-message"}]}}
+{"commentId":"641872","timestamp":1536803820,"extracted_data":{"closure_attempts":[{"success":false,"bank_name":"Huntington Bank","method":"phone"}]}}
+{"commentId":"642237","timestamp":1536869400,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Memory Bank","method":"chat"}]}}
+{"commentId":"642500","timestamp":1536884580,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Incredible Bank","method":"secure-message"}]}}
+{"commentId":"642790","timestamp":1536944640,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"M&T","method":"0-balance"},{"success":true,"bank_name":"M&T","method":"secure-message"}]}}
+{"commentId":"642952","timestamp":1536989880,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Capital One","method":"on-platform"}]}}
+{"commentId":"643632","timestamp":1537213860,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Huntington","method":"chat"}]}}
+{"commentId":"644442","timestamp":1537368480,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"BB&T","method":"phone"}]}}
+{"commentId":"645713","timestamp":1537552080,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Citi","method":"chat"}]}}
+{"commentId":"645904","timestamp":1537572000,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Old National Bank","method":"chat"}]}}
+{"commentId":"648146","timestamp":1538001600,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"M&T","method":"secure-message"}]}}
+{"commentId":"649079","timestamp":1538182080,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Old National Bank","method":"secure-message"}]}}
+{"commentId":"650765","timestamp":1538567280,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Capital One 360","method":"chat"}]}}
+{"commentId":"650766","timestamp":1538567340,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Fulton Bank","method":"in-branch"}]}}
+{"commentId":"650939","timestamp":1538595720,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Old National Bank","method":"secure-message"},{"success":true,"bank_name":"Associated Bank","method":"secure-message"},{"success":false,"bank_name":"1st Source","method":"unknown"}]}}
+{"commentId":"653588","timestamp":1538905140,"extracted_data":{"closure_attempts":[{"success":false,"bank_name":"Capital One 360","method":"on-platform"}]}}
+{"commentId":"655122","timestamp":1539172440,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"NBKC","method":"secure-message"}]}}
+{"commentId":"655125","timestamp":1539172860,"extracted_data":{"closure_attempts":[{"success":false,"bank_name":"BMT (Bryn Mawr Trust)","method":"in-branch"},{"success":false,"bank_name":"Flagstar","method":"secure-message"}]}}
+{"commentId":"655131","timestamp":1539174480,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Memory Bank","method":"secure-message"},{"success":true,"bank_name":"Memory Bank","method":"secure-message"},{"success":true,"bank_name":"Elements","method":"secure-message"}]}}
+{"commentId":"655151","timestamp":1539177420,"extracted_data":{"closure_attempts":[{"success":false,"bank_name":"Bank of America","method":"chat"},{"success":false,"bank_name":"Bank of America","method":"secure-message"}]}}
+{"commentId":"655157","timestamp":1539178680,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Memory Bank","method":"secure-message"}]}}
+{"commentId":"655173","timestamp":1539180780,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Flushing Bank","method":"secure-message"},{"success":true,"bank_name":"HSBC","method":"chat"},{"success":true,"bank_name":"TD Bank","method":"phone"},{"success":true,"bank_name":"Incredible Bank","method":"phone"},{"success":true,"bank_name":"Christian Community Credit Union","method":"phone"}]}}
+{"commentId":"655221","timestamp":1539186840,"extracted_data":{"closure_attempts":[]}}
+{"commentId":"655230","timestamp":1539189420,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Citi","method":"phone"}]}}
+{"commentId":"655316","timestamp":1539199800,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Andigo Credit Union","method":"secure-message"},{"success":true,"bank_name":"Citi","method":"secure-message"},{"success":true,"bank_name":"Chase","method":"secure-message"},{"success":true,"bank_name":"HomeStreet","method":"unknown"}]}}
+{"commentId":"655416","timestamp":1539208620,"extracted_data":{"closure_attempts":[]}}
+{"commentId":"655486","timestamp":1539216720,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Chase","method":"0-balance"}]}}
+{"commentId":"655535","timestamp":1539224400,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Fulton Bank","method":"unknown"}]}}
+{"commentId":"658529","timestamp":1539724800,"extracted_data":{"closure_attempts":[{"success":false,"bank_name":"M&T","method":"secure-message"},{"success":false,"bank_name":"M&T","method":"phone"}]}}
+{"commentId":"659090","timestamp":1539795540,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Alliant","method":"secure-message"}]}}
+{"commentId":"659095","timestamp":1539795840,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Incredible Bank","method":"secure-message"},{"success":true,"bank_name":"Memory Bank","method":"chat"},{"success":true,"bank_name":"U.S Bank","method":"phone"},{"success":true,"bank_name":"Capital One 360","method":"on-platform"},{"success":true,"bank_name":"HSBC","method":"secure-message"},{"success":true,"bank_name":"Ascend FCU","method":"phone"}]}}
+{"commentId":"660055","timestamp":1539915840,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Incredible Bank","method":"secure-message"}]}}
+{"commentId":"660334","timestamp":1539975540,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Capital One 360","method":"on-platform"}]}}
+{"commentId":"661209","timestamp":1540215360,"extracted_data":{"closure_attempts":[{"success":false,"bank_name":"Westfield Bank (MA)","method":"in-branch"}]}}
+{"commentId":"662739","timestamp":1540426320,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Santander","method":"phone"}]}}
+{"commentId":"663427","timestamp":1540560840,"extracted_data":{"closure_attempts":[{"success":false,"bank_name":"Regions Bank","method":"secure-message"},{"success":false,"bank_name":"Regions Bank","method":"in-branch"}]}}
+{"commentId":"667734","timestamp":1541383860,"extracted_data":{"closure_attempts":[]}}
+{"commentId":"668019","timestamp":1541442000,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Wells Fargo","method":"secure-message"}]}}
+{"commentId":"668445","timestamp":1541497020,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Incredible Bank","method":"secure-message"}]}}
+{"commentId":"673526","timestamp":1542321960,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Provident Bank","method":"secure-message"}]}}
+{"commentId":"674329","timestamp":1542478620,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Wells Fargo","method":"secure-message"}]}}
+{"commentId":"674441","timestamp":1542508080,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"First Tennessee","method":"secure-message"}]}}
+{"commentId":"674578","timestamp":1542558000,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Wells Fargo","method":"secure-message"}]}}
+{"commentId":"678977","timestamp":1543355220,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Bank & Trust","method":"secure-message"},{"success":true,"bank_name":"Wells Fargo","method":"secure-message"},{"success":true,"bank_name":"Bank of America","method":"phone"}]}}
+{"commentId":"679316","timestamp":1543379160,"extracted_data":{"closure_attempts":[{"success":false,"bank_name":"Huntington","method":"chat"}]}}
+{"commentId":"686987","timestamp":1544195940,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"BBVA","method":"in-branch"},{"success":true,"bank_name":"Chase","method":"secure-message"},{"success":true,"bank_name":"Chase","method":"secure-message"},{"success":true,"bank_name":"BB&T","method":"secure-message"}]}}
+{"commentId":"687843","timestamp":1544344500,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"USAA","method":"0-balance"}]}}
+{"commentId":"689442","timestamp":1544579880,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"CIT Bank","method":"secure-message"},{"success":true,"bank_name":"CIT Bank","method":"secure-message"},{"success":true,"bank_name":"CIT Bank","method":"secure-message"}]}}
+{"commentId":"689668","timestamp":1544632680,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Elements","method":"chat"}]}}
+{"commentId":"692718","timestamp":1545155100,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Capital One 360","method":"chat"}]}}
+{"commentId":"694183","timestamp":1545331020,"extracted_data":{"closure_attempts":[{"success":false,"bank_name":"Huntington","method":"chat"}]}}
+{"commentId":"695420","timestamp":1545537780,"extracted_data":{"closure_attempts":[{"success":false,"bank_name":"Flagstar","method":"secure-message"}]}}
+{"commentId":"699894","timestamp":1546547460,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Huntington","method":"chat"},{"success":true,"bank_name":"Huntington","method":"chat"}]}}
+{"commentId":"700218","timestamp":1546616340,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Memory Bank","method":"0-balance"}]}}
+{"commentId":"702369","timestamp":1546962420,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Wells Fargo","method":"secure-message"}]}}
+{"commentId":"702729","timestamp":1546991580,"extracted_data":{"closure_attempts":[{"success":false,"bank_name":"BMO","method":"secure-message"},{"success":true,"bank_name":"BMO","method":"chat"}]}}
+{"commentId":"704770","timestamp":1547260200,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"LegacyTexas Bank","method":"secure-message"}]}}
+{"commentId":"704946","timestamp":1547324040,"extracted_data":{"closure_attempts":[{"success":false,"bank_name":"Huntington","method":"chat"},{"success":false,"bank_name":"Huntington","method":"phone"}]}}
+{"commentId":"707109","timestamp":1547659260,"extracted_data":{"closure_attempts":[{"success":false,"bank_name":"Columbia Bank (WA, OR, ID)","method":"unknown"}]}}
+{"commentId":"708494","timestamp":1547853420,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Incredible Bank","method":"chat"},{"success":true,"bank_name":"Elements","method":"chat"},{"success":true,"bank_name":"Bank Of The West","method":"phone"},{"success":true,"bank_name":"Memory Bank","method":"phone"}]}}
+{"commentId":"709225","timestamp":1548042480,"extracted_data":{"closure_attempts":[{"success":false,"bank_name":"TD Bank","method":"secure-message"},{"success":false,"bank_name":"TD Bank","method":"secure-message"}]}}
+{"commentId":"709978","timestamp":1548169740,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Navy Federal Credit Union","method":"secure-message"}]}}
+{"commentId":"710633","timestamp":1548264000,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"BB&T","method":"phone"}]}}
+{"commentId":"710972","timestamp":1548296460,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Alliant Credit Union","method":"secure-message"}]}}
+{"commentId":"714838","timestamp":1548956220,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Wells Fargo","method":"secure-message"}]}}
+{"commentId":"716473","timestamp":1549238280,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"BB&T","method":"secure-message"}]}}
+{"commentId":"716754","timestamp":1549302540,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"HSBC","method":"chat"}]}}
+{"commentId":"717085","timestamp":1549334280,"extracted_data":{"closure_attempts":[{"success":false,"bank_name":"TCF Bank","method":"on-platform"}]}}
+{"commentId":"719248","timestamp":1549639620,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"M&T","method":"secure-message"}]}}
+{"commentId":"719414","timestamp":1549653600,"extracted_data":{"closure_attempts":[{"success":false,"bank_name":"Huntington","method":"phone"}]}}
+{"commentId":"719597","timestamp":1549675320,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Citi","method":"in-branch"}]}}
+{"commentId":"720495","timestamp":1549920060,"extracted_data":{"closure_attempts":[{"success":false,"bank_name":"Fifth Third","method":"unknown"}]}}
+{"commentId":"720752","timestamp":1549960320,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Chase","method":"unknown"}]}}
+{"commentId":"722713","timestamp":1550246280,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Elements","method":"secure-message"},{"success":true,"bank_name":"Unify","method":"secure-message"},{"success":false,"bank_name":"Valley National Bank","method":"secure-message"}]}}
+{"commentId":"722930","timestamp":1550263440,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Memory Bank","method":"chat"}]}}
+{"commentId":"723279","timestamp":1550334480,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Capital One","method":"chat"}]}}
+{"commentId":"723367","timestamp":1550352780,"extracted_data":{"closure_attempts":[]}}
+{"commentId":"725072","timestamp":1550731380,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Discover","method":"secure-message"}]}}
+{"commentId":"726592","timestamp":1551039540,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"PNC","method":"chat"}]}}
+{"commentId":"727447","timestamp":1551200460,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Old National Bank","method":"chat"}]}}
+{"commentId":"727452","timestamp":1551200940,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Great Lakes Credit Union","method":"secure-message"}]}}
+{"commentId":"727462","timestamp":1551202320,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Bank of America","method":"phone"}]}}
+{"commentId":"728099","timestamp":1551306720,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"BMO Harris","method":"secure-message"}]}}
+{"commentId":"729290","timestamp":1551466980,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"HSBC","method":"chat"}]}}
+{"commentId":"731420","timestamp":1551903840,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"HSBC","method":"secure-message"}]}}
+{"commentId":"733626","timestamp":1552391880,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Santander","method":"phone"}]}}
+{"commentId":"735257","timestamp":1552651860,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Elements","method":"chat"}]}}
+{"commentId":"736019","timestamp":1552778880,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"State Bank of India","method":"0-balance"},{"success":true,"bank_name":"Fremont Bank","method":"0-balance"}]}}
+{"commentId":"744455","timestamp":1554412500,"extracted_data":{"closure_attempts":[{"success":false,"bank_name":"City National Bank (WV)","method":"secure-message"},{"success":false,"bank_name":"City National Bank (WV)","method":"chat"},{"success":false,"bank_name":"City National Bank (WV)","method":"phone"}]}}
+{"commentId":"744467","timestamp":1554413700,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Mountain America Credit Union","method":"chat"},{"success":false,"bank_name":"Mountain America Credit Union","method":"secure-message"}]}}
+{"commentId":"744497","timestamp":1554415200,"extracted_data":{"closure_attempts":[{"success":false,"bank_name":"M&T","method":"secure-message"}]}}
+{"commentId":"744595","timestamp":1554425700,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"SunTrust","method":"phone"},{"success":true,"bank_name":"HSBC","method":"secure-message"}]}}
+{"commentId":"744630","timestamp":1554429420,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"U.S. Bank","method":"phone"}]}}
+{"commentId":"744770","timestamp":1554465900,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Amegy Bank","method":"0-balance"},{"success":true,"bank_name":"Amegy Bank","method":"secure-message"}]}}
+{"commentId":"744815","timestamp":1554474060,"extracted_data":{"closure_attempts":[{"success":false,"bank_name":"Dollar Bank","method":"secure-message"},{"success":false,"bank_name":"Dollar Bank","method":"unknown"}]}}
+{"commentId":"744917","timestamp":1554490260,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"TIAA Direct","method":"secure-message"}]}}
+{"commentId":"744918","timestamp":1554490620,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"unknown","method":"phone"}]}}
+{"commentId":"746353","timestamp":1554838320,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Incredible Bank","method":"chat"},{"success":true,"bank_name":"BB&T","method":"secure-message"},{"success":true,"bank_name":"Capital One 360","method":"chat"}]}}
+{"commentId":"746361","timestamp":1554838860,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"BBVA","method":"secure-message"},{"success":true,"bank_name":"BBVA","method":"secure-message"},{"success":true,"bank_name":"Wells Fargo","method":"secure-message"},{"success":true,"bank_name":"U.S Bank","method":"in-branch"},{"success":true,"bank_name":"SunTrust","method":"secure-message"},{"success":true,"bank_name":"Regions Bank","method":"in-branch"}]}}
+{"commentId":"747190","timestamp":1554985020,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"PNC","method":"chat"}]}}
+{"commentId":"747398","timestamp":1555015560,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Wells Fargo","method":"secure-message"},{"success":false,"bank_name":"Investors Bank","method":"unknown"},{"success":false,"bank_name":"Santander","method":"unknown"}]}}
+{"commentId":"749020","timestamp":1555427280,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Rockland Trust Bank","method":"chat"}]}}
+{"commentId":"749044","timestamp":1555431420,"extracted_data":{"closure_attempts":[]}}
+{"commentId":"749842","timestamp":1555591200,"extracted_data":{"closure_attempts":[{"success":false,"bank_name":"Fidelity Bank","method":"chat"},{"success":true,"bank_name":"Fidelity Bank","method":"chat"}]}}
+{"commentId":"749853","timestamp":1555593180,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"M&T","method":"secure-message"}]}}
+{"commentId":"750179","timestamp":1555681200,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Flushing Bank","method":"secure-message"}]}}
+{"commentId":"751071","timestamp":1555961700,"extracted_data":{"closure_attempts":[{"success":false,"bank_name":"Capital One 360","method":"on-platform"}]}}
+{"commentId":"751083","timestamp":1555963620,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Wells Fargo","method":"secure-message"}]}}
+{"commentId":"752660","timestamp":1556293080,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Associated Bank","method":"phone"},{"success":true,"bank_name":"Chase","method":"phone"},{"success":true,"bank_name":"Bank of America","method":"phone"},{"success":true,"bank_name":"Wells Fargo","method":"secure-message"}]}}
+{"commentId":"753271","timestamp":1556517180,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"HSBC","method":"chat"},{"success":false,"bank_name":"HSBC","method":"secure-message"}]}}
+{"commentId":"753272","timestamp":1556517660,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Union Bank & Trust","method":"secure-message"}]}}
+{"commentId":"753497","timestamp":1556566140,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"GTE Financial","method":"secure-message"}]}}
+{"commentId":"753862","timestamp":1556634480,"extracted_data":{"closure_attempts":[{"success":false,"bank_name":"Verity Credit Union","method":"secure-message"}]}}
+{"commentId":"754686","timestamp":1556741640,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"U.S Bank","method":"phone"}]}}
+{"commentId":"755292","timestamp":1556845860,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Discover","method":"secure-message"}]}}
+{"commentId":"756483","timestamp":1557188280,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Sandy Spring Bank","method":"secure-message"}]}}
+{"commentId":"758884","timestamp":1557764580,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Capital Bank","method":"secure-message"}]}}
+{"commentId":"759403","timestamp":1557864360,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Umpqua Bank","method":"secure-message"},{"success":true,"bank_name":"Umpqua Bank","method":"phone"}]}}
+{"commentId":"759726","timestamp":1557942360,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Valley National Bank","method":"secure-message"}]}}
+{"commentId":"764820","timestamp":1559173860,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"First Tennessee","method":"phone"}]}}
+{"commentId":"766103","timestamp":1559575260,"extracted_data":{"closure_attempts":[{"success":false,"bank_name":"HSBC","method":"secure-message"},{"success":false,"bank_name":"HSBC","method":"phone"},{"success":true,"bank_name":"HSBC","method":"in-branch"}]}}
+{"commentId":"767848","timestamp":1559849820,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Essex Bank","method":"in-branch"}]}}
+{"commentId":"768144","timestamp":1559910960,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"U.S Bank","method":"phone"}]}}
+{"commentId":"769097","timestamp":1560262320,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Wells Fargo","method":"secure-message"}]}}
+{"commentId":"772735","timestamp":1561076520,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Rockland Trust","method":"secure-message"}]}}
+{"commentId":"772918","timestamp":1561123800,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Cambridge Savings Bank","method":"secure-message"}]}}
+{"commentId":"773071","timestamp":1561141320,"extracted_data":{"closure_attempts":[{"success":false,"bank_name":"Bank & Trust","method":"secure-message"},{"success":true,"bank_name":"Bank & Trust","method":"in-branch"}]}}
+{"commentId":"774101","timestamp":1561414440,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Citi","method":"chat"}]}}
+{"commentId":"775037","timestamp":1561571580,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Bank of America","method":"phone"}]}}
+{"commentId":"775039","timestamp":1561571700,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Memory Bank","method":"chat"}]}}
+{"commentId":"777702","timestamp":1562109000,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Bank Of The West","method":"secure-message"}]}}
+{"commentId":"778277","timestamp":1562194260,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"BMT (Bryn Mawr Trust)","method":"in-branch"},{"success":true,"bank_name":"BMT (Bryn Mawr Trust)","method":"unknown"}]}}
+{"commentId":"780423","timestamp":1562694540,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"SunTrust","method":"chat"},{"success":true,"bank_name":"Hancock Whitney","method":"phone"}]}}
+{"commentId":"780808","timestamp":1562771460,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Great Lakes Credit Union","method":"chat"}]}}
+{"commentId":"780820","timestamp":1562773020,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Discover","method":"chat"}]}}
+{"commentId":"781296","timestamp":1562799360,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"One West Bank","method":"secure-message"}]}}
+{"commentId":"781760","timestamp":1562873160,"extracted_data":{"closure_attempts":[{"success":false,"bank_name":"BMO Harris","method":"secure-message"},{"success":true,"bank_name":"BMO Harris","method":"phone"}]}}
+{"commentId":"786860","timestamp":1563849300,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Northfield Bank","method":"in-branch"}]}}
+{"commentId":"790578","timestamp":1564409940,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Wells Fargo","method":"secure-message"}]}}
+{"commentId":"794640","timestamp":1565130000,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"HSBC","method":"chat"},{"success":false,"bank_name":"TIAA Direct","method":"secure-message"},{"success":true,"bank_name":"TIAA Direct","method":"phone"}]}}
+{"commentId":"795509","timestamp":1565281140,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"First Tennessee","method":"phone"}]}}
+{"commentId":"796904","timestamp":1565616660,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Citi","method":"chat"}]}}
+{"commentId":"797598","timestamp":1565714820,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"BB&T","method":"phone"},{"success":true,"bank_name":"BBVA","method":"in-branch"},{"success":true,"bank_name":"HSBC","method":"chat"}]}}
+{"commentId":"798471","timestamp":1565826480,"extracted_data":{"closure_attempts":[{"success":false,"bank_name":"PNC","method":"chat"},{"success":true,"bank_name":"PNC","method":"secure-message"}]}}
+{"commentId":"807182","timestamp":1567854420,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"PNC","method":"chat"}]}}
+{"commentId":"807287","timestamp":1567882560,"extracted_data":{"closure_attempts":[{"success":false,"bank_name":"Bank of America","method":"secure-message"},{"success":true,"bank_name":"Bank of America","method":"phone"}]}}
+{"commentId":"809234","timestamp":1568297280,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Wells Fargo","method":"secure-message"}]}}
+{"commentId":"811686","timestamp":1568837460,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"BMO Harris","method":"phone"}]}}
+{"commentId":"815513","timestamp":1569595860,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Citi","method":"phone"},{"success":true,"bank_name":"SunTrust","method":"secure-message"},{"success":true,"bank_name":"PNC","method":"chat"},{"success":true,"bank_name":"TD Bank","method":"secure-message"},{"success":true,"bank_name":"BB&T","method":"secure-message"},{"success":true,"bank_name":"Bank of America","method":"phone"}]}}
+{"commentId":"816900","timestamp":1569954240,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"TCF Bank","method":"phone"},{"success":true,"bank_name":"Fifth Third","method":"phone"},{"success":true,"bank_name":"SEFCU","method":"phone"},{"success":true,"bank_name":"Elements","method":"phone"}]}}
+{"commentId":"817228","timestamp":1569991380,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"BB&T","method":"secure-message"}]}}
+{"commentId":"817667","timestamp":1570056120,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Marcus By Goldman Sachs","method":"phone"}]}}
+{"commentId":"819523","timestamp":1570373580,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Regions Bank","method":"secure-message"}]}}
+{"commentId":"820481","timestamp":1570564080,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"U.S Bank","method":"phone"}]}}
+{"commentId":"821871","timestamp":1570739340,"extracted_data":{"closure_attempts":[{"success":false,"bank_name":"M&T Bank","method":"phone"},{"success":true,"bank_name":"M&T Bank","method":"secure-message"}]}}
+{"commentId":"823363","timestamp":1570816380,"extracted_data":{"closure_attempts":[{"success":false,"bank_name":"M&T","method":"phone"}]}}
+{"commentId":"826189","timestamp":1571264580,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Desert Community Bank","method":"phone"},{"success":true,"bank_name":"Orion Federal Credit Union","method":"unknown"}]}}
+{"commentId":"827129","timestamp":1571418840,"extracted_data":{"closure_attempts":[{"success":false,"bank_name":"KeyBank","method":"chat"},{"success":false,"bank_name":"KeyBank","method":"secure-message"},{"success":true,"bank_name":"KeyBank","method":"phone"}]}}
+{"commentId":"830354","timestamp":1571962320,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Bank Of The West","method":"secure-message"}]}}
+{"commentId":"830757","timestamp":1572030120,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Republic Bank","method":"secure-message"}]}}
+{"commentId":"831963","timestamp":1572314580,"extracted_data":{"closure_attempts":[{"success":false,"bank_name":"Fifth Third","method":"phone"},{"success":false,"bank_name":"Fifth Third","method":"secure-message"},{"success":true,"bank_name":"Fifth Third","method":"in-branch"}]}}
+{"commentId":"832894","timestamp":1572464640,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"M&T Bank","method":"secure-message"}]}}
+{"commentId":"833154","timestamp":1572497880,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Varo","method":"secure-message"}]}}
+{"commentId":"833201","timestamp":1572520500,"extracted_data":{"closure_attempts":[]}}
+{"commentId":"834947","timestamp":1572893760,"extracted_data":{"closure_attempts":[{"success":false,"bank_name":"Citi","method":"chat"}]}}
+{"commentId":"836664","timestamp":1573069980,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"HSBC","method":"chat"}]}}
+{"commentId":"836669","timestamp":1573070220,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Bank Of The West","method":"secure-message"}]}}
+{"commentId":"838799","timestamp":1573254900,"extracted_data":{"closure_attempts":[]}}
+{"commentId":"846366","timestamp":1574266860,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"First American Bank","method":"secure-message"}]}}
+{"commentId":"848997","timestamp":1574724420,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Simple","method":"secure-message"}]}}
+{"commentId":"849004","timestamp":1574725500,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"TCF Bank","method":"phone"}]}}
+{"commentId":"852571","timestamp":1575393780,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Chase Bank","method":"secure-message"}]}}
+{"commentId":"853085","timestamp":1575477120,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"BMO Harris","method":"phone"}]}}
+{"commentId":"853595","timestamp":1575567240,"extracted_data":{"closure_attempts":[{"success":false,"bank_name":"North Shore Bank","method":"phone"},{"success":true,"bank_name":"North Shore Bank","method":"secure-message"}]}}
+{"commentId":"856336","timestamp":1576164480,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Capital One 360","method":"chat"}]}}
+{"commentId":"868663","timestamp":1578504540,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Iberia Bank","method":"chat"}]}}
+{"commentId":"873974","timestamp":1578882540,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"BMO Harris","method":"phone"},{"success":true,"bank_name":"BMO Harris","method":"0-balance"}]}}
+{"commentId":"875256","timestamp":1578971160,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Incredible Bank","method":"0-balance"}]}}
+{"commentId":"883425","timestamp":1579622760,"extracted_data":{"closure_attempts":[{"success":false,"bank_name":"BMO Harris","method":"secure-message"},{"success":false,"bank_name":"BMO Harris","method":"chat"},{"success":false,"bank_name":"BMO Harris","method":"phone"},{"success":false,"bank_name":"BMO Harris","method":"phone"}]}}
+{"commentId":"883540","timestamp":1579629840,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"HSBC","method":"secure-message"}]}}
+{"commentId":"883725","timestamp":1579640460,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Citi","method":"phone"}]}}
+{"commentId":"884550","timestamp":1579710240,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"TCF Bank","method":"secure-message"},{"success":true,"bank_name":"TCF Bank","method":"secure-message"}]}}
+{"commentId":"886848","timestamp":1579875660,"extracted_data":{"closure_attempts":[{"success":false,"bank_name":"Wesbanco","method":"phone"}]}}
+{"commentId":"886858","timestamp":1579876440,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Cambridge Savings Bank","method":"secure-message"},{"success":true,"bank_name":"Unify","method":"secure-message"}]}}
+{"commentId":"901794","timestamp":1581100320,"extracted_data":{"closure_attempts":[{"success":false,"bank_name":"U.S Bank","method":"secure-message"},{"success":true,"bank_name":"U.S Bank","method":"phone"}]}}
+{"commentId":"905069","timestamp":1581389340,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"TCF Bank","method":"secure-message"},{"success":true,"bank_name":"Bank & Trust","method":"secure-message"}]}}
+{"commentId":"907148","timestamp":1581551340,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"American Pride Bank","method":"secure-message"},{"success":true,"bank_name":"American Pride Bank","method":"in-branch"},{"success":false,"bank_name":"American Pride Bank","method":"phone"}]}}
+{"commentId":"926650","timestamp":1583252940,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"MidFirst Bank","method":"secure-message"}]}}
+{"commentId":"927112","timestamp":1583284320,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"HSBC","method":"0-balance"}]}}
+{"commentId":"929574","timestamp":1583502300,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Citi","method":"chat"}]}}
+{"commentId":"929580","timestamp":1583502780,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"HSBC","method":"chat"}]}}
+{"commentId":"933838","timestamp":1583896380,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"KeyBank","method":"chat"}]}}
+{"commentId":"944112","timestamp":1584980160,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"CIBC USA","method":"secure-message"}]}}
+{"commentId":"944145","timestamp":1584983340,"extracted_data":{"closure_attempts":[{"success":false,"bank_name":"Hancock Whitney","method":"phone"},{"success":false,"bank_name":"Hancock Whitney","method":"phone"},{"success":true,"bank_name":"Hancock Whitney","method":"phone"}]}}
+{"commentId":"949085","timestamp":1585692600,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Hanmi Bank","method":"0-balance"}]}}
+{"commentId":"953427","timestamp":1586284140,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Orion Federal Credit Union","method":"secure-message"}]}}
+{"commentId":"954059","timestamp":1586358060,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Fremont Bank","method":"0-balance"}]}}
+{"commentId":"955522","timestamp":1586547600,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Simple Bank","method":"secure-message"},{"success":false,"bank_name":"Simple Bank","method":"secure-message"}]}}
+{"commentId":"956629","timestamp":1586804220,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Bank of America","method":"phone"}]}}
+{"commentId":"956662","timestamp":1586808720,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Fulton Bank","method":"secure-message"}]}}
+{"commentId":"956666","timestamp":1586809920,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"U.S. Bank","method":"0-balance"}]}}
+{"commentId":"957441","timestamp":1586923920,"extracted_data":{"closure_attempts":[{"success":false,"bank_name":"BMO Harris","method":"phone"}]}}
+{"commentId":"962607","timestamp":1587601740,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"PNC","method":"phone"}]}}
+{"commentId":"966882","timestamp":1588106940,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Union Bank","method":"phone"}]}}
+{"commentId":"967696","timestamp":1588201020,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"U.S Bank","method":"secure-message"}]}}
+{"commentId":"970295","timestamp":1588439580,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Discover","method":"secure-message"}]}}
+{"commentId":"970296","timestamp":1588439640,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"HSBC","method":"phone"},{"success":true,"bank_name":"UFB Direct","method":"phone"},{"success":true,"bank_name":"BB&T","method":"phone"},{"success":true,"bank_name":"Columbia Bank (NJ)","method":"in-branch"},{"success":true,"bank_name":"U.S Bank","method":"phone"},{"success":true,"bank_name":"TIAA Direct","method":"phone"},{"success":true,"bank_name":"Dollar Bank","method":"unknown"},{"success":true,"bank_name":"Provident Bank","method":"in-branch"}]}}
+{"commentId":"972589","timestamp":1588693260,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Fidelity Bank","method":"chat"}]}}
+{"commentId":"982793","timestamp":1589875140,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"CIT Bank","method":"on-platform"}]}}
+{"commentId":"983215","timestamp":1589929380,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Northpointe","method":"on-platform"}]}}
+{"commentId":"983790","timestamp":1590010620,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Liberty Bank","method":"secure-message"}]}}
+{"commentId":"984836","timestamp":1590163740,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"One American Bank","method":"secure-message"}]}}
+{"commentId":"986339","timestamp":1590435180,"extracted_data":{"closure_attempts":[{"success":false,"bank_name":"Fifth Third","method":"secure-message"}]}}
+{"commentId":"993014","timestamp":1591363200,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Iberiabank","method":"chat"}]}}
+{"commentId":"993031","timestamp":1591364880,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Northwest Federal Credit Union","method":"secure-message"}]}}
+{"commentId":"995777","timestamp":1591817280,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Old Missouri Bank","method":"secure-message"}]}}
+{"commentId":"996102","timestamp":1591856460,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"HSBC","method":"chat"}]}}
+{"commentId":"996186","timestamp":1591880940,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Discover","method":"secure-message"}]}}
+{"commentId":"998471","timestamp":1592236260,"extracted_data":{"closure_attempts":[]}}
+{"commentId":"998477","timestamp":1592236860,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Wells Fargo","method":"0-balance"}]}}
+{"commentId":"998656","timestamp":1592255280,"extracted_data":{"closure_attempts":[{"success":false,"bank_name":"PNC","method":"secure-message"},{"success":true,"bank_name":"PNC","method":"chat"}]}}
+{"commentId":"999460","timestamp":1592399460,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"U.S Bank","method":"secure-message"}]}}
+{"commentId":"1000774","timestamp":1592591040,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"TCF Bank","method":"secure-message"}]}}
+{"commentId":"1006418","timestamp":1593460260,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Bank of America","method":"phone"}]}}
+{"commentId":"1006657","timestamp":1593487140,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Citizens Bank","method":"secure-message"},{"success":true,"bank_name":"PeoplesBank","method":"unknown"}]}}
+{"commentId":"1018892","timestamp":1595127960,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Marcus By Goldman Sachs","method":"on-platform"}]}}
+{"commentId":"1020461","timestamp":1595359320,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Wells Fargo","method":"secure-message"}]}}
+{"commentId":"1021715","timestamp":1595521920,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Citizens Bank","method":"chat"}]}}
+{"commentId":"1021719","timestamp":1595522460,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Chase","method":"phone"}]}}
+{"commentId":"1022746","timestamp":1595629320,"extracted_data":{"closure_attempts":[{"success":false,"bank_name":"Wells Fargo","method":"0-balance"},{"success":false,"bank_name":"Wells Fargo","method":"secure-message"},{"success":true,"bank_name":"Wells Fargo","method":"0-balance"},{"success":true,"bank_name":"Wells Fargo","method":"in-branch"}]}}
+{"commentId":"1025378","timestamp":1595984520,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"VantageWest","method":"secure-message"}]}}
+{"commentId":"1028296","timestamp":1596406320,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Verity Credit Union","method":"chat"},{"success":true,"bank_name":"Gesa Credit Union","method":"phone"},{"success":true,"bank_name":"Wells Fargo","method":"secure-message"}]}}
+{"commentId":"1040150","timestamp":1597966200,"extracted_data":{"closure_attempts":[{"success":false,"bank_name":"East Boston Savings","method":"phone"},{"success":true,"bank_name":"East Boston Savings","method":"secure-message"}]}}
+{"commentId":"1049435","timestamp":1599342480,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"U.S Bank","method":"unknown"}]}}
+{"commentId":"1059505","timestamp":1600727040,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Huntington","method":"chat"}]}}
+{"commentId":"1060007","timestamp":1600801200,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"U.S Bank","method":"secure-message"}]}}
+{"commentId":"1061528","timestamp":1600973220,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Credit Union West","method":"secure-message"}]}}
+{"commentId":"1065297","timestamp":1601499900,"extracted_data":{"closure_attempts":[]}}
+{"commentId":"1073164","timestamp":1602733440,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Huntington","method":"0-balance"}]}}
+{"commentId":"1086062","timestamp":1604685600,"extracted_data":{"closure_attempts":[{"success":false,"bank_name":"PNC","method":"secure-message"},{"success":true,"bank_name":"PNC","method":"chat"}]}}
+{"commentId":"1088326","timestamp":1605054660,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"KeyBank","method":"chat"}]}}
+{"commentId":"1088328","timestamp":1605054720,"extracted_data":{"closure_attempts":[{"success":false,"bank_name":"OnPoint CU","method":"secure-message"},{"success":true,"bank_name":"OnPoint CU","method":"phone"}]}}
+{"commentId":"1090625","timestamp":1605307500,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"U.S Bank","method":"0-balance"}]}}
+{"commentId":"1094327","timestamp":1605821280,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"BBVA","method":"0-balance"}]}}
+{"commentId":"1105735","timestamp":1607525820,"extracted_data":{"closure_attempts":[]}}
+{"commentId":"1121297","timestamp":1609743060,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"PenFed","method":"unknown"}]}}
+{"commentId":"1123458","timestamp":1609998120,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"MidFirst Bank","method":"secure-message"}]}}
+{"commentId":"1123731","timestamp":1610050920,"extracted_data":{"closure_attempts":[{"success":false,"bank_name":"PNC","method":"secure-message"},{"success":true,"bank_name":"PNC","method":"phone"}]}}
+{"commentId":"1127538","timestamp":1610649360,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Bank of America","method":"phone"}]}}
+{"commentId":"1133462","timestamp":1611599280,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"PNC","method":"chat"}]}}
+{"commentId":"1138645","timestamp":1612367040,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Dollar Bank","method":"secure-message"}]}}
+{"commentId":"1140110","timestamp":1612536540,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Bank of America","method":"phone"},{"success":true,"bank_name":"Santander","method":"phone"},{"success":true,"bank_name":"Citizens Bank","method":"phone"},{"success":true,"bank_name":"Huntington","method":"phone"},{"success":true,"bank_name":"Fulton Bank","method":"secure-message"},{"success":true,"bank_name":"BB&T","method":"secure-message"},{"success":true,"bank_name":"Citadel Credit Union","method":"secure-message"}]}}
+{"commentId":"1142705","timestamp":1612970700,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"SunTrust","method":"chat"}]}}
+{"commentId":"1142746","timestamp":1612975080,"extracted_data":{"closure_attempts":[{"success":false,"bank_name":"Sacramento Credit Union","method":"on-platform"}]}}
+{"commentId":"1146178","timestamp":1613587860,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"U.S Bank","method":"phone"}]}}
+{"commentId":"1150665","timestamp":1614298020,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Huntington","method":"chat"},{"success":true,"bank_name":"Capital One 360","method":"phone"}]}}
+{"commentId":"1156975","timestamp":1615415400,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"USE Credit Union","method":"chat"},{"success":true,"bank_name":"Safe Credit Union","method":"chat"}]}}
+{"commentId":"1163833","timestamp":1616257020,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Rockland Trust","method":"secure-message"}]}}
+{"commentId":"1169482","timestamp":1617296160,"extracted_data":{"closure_attempts":[{"success":false,"bank_name":"Synchrony Bank","method":"secure-message"},{"success":true,"bank_name":"Synchrony Bank","method":"phone"}]}}
+{"commentId":"1172954","timestamp":1617836460,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Capital One 360","method":"phone"}]}}
+{"commentId":"1174115","timestamp":1618001400,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Capital One 360","method":"phone"}]}}
+{"commentId":"1181456","timestamp":1619152680,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Fifth Third","method":"chat"}]}}
+{"commentId":"1183903","timestamp":1619633220,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"HSBC","method":"secure-message"}]}}
+{"commentId":"1185023","timestamp":1619823300,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"U.S Bank","method":"secure-message"}]}}
+{"commentId":"1187294","timestamp":1620334440,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"South Shore Bank","method":"chat"}]}}
+{"commentId":"1205709","timestamp":1623601860,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Dollar Bank","method":"secure-message"}]}}
+{"commentId":"1206871","timestamp":1623781260,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Union Bank & Trust","method":"phone"},{"success":true,"bank_name":"Union Bank & Trust","method":"in-branch"},{"success":false,"bank_name":"Union Bank & Trust","method":"secure-message"}]}}
+{"commentId":"1207622","timestamp":1623859800,"extracted_data":{"closure_attempts":[]}}
+{"commentId":"1210251","timestamp":1624377780,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Comerica","method":"secure-message"},{"success":true,"bank_name":"Investors Bank","method":"secure-message"},{"success":true,"bank_name":"CampusUSA","method":"secure-message"}]}}
+{"commentId":"1211021","timestamp":1624493580,"extracted_data":{"closure_attempts":[{"success":false,"bank_name":"Bank of America","method":"on-platform"},{"success":false,"bank_name":"Bank of America","method":"secure-message"}]}}
+{"commentId":"1219114","timestamp":1625694900,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Chime","method":"chat"}]}}
+{"commentId":"1223352","timestamp":1626396420,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Wings Credit Union","method":"secure-message"}]}}
+{"commentId":"1228334","timestamp":1627177380,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"First Horizon Bank","method":"secure-message"},{"success":true,"bank_name":"First National Bank","method":"secure-message"},{"success":true,"bank_name":"South State Bank","method":"secure-message"}]}}
+{"commentId":"1229952","timestamp":1627443480,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Citi","method":"chat"},{"success":true,"bank_name":"Citi","method":"chat"}]}}
+{"commentId":"1232864","timestamp":1627937280,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Monifi","method":"phone"}]}}
+{"commentId":"1250474","timestamp":1631201040,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"US Bank","method":"phone"}]}}
+{"commentId":"1259156","timestamp":1632864900,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Firstrust","method":"secure-message"}]}}
+{"commentId":"1261699","timestamp":1633385280,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Santander","method":"phone"}]}}
+{"commentId":"1271261","timestamp":1634937360,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Fulton Bank","method":"secure-message"},{"success":true,"bank_name":"Santander","method":"phone"},{"success":true,"bank_name":"Chase","method":"secure-message"},{"success":true,"bank_name":"KeyBank","method":"chat"},{"success":true,"bank_name":"TD Bank","method":"secure-message"},{"success":false,"bank_name":"S&T Bank","method":"chat"},{"success":true,"bank_name":"S&T Bank","method":"phone"},{"success":true,"bank_name":"Huntington","method":"chat"},{"success":true,"bank_name":"Citizens Bank","method":"chat"},{"success":true,"bank_name":"Capital Bank","method":"phone"}]}}
+{"commentId":"1272966","timestamp":1635274980,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Monifi","method":"phone"}]}}
+{"commentId":"1277207","timestamp":1635949800,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Associated Bank","method":"chat"}]}}
+{"commentId":"1285508","timestamp":1637263500,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Regions Bank","method":"chat"}]}}
+{"commentId":"1288483","timestamp":1637784060,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Citi","method":"chat"}]}}
+{"commentId":"1292576","timestamp":1638341100,"extracted_data":{"closure_attempts":[{"success":false,"bank_name":"SunTrust","method":"unknown"}]}}
+{"commentId":"1293059","timestamp":1638398040,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Porte Bank","method":"phone"}]}}
+{"commentId":"1293529","timestamp":1638461580,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Kabbage","method":"phone"}]}}
+{"commentId":"1304539","timestamp":1640366880,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Citi","method":"on-platform"},{"success":true,"bank_name":"Citi","method":"phone"}]}}
+{"commentId":"1307323","timestamp":1640980020,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Quontic","method":"secure-message"},{"success":true,"bank_name":"Wintrust","method":"secure-message"},{"success":true,"bank_name":"Lili","method":"secure-message"},{"success":false,"bank_name":"Star One","method":"unknown"}]}}
+{"commentId":"1309518","timestamp":1641397200,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"BMO Harris","method":"phone"}]}}
+{"commentId":"1322067","timestamp":1643312340,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Bank of America","method":"chat"}]}}
+{"commentId":"1338888","timestamp":1645755360,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Fifth Third","method":"chat"}]}}
+{"commentId":"1345497","timestamp":1646888700,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"First Commonwealth FCU","method":"secure-message"}]}}
+{"commentId":"1363511","timestamp":1649852280,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"First National Bank of PA","method":"chat"}]}}
+{"commentId":"1369433","timestamp":1650404160,"extracted_data":{"closure_attempts":[{"success":false,"bank_name":"SkyOne Federal Credit Union","method":"secure-message"},{"success":true,"bank_name":"SkyOne Federal Credit Union","method":"phone"}]}}
+{"commentId":"1373369","timestamp":1651152480,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Fidelity","method":"chat"}]}}
+{"commentId":"1373930","timestamp":1651247100,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Citizens Bank","method":"chat"}]}}
+{"commentId":"1376570","timestamp":1651768920,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Investors Bank","method":"secure-message"},{"success":true,"bank_name":"Kabbage Business","method":"phone"},{"success":true,"bank_name":"Bank of America","method":"phone"}]}}
+{"commentId":"1376670","timestamp":1651780680,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Bank of America","method":"chat"}]}}
+{"commentId":"1380601","timestamp":1652454600,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Marcus By Goldman Sachs","method":"on-platform"}]}}
+{"commentId":"1383622","timestamp":1653060360,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Fifth Third","method":"chat"}]}}
+{"commentId":"1384038","timestamp":1653162960,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Wells Fargo","method":"on-platform"}]}}
+{"commentId":"1385456","timestamp":1653527220,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Personal Capital Cash","method":"secure-message"}]}}
+{"commentId":"1392727","timestamp":1654744500,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"PNC","method":"secure-message"}]}}
+{"commentId":"1395437","timestamp":1655238780,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"ECCU","method":"phone"}]}}
+{"commentId":"1397596","timestamp":1655600760,"extracted_data":{"closure_attempts":[]}}
+{"commentId":"1416158","timestamp":1659019200,"extracted_data":{"closure_attempts":[{"success":false,"bank_name":"Bank of America","method":"chat"},{"success":true,"bank_name":"Bank of America","method":"phone"}]}}
+{"commentId":"1419496","timestamp":1659561360,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Premier Bank","method":"phone"},{"success":true,"bank_name":"TBK Bank","method":"phone"}]}}
+{"commentId":"1420545","timestamp":1659720780,"extracted_data":{"closure_attempts":[{"success":false,"bank_name":"Lake Michigan Credit Union","method":"secure-message"}]}}
+{"commentId":"1420577","timestamp":1659723900,"extracted_data":{"closure_attempts":[{"success":false,"bank_name":"ETFCU (Evansville Teachers)","method":"chat"},{"success":true,"bank_name":"ETFCU (Evansville Teachers)","method":"phone"}]}}
+{"commentId":"1425492","timestamp":1660577100,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"TD Bank","method":"secure-message"}]}}
+{"commentId":"1434590","timestamp":1661861880,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Wells Fargo","method":"phone"},{"success":true,"bank_name":"South State Bank","method":"secure-message"},{"success":false,"bank_name":"South State Bank","method":"phone"}]}}
+{"commentId":"1448873","timestamp":1663698540,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Citizens Bank","method":"chat"}]}}
+{"commentId":"1450980","timestamp":1663940880,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Citi","method":"chat"}]}}
+{"commentId":"1458104","timestamp":1664893680,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"U.S. Bank","method":"0-balance"}]}}
+{"commentId":"1467395","timestamp":1666030740,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Citizens Bank","method":"chat"}]}}
+{"commentId":"1468581","timestamp":1666158060,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Bank of America","method":"in-branch"}]}}
+{"commentId":"1471242","timestamp":1666557780,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Wells Fargo","method":"phone"},{"success":true,"bank_name":"Wells Fargo","method":"in-branch"},{"success":false,"bank_name":"Wells Fargo","method":"chat"},{"success":false,"bank_name":"Wells Fargo","method":"secure-message"}]}}
+{"commentId":"1473872","timestamp":1666875900,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"HomeTrust Bank","method":"phone"}]}}
+{"commentId":"1479454","timestamp":1667529600,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Chase","method":"secure-message"}]}}
+{"commentId":"1480680","timestamp":1667677320,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Varo Bank","method":"chat"}]}}
+{"commentId":"1484469","timestamp":1668027780,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Chase","method":"secure-message"}]}}
+{"commentId":"1484703","timestamp":1668049080,"extracted_data":{"closure_attempts":[{"success":false,"bank_name":"Bank of America","method":"chat"},{"success":true,"bank_name":"Bank of America","method":"phone"}]}}
+{"commentId":"1498984","timestamp":1669848780,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"PNC","method":"chat"}]}}
+{"commentId":"1522682","timestamp":1672439220,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"U.S. Bank","method":"chat"}]}}
+{"commentId":"1523304","timestamp":1672531860,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"HSBC","method":"chat"},{"success":true,"bank_name":"Teachers Federal Credit Union","method":"unknown"}]}}
+{"commentId":"1535155","timestamp":1673897640,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"KeyBank","method":"chat"}]}}
+{"commentId":"1535732","timestamp":1673973660,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"PNC","method":"chat"},{"success":true,"bank_name":"U.S. Bank","method":"phone"}]}}
+{"commentId":"1542650","timestamp":1674765540,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Wells Fargo","method":"phone"}]}}
+{"commentId":"1543287","timestamp":1674842160,"extracted_data":{"closure_attempts":[{"success":false,"bank_name":"Citi","method":"chat"}]}}
+{"commentId":"1553353","timestamp":1675967100,"extracted_data":{"closure_attempts":[{"success":false,"bank_name":"Bank of America","method":"chat"}]}}
+{"commentId":"1561527","timestamp":1677081000,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Fifth Third","method":"secure-message"}]}}
+{"commentId":"1571552","timestamp":1678304640,"extracted_data":{"closure_attempts":[{"success":false,"bank_name":"Capital One 360","method":"on-platform"},{"success":false,"bank_name":"Capital One 360","method":"chat"}]}}
+{"commentId":"1589832","timestamp":1680375060,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"AXOS Bank","method":"chat"}]}}
+{"commentId":"1599028","timestamp":1681675560,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Capital One","method":"phone"},{"success":false,"bank_name":"Capital One","method":"chat"}]}}
+{"commentId":"1601966","timestamp":1681937160,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"PNC","method":"chat"}]}}
+{"commentId":"1605086","timestamp":1682358420,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"U.S Bank","method":"chat"}]}}
+{"commentId":"1605119","timestamp":1682360580,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Huntington","method":"phone"},{"success":true,"bank_name":"Citi","method":"phone"}]}}
+{"commentId":"1615838","timestamp":1683741300,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Fairwinds Credit Union","method":"on-platform"}]}}
+{"commentId":"1617207","timestamp":1683921120,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Citizens","method":"chat"},{"success":true,"bank_name":"Huntington","method":"chat"}]}}
+{"commentId":"1619504","timestamp":1684334220,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"PNC","method":"chat"}]}}
+{"commentId":"1623801","timestamp":1685038500,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Regions Bank","method":"chat"}]}}
+{"commentId":"1631632","timestamp":1686326400,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Chase","method":"secure-message"},{"success":true,"bank_name":"Wells Fargo","method":"on-platform"},{"success":true,"bank_name":"Citadel Credit Union","method":"secure-message"},{"success":true,"bank_name":"Fulton Bank","method":"secure-message"},{"success":true,"bank_name":"KeyBank","method":"chat"},{"success":true,"bank_name":"KeyPoint","method":"chat"},{"success":true,"bank_name":"Go2Bank","method":"on-platform"},{"success":true,"bank_name":"Huntington","method":"chat"},{"success":true,"bank_name":"TD Bank","method":"secure-message"},{"success":true,"bank_name":"Citizens Bank","method":"chat"},{"success":true,"bank_name":"First National Bank","method":"chat"},{"success":true,"bank_name":"Jovia","method":"secure-message"}]}}
+{"commentId":"1633146","timestamp":1686585720,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"CIBM","method":"0-balance"}]}}
+{"commentId":"1671081","timestamp":1691866560,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Fidelity","method":"on-platform"}]}}
+{"commentId":"1674887","timestamp":1692390180,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"U.S Bank","method":"chat"}]}}
+{"commentId":"1677447","timestamp":1692721500,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Huntington Bank","method":"chat"}]}}
+{"commentId":"1679103","timestamp":1692891720,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"PSECU","method":"phone"},{"success":true,"bank_name":"PSECU","method":"unknown"}]}}
+{"commentId":"1683777","timestamp":1693521000,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Truist","method":"chat"}]}}
+{"commentId":"1696471","timestamp":1695046200,"extracted_data":{"closure_attempts":[{"success":false,"bank_name":"Bank of America","method":"chat"}]}}
+{"commentId":"1696860","timestamp":1695071880,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Fifth Third","method":"chat"}]}}
+{"commentId":"1698818","timestamp":1695260700,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Citi","method":"phone"}]}}
+{"commentId":"1704981","timestamp":1695942300,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Seacoast Bank","method":"phone"},{"success":true,"bank_name":"Synovus Bank","method":"phone"}]}}
+{"commentId":"1718693","timestamp":1697736120,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"PNC","method":"chat"}]}}
+{"commentId":"1745281","timestamp":1700959740,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Albert Neobank","method":"phone"}]}}
+{"commentId":"1754061","timestamp":1702045620,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"USAA","method":"on-platform"}]}}
+{"commentId":"1755372","timestamp":1702231200,"extracted_data":{"closure_attempts":[{"success":false,"bank_name":"VyStar","method":"chat"},{"success":true,"bank_name":"Spruce","method":"phone"},{"success":true,"bank_name":"Andrews FCU","method":"secure-message"},{"success":true,"bank_name":"Fifth Third","method":"secure-message"},{"success":true,"bank_name":"Associated","method":"secure-message"}]}}
+{"commentId":"1757474","timestamp":1702480500,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Banner Bank","method":"chat"}]}}
+{"commentId":"1762148","timestamp":1703103780,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Santander","method":"phone"}]}}
+{"commentId":"1762194","timestamp":1703106960,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Northwest Bank","method":"secure-message"},{"success":true,"bank_name":"Citizens Bank","method":"chat"},{"success":true,"bank_name":"USAlliance","method":"chat"},{"success":true,"bank_name":"Santander","method":"phone"}]}}
+{"commentId":"1762705","timestamp":1703178060,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"AmEx","method":"chat"},{"success":true,"bank_name":"First Commonwealth FCU","method":"secure-message"}]}}
+{"commentId":"1763387","timestamp":1703262240,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"BMO Harris","method":"chat"}]}}
+{"commentId":"1766435","timestamp":1703781180,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Citizens Bank","method":"chat"}]}}
+{"commentId":"1767028","timestamp":1703868780,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Discover","method":"secure-message"},{"success":true,"bank_name":"Alliant","method":"secure-message"}]}}
+{"commentId":"1776503","timestamp":1705077960,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Go2Bank","method":"chat"}]}}
+{"commentId":"1779223","timestamp":1705450380,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Chase","method":"secure-message"}]}}
+{"commentId":"1785738","timestamp":1706215200,"extracted_data":{"closure_attempts":[]}}
+{"commentId":"1786741","timestamp":1706370420,"extracted_data":{"closure_attempts":[{"success":false,"bank_name":"Educational Systems FCU","method":"unknown"},{"success":true,"bank_name":"Educational Systems FCU","method":"phone"}]}}
+{"commentId":"1788843","timestamp":1706641320,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"NYCB Family Of Banks","method":"secure-message"}]}}
+{"commentId":"1790264","timestamp":1706777940,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Service Credit Union","method":"chat"}]}}
+{"commentId":"1794142","timestamp":1707277680,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Travis Credit Union","method":"secure-message"}]}}
+{"commentId":"1794910","timestamp":1707407160,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Chase","method":"secure-message"}]}}
+{"commentId":"1801309","timestamp":1708576500,"extracted_data":{"closure_attempts":[{"success":false,"bank_name":"Chase","method":"secure-message"}]}}
+{"commentId":"1811885","timestamp":1710176280,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Wells Fargo","method":"chat"}]}}
+{"commentId":"1813234","timestamp":1710365760,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Midland States Bank","method":"secure-message"}]}}
+{"commentId":"1816772","timestamp":1710896280,"extracted_data":{"closure_attempts":[{"success":false,"bank_name":"Citi Bank","method":"chat"}]}}
+{"commentId":"1817215","timestamp":1710960120,"extracted_data":{"closure_attempts":[{"success":false,"bank_name":"Citi","method":"chat"},{"success":true,"bank_name":"Citi","method":"phone"}]}}
+{"commentId":"1817935","timestamp":1711051800,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"KeyPoint","method":"chat"}]}}
+{"commentId":"1819999","timestamp":1711473420,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"U.S Bank","method":"chat"}]}}
+{"commentId":"1823789","timestamp":1711984140,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Midland States Bank","method":"secure-message"}]}}
+{"commentId":"1828864","timestamp":1712767260,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Huntington","method":"phone"}]}}
+{"commentId":"1828931","timestamp":1712773500,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Laurel Road","method":"chat"}]}}
+{"commentId":"1831319","timestamp":1713215880,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Bank of America","method":"phone"},{"success":true,"bank_name":"Discover","method":"phone"},{"success":true,"bank_name":"Citi","method":"phone"},{"success":true,"bank_name":"Wells Fargo","method":"phone"},{"success":true,"bank_name":"TD Bank","method":"phone"},{"success":true,"bank_name":"Citizens Bank","method":"phone"},{"success":true,"bank_name":"M&T","method":"phone"},{"success":true,"bank_name":"Santander","method":"phone"},{"success":true,"bank_name":"BMO Harris","method":"phone"},{"success":true,"bank_name":"NYCB Family Of Banks","method":"in-branch"}]}}
+{"commentId":"1838883","timestamp":1714662600,"extracted_data":{"closure_attempts":[]}}
+{"commentId":"1840312","timestamp":1714921620,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"BluPeak Credit Union","method":"secure-message"}]}}
+{"commentId":"1843744","timestamp":1715547900,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Valley National Bank","method":"secure-message"}]}}
+{"commentId":"1849364","timestamp":1716518160,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Wells Fargo","method":"phone"},{"success":false,"bank_name":"Wells Fargo","method":"on-platform"}]}}
+{"commentId":"1852204","timestamp":1717091760,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Huntington","method":"chat"}]}}
+{"commentId":"1862305","timestamp":1718905800,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"SouthState","method":"chat"}]}}
+{"commentId":"1862885","timestamp":1718993940,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Wells Fargo","method":"on-platform"}]}}
+{"commentId":"1866020","timestamp":1719595320,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Wells Fargo","method":"on-platform"}]}}
+{"commentId":"1870118","timestamp":1720205880,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"USAA","method":"on-platform"}]}}
+{"commentId":"1870362","timestamp":1720270140,"extracted_data":{"closure_attempts":[]}}
+{"commentId":"1875061","timestamp":1721066820,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"PenFed","method":"chat"}]}}
+{"commentId":"1878629","timestamp":1721495580,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Ally","method":"secure-message"},{"success":true,"bank_name":"Discover","method":"secure-message"},{"success":true,"bank_name":"Truist","method":"in-branch"},{"success":true,"bank_name":"Capital One 360","method":"phone"},{"success":true,"bank_name":"Fifth Third","method":"phone"},{"success":true,"bank_name":"Wells Fargo","method":"0-balance"}]}}
+{"commentId":"1879796","timestamp":1721687760,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"BMO Harris","method":"0-balance"},{"success":false,"bank_name":"BMO Harris","method":"chat"}]}}
+{"commentId":"1880921","timestamp":1721785920,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Northwest","method":"secure-message"}]}}
+{"commentId":"1883457","timestamp":1722158040,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Fifth Third","method":"in-branch"}]}}
+{"commentId":"1893428","timestamp":1723743480,"extracted_data":{"closure_attempts":[]}}
+{"commentId":"1893542","timestamp":1723753740,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Axos Bank","method":"chat"}]}}
+{"commentId":"1898165","timestamp":1724434320,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Wells Fargo","method":"on-platform"}]}}
+{"commentId":"1898194","timestamp":1724437680,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Service Credit Union","method":"chat"}]}}
+{"commentId":"1899614","timestamp":1724692740,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Truist","method":"chat"}]}}
+{"commentId":"1901678","timestamp":1724946360,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Premier Bank (OH)","method":"secure-message"}]}}
+{"commentId":"1903003","timestamp":1725128160,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Northwest Federal Credit Union","method":"secure-message"}]}}
+{"commentId":"1907010","timestamp":1725742200,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Suffolk Credit Union","method":"secure-message"}]}}
+{"commentId":"1910048","timestamp":1726112400,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Wells Fargo","method":"on-platform"}]}}
+{"commentId":"1915970","timestamp":1726848720,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Huntington Bank","method":"chat"},{"success":true,"bank_name":"Huntington Bank","method":"in-branch"}]}}
+{"commentId":"1924499","timestamp":1727974020,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"BMO Harris","method":"chat"}]}}
+{"commentId":"1927377","timestamp":1728323520,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Citi","method":"chat"},{"success":false,"bank_name":"Citi","method":"chat"}]}}
+{"commentId":"1936884","timestamp":1729694460,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"U.S Bank","method":"chat"}]}}
+{"commentId":"1937936","timestamp":1729810080,"extracted_data":{"closure_attempts":[{"success":false,"bank_name":"Capital One 360","method":"chat"},{"success":true,"bank_name":"Capital One 360","method":"phone"}]}}
+{"commentId":"1945083","timestamp":1730840340,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Wells Fargo","method":"chat"}]}}
+{"commentId":"1945253","timestamp":1730856840,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"US Bank","method":"chat"}]}}
+{"commentId":"1956143","timestamp":1732198800,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Citi","method":"phone"},{"success":false,"bank_name":"Citi","method":"chat"}]}}
+{"commentId":"1956156","timestamp":1732200600,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Bank of America","method":"phone"},{"success":false,"bank_name":"Bank of America","method":"chat"}]}}
+{"commentId":"1963191","timestamp":1733237940,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"SoFi","method":"on-platform"}]}}
+{"commentId":"1966578","timestamp":1733701260,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Citi","method":"chat"}]}}
+{"commentId":"1968811","timestamp":1734034920,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Huntington","method":"chat"}]}}
+{"commentId":"1975564","timestamp":1735343940,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Citi","method":"chat"},{"success":true,"bank_name":"Citi","method":"chat"}]}}
+{"commentId":"1978019","timestamp":1735854900,"extracted_data":{"closure_attempts":[{"success":false,"bank_name":"US Bank","method":"unknown"}]}}
+{"commentId":"1978674","timestamp":1735946280,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Citi","method":"phone"}]}}
+{"commentId":"1980566","timestamp":1736268480,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Wings Credit Union","method":"chat"}]}}
+{"commentId":"1980795","timestamp":1736284980,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"First Horizon","method":"secure-message"}]}}
+{"commentId":"1981738","timestamp":1736388840,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Discover","method":"secure-message"},{"success":true,"bank_name":"Axos Bank","method":"secure-message"},{"success":true,"bank_name":"Chime","method":"chat"}]}}
+{"commentId":"1982750","timestamp":1736523780,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Santander","method":"phone"},{"success":true,"bank_name":"KeyBank","method":"chat"},{"success":false,"bank_name":"Capital One","method":"chat"},{"success":true,"bank_name":"Capital One","method":"phone"}]}}
+{"commentId":"1982801","timestamp":1736527620,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"American Express","method":"chat"},{"success":true,"bank_name":"PNC","method":"chat"}]}}
+{"commentId":"1983155","timestamp":1736565900,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Valley National Bank","method":"secure-message"}]}}
+{"commentId":"1983817","timestamp":1736714220,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Axos","method":"chat"}]}}
+{"commentId":"1984861","timestamp":1736867040,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Upgrade","method":"chat"}]}}
+{"commentId":"1985605","timestamp":1736954520,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Fifth Third","method":"phone"},{"success":true,"bank_name":"Fifth Third","method":"in-branch"}]}}
+{"commentId":"1989459","timestamp":1737504480,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Truist","method":"in-branch"}]}}
+{"commentId":"1990225","timestamp":1737642000,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"PenFed","method":"chat"}]}}
+{"commentId":"1995049","timestamp":1738368780,"extracted_data":{"closure_attempts":[{"success":false,"bank_name":"Santander","method":"phone"}]}}
+{"commentId":"1999668","timestamp":1738891080,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Marcus By Goldman Sachs","method":"on-platform"}]}}
+{"commentId":"2000569","timestamp":1739024820,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"UFB Direct","method":"secure-message"}]}}
+{"commentId":"2001657","timestamp":1739216580,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Wings Credit Union","method":"chat"}]}}
+{"commentId":"2005024","timestamp":1739636460,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Bank of America","method":"phone"}]}}
+{"commentId":"2025581","timestamp":1742325180,"extracted_data":{"closure_attempts":[{"success":false,"bank_name":"Citi","method":"chat"},{"success":true,"bank_name":"Citi","method":"phone"}]}}
+{"commentId":"2030332","timestamp":1742855520,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"U.S Bank","method":"chat"}]}}
+{"commentId":"2030648","timestamp":1742909100,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Huntington","method":"phone"}]}}
+{"commentId":"2031187","timestamp":1742943480,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"People Driven Credit Union","method":"secure-message"}]}}
+{"commentId":"2037377","timestamp":1743703680,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"U.S Bank","method":"chat"}]}}
+{"commentId":"2037392","timestamp":1743704580,"extracted_data":{"closure_attempts":[{"success":false,"bank_name":"Truist","method":"secure-message"},{"success":true,"bank_name":"Truist","method":"phone"}]}}
+{"commentId":"2037780","timestamp":1743735420,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Axos Bank","method":"secure-message"}]}}
+{"commentId":"2040231","timestamp":1744118160,"extracted_data":{"closure_attempts":[{"success":false,"bank_name":"Truist","method":"chat"},{"success":true,"bank_name":"Truist","method":"phone"}]}}
+{"commentId":"2040503","timestamp":1744136580,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Chase","method":"unknown"}]}}
+{"commentId":"2044442","timestamp":1744749420,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"OnePay","method":"chat"}]}}
+{"commentId":"2045057","timestamp":1744835100,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Capital One","method":"phone"},{"success":true,"bank_name":"U.S Bank","method":"phone"},{"success":true,"bank_name":"Chase","method":"secure-message"},{"success":true,"bank_name":"Chase","method":"secure-message"},{"success":true,"bank_name":"Bank of America","method":"phone"}]}}
+{"commentId":"2045606","timestamp":1744911420,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Bask Bank","method":"0-balance"}]}}
+{"commentId":"2046592","timestamp":1745074800,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Upgrade","method":"chat"}]}}
+{"commentId":"2047917","timestamp":1745331360,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"U.S Bank","method":"chat"}]}}
+{"commentId":"2049392","timestamp":1745524500,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Wells Fargo","method":"on-platform"}]}}
+{"commentId":"2055848","timestamp":1746548460,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Community Financial Credit Union","method":"chat"}]}}
+{"commentId":"2057605","timestamp":1746733440,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"BMO Harris","method":"chat"},{"success":false,"bank_name":"BMO Harris","method":"chat"}]}}
+{"commentId":"2060472","timestamp":1747174260,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Citi","method":"chat"},{"success":false,"bank_name":"Citi","method":"phone"}]}}
+{"commentId":"2065470","timestamp":1747870440,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Marcus By Goldman Sachs","method":"on-platform"}]}}
+{"commentId":"2067677","timestamp":1748274900,"extracted_data":{"closure_attempts":[{"success":false,"bank_name":"U.S Bank","method":"on-platform"},{"success":false,"bank_name":"U.S Bank","method":"on-platform"},{"success":true,"bank_name":"U.S Bank","method":"chat"}]}}
+{"commentId":"2071427","timestamp":1748929020,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Laurel Road","method":"chat"}]}}
+{"commentId":"2071660","timestamp":1748976000,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Flagstar Bank","method":"in-branch"}]}}
+{"commentId":"2075170","timestamp":1749562620,"extracted_data":{"closure_attempts":[{"success":false,"bank_name":"Bank of America","method":"secure-message"}]}}
+{"commentId":"2077715","timestamp":1749865440,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"U.S Bank","method":"phone"}]}}
+{"commentId":"2086239","timestamp":1750863000,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"BMO Harris","method":"chat"}]}}
+{"commentId":"2087096","timestamp":1750946280,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Chartway CU","method":"secure-message"}]}}
+{"commentId":"2087725","timestamp":1751033280,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"U.S Bank","method":"phone"}]}}
+{"commentId":"2090763","timestamp":1751462580,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Fifth Third","method":"phone"}]}}
+{"commentId":"2096932","timestamp":1752243660,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Wells Fargo","method":"on-platform"},{"success":true,"bank_name":"Bank of America","method":"phone"},{"success":true,"bank_name":"BMO Harris","method":"phone"},{"success":true,"bank_name":"Citizens Bank","method":"chat"}]}}
+{"commentId":"2099722","timestamp":1752598080,"extracted_data":{"closure_attempts":[]}}
+{"commentId":"2100467","timestamp":1752679260,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Truist","method":"chat"}]}}
+{"commentId":"2105520","timestamp":1753379400,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Wells Fargo","method":"on-platform"},{"success":true,"bank_name":"Wells Fargo","method":"on-platform"}]}}
+{"commentId":"2105621","timestamp":1753386600,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Truist","method":"0-balance"}]}}
+{"commentId":"2106075","timestamp":1753462980,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"KeyPoint","method":"chat"}]}}
+{"commentId":"2106122","timestamp":1753468740,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"BMO Harris","method":"chat"}]}}
+{"commentId":"2108739","timestamp":1753887720,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"MidFlorida CU","method":"phone"}]}}
+{"commentId":"2108990","timestamp":1753905240,"extracted_data":{"closure_attempts":[{"success":false,"bank_name":"Dedham savings bank","method":"in-branch"}]}}
+{"commentId":"2111278","timestamp":1754176440,"extracted_data":{"closure_attempts":[]}}
+{"commentId":"2112073","timestamp":1754330340,"extracted_data":{"closure_attempts":[{"success":false,"bank_name":"Citi","method":"chat"},{"success":true,"bank_name":"Citi","method":"phone"}]}}
+{"commentId":"2112170","timestamp":1754339220,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Wells Fargo","method":"phone"},{"success":true,"bank_name":"Citi","method":"chat"}]}}
+{"commentId":"2112193","timestamp":1754341500,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Citizens Bank","method":"chat"},{"success":true,"bank_name":"Chase","method":"phone"}]}}
+{"commentId":"2112314","timestamp":1754355720,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"BMO Harris","method":"chat"}]}}
+{"commentId":"2112317","timestamp":1754355960,"extracted_data":{"closure_attempts":[]}}
+{"commentId":"2112330","timestamp":1754357160,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"BluPeak CU","method":"secure-message"}]}}
+{"commentId":"2112355","timestamp":1754358960,"extracted_data":{"closure_attempts":[]}}
+{"commentId":"2112405","timestamp":1754363640,"extracted_data":{"closure_attempts":[{"success":false,"bank_name":"BMO Harris","method":"secure-message"},{"success":true,"bank_name":"BMO Harris","method":"chat"}]}}
+{"commentId":"2112408","timestamp":1754364120,"extracted_data":{"closure_attempts":[]}}
+{"commentId":"2112658","timestamp":1754411640,"extracted_data":{"closure_attempts":[]}}
+{"commentId":"2112660","timestamp":1754412120,"extracted_data":{"closure_attempts":[{"success":false,"bank_name":"Wings Credit Union","method":"secure-message"}]}}
+{"commentId":"2112713","timestamp":1754417100,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"U.S. Bank","method":"chat"}]}}
+{"commentId":"2112936","timestamp":1754433240,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Chime","method":"on-platform"},{"success":true,"bank_name":"Discover","method":"secure-message"},{"success":true,"bank_name":"Alliant","method":"chat"},{"success":true,"bank_name":"OnePay","method":"chat"}]}}
+{"commentId":"2113274","timestamp":1754481480,"extracted_data":{"closure_attempts":[{"success":false,"bank_name":"Orion Federal Credit Union","method":"phone"},{"success":true,"bank_name":"Orion Federal Credit Union","method":"unknown"}]}}
+{"commentId":"2113276","timestamp":1754481660,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Hanscom FCU","method":"secure-message"}]}}
+{"commentId":"2113472","timestamp":1754501280,"extracted_data":{"closure_attempts":[]}}
+{"commentId":"2113995","timestamp":1754578380,"extracted_data":{"closure_attempts":[{"success":false,"bank_name":"Capital One 360","method":"on-platform"},{"success":false,"bank_name":"Capital One 360","method":"chat"}]}}
+{"commentId":"2114982","timestamp":1754688960,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Trustco Bank","method":"0-balance"}]}}
+{"commentId":"2115055","timestamp":1754692140,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Penfed","method":"chat"}]}}
+{"commentId":"2117414","timestamp":1755009420,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Bank of America","method":"phone"},{"success":true,"bank_name":"Wells Fargo","method":"on-platform"}]}}
+{"commentId":"2118825","timestamp":1755127020,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Chase","method":"secure-message"}]}}
+{"commentId":"2119289","timestamp":1755188700,"extracted_data":{"closure_attempts":[]}}
+{"commentId":"2120503","timestamp":1755292500,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Bank of Hope","method":"phone"}]}}
+{"commentId":"2120888","timestamp":1755354540,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"U.S Bank","method":"phone"}]}}
+{"commentId":"2124156","timestamp":1755693840,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Laurel Road","method":"chat"}]}}
+{"commentId":"2124338","timestamp":1755706800,"extracted_data":{"closure_attempts":[{"success":false,"bank_name":"Bank of America","method":"on-platform"},{"success":false,"bank_name":"Bank of America","method":"chat"}]}}
+{"commentId":"2131600","timestamp":1756505700,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Schwab","method":"chat"}]}}
+{"commentId":"2132298","timestamp":1756589760,"extracted_data":{"closure_attempts":[{"success":false,"bank_name":"Wells Fargo","method":"secure-message"}]}}
+{"commentId":"2136477","timestamp":1757045040,"extracted_data":{"closure_attempts":[{"success":false,"bank_name":"Flagstar","method":"chat"}]}}
+{"commentId":"2143503","timestamp":1757805720,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Bank of America","method":"phone"}]}}
+{"commentId":"2145838","timestamp":1758051360,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"PNC","method":"chat"},{"success":true,"bank_name":"Capital One","method":"phone"},{"success":true,"bank_name":"Truist","method":"chat"},{"success":true,"bank_name":"Truist","method":"phone"}]}}
+{"commentId":"2147358","timestamp":1758157320,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Live Oak Bank","method":"0-balance"}]}}
+{"commentId":"2156718","timestamp":1759263960,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"U.S Bank","method":"phone"}]}}
+{"commentId":"2156804","timestamp":1759271460,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Capital One","method":"on-platform"}]}}
+{"commentId":"2157138","timestamp":1759318980,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"American Express","method":"on-platform"}]}}
+{"commentId":"2157987","timestamp":1759371540,"extracted_data":{"closure_attempts":[]}}

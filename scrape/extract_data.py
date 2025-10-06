@@ -1,3 +1,4 @@
+import json
 import os
 from itertools import zip_longest
 from pathlib import Path
@@ -22,8 +23,15 @@ class ClosureData(BaseModel):
 
 class ExtractedCommentData(BaseModel):
     commentId: str
-    timestamp: int  # Unix timestamp
+    timestamp: int
     extracted_data: ClosureData
+
+
+class BankAttempt(BaseModel):
+    comment_id: str
+    method: str
+    success: bool
+    timestamp: int
 
 
 load_dotenv()
@@ -200,14 +208,13 @@ def update_extracted_data():
      - for comment NOT present in extracted.jsonl, attempts to use AI to extract the data
     """
     base_path = Path(__file__).parent
-    extracted_data_path = base_path / "extracted.jsonl"
+    extracted_data_path = base_path / "comments_extracted.jsonl"
     comments_path = base_path / "comments.jsonl"
 
     comments = []
     for line in comments_path.read_text().splitlines():
         comments.append(Comment.model_validate_json(line.strip()))
 
-    # assume consistent ordering between comments.jsonl/extracted.jsonl
     extracted = []
     if extracted_data_path.exists():
         for line in extracted_data_path.read_text().splitlines():
@@ -225,5 +232,36 @@ def update_extracted_data():
                 extracted_data_file.write(f"{extracted_comment_data.model_dump_json()}\n")
 
 
+def create_by_bank_json():
+    base_path = Path(__file__).parent
+    extracted_data_path = base_path / "comments_extracted.jsonl"
+    by_bank_path = base_path / "by_bank.json"
+
+    by_bank: dict[str, list[dict]] = {}
+
+    if extracted_data_path.exists():
+        for line in extracted_data_path.read_text().splitlines():
+            extracted = ExtractedCommentData.model_validate_json(line.strip())
+            for attempt in extracted.extracted_data.closure_attempts:
+                bank_attempt = BankAttempt(
+                    comment_id=extracted.commentId,
+                    method=attempt.method,
+                    success=attempt.success,
+                    timestamp=extracted.timestamp
+                )
+                if attempt.bank_name not in by_bank:
+                    by_bank[attempt.bank_name] = []
+                by_bank[attempt.bank_name].append(bank_attempt.model_dump())
+
+    for bank_name in by_bank:
+        by_bank[bank_name].sort(key=lambda x: x['timestamp'])
+
+    sorted_by_bank = dict(sorted(by_bank.items()))
+
+    with open(by_bank_path, "w") as f:
+        json.dump(sorted_by_bank, f, indent=2)
+
+
 if __name__ == '__main__':
     update_extracted_data()
+    create_by_bank_json()
