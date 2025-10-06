@@ -38,156 +38,32 @@ load_dotenv()
 ai_client = genai.Client(api_key=os.getenv('GENAI_API_KEY'))
 
 
+def get_existing_banks() -> list[str]:
+    """Load existing bank names from by_bank.json if it exists."""
+    base_path = Path(__file__).parent
+    by_bank_path = base_path / "by_bank.json"
+
+    if by_bank_path.exists():
+        with open(by_bank_path) as f:
+            data = json.load(f)
+            return sorted(set(data.keys()))
+
+    return []
+
+
 def extract_comment_data(comment: Comment) -> ClosureData:
+    existing_banks = get_existing_banks()
+    bank_list_text = "\n".join(existing_banks)
     prompt = f"""
     Based on provided comment text, provide a list of bank account closure attempts.
      - It is possible there is 0 closure attempts in a comment
      - If a comment is neutrally worded, assume a positive result (ie, successful closure)
-     - on-platform refers to being able to close the account on the site or app, without additional human interaction 
+     - on-platform refers to being able to close the account on the site or app, without additional human interaction
+     - When matching banks, treat names with and without "Bank" suffix as the same institution
 
-    Here's a list of banks your should prefer, but are not required to choose from:
+    Here's a list of banks you should prefer, but are not required to choose from:
 
-    1st United Bank
-    Abington Bank
-    Alliant
-    All America Bank/Redneck Bank
-    Ally
-    Amalgamated Bank
-    Amboy
-    Andigo Credit Union
-    Associated Bank
-    Astoria Bank
-    Bank of America
-    BB&T
-    Bank Of The West
-    Bank & Trust
-    BB&T
-    BBVA
-    Blue Hills Bank
-    Bluevine
-    BMO Harris
-    BMT (Bryn Mawr Trust)
-    Bridgeview Bank
-    Cambridge Savings Bank
-    CampusUSA
-    Capital Bank
-    Capital One 360
-    Chase
-    Chime
-    Christian Community Credit Union
-    CIT Bank
-    Citi
-    Citadel Credit Union
-    Citizens Bank
-    City National Bank (WV)
-    Columbia Bank (NJ)
-    Columbia Bank  (WA, OR, ID)
-    Comerica
-    Credit Union West
-    Dollar Bank
-    Discover
-    Easthampton Savings Bank (BankESB)
-    Elements
-    FCB South County Bank
-    Fidelity Bank
-    Fifth Third
-    First America Bank
-    FirstBank
-    First Citizens Bank
-    First Federal Bank
-    First Horizon
-    First Merchants Bank
-    First National Bank
-    First National Bank of PA
-    First Niagara
-    First Tech Federal Credit Union
-    First Tennessee
-    Five Star Bank
-    Flushing Bank
-    Fulton Bank
-    Gesa Credit Union
-    Hancock Whitney
-    Hanmi Bank
-    Home Savings Bank
-    HomeStreet
-    HSBC
-    Huntington
-    Iberia Bank
-    Incredible Bank
-    Investors Bank
-    KeyBank
-    KeyPoint
-    Lakeland Bank
-    LegacyTexas Bank
-    LevelOne Bank
-    Liberty Bank
-    Lili
-    Marcus By Goldman Sachs
-    Maxx By Cedar Rapids
-    MECU Credit Union
-    Memory Bank
-    MidFirst Bank
-    Midland States Bank
-    Monifi
-    Mountain America Credit Union
-    M&T
-    Nationwide
-    Navy Federal Credit Union (NFCU)
-    NBKC
-    Northpointe
-    Northshore Credit Union
-    Northwest
-    NYCB Family Of Banks
-    Ocean First
-    Old National Bank
-    Orion Federal Credit Union
-    PeoplesBank
-    Pinnacle Bank
-    Pinnacle Bank (Texas)
-    PNC
-    Popular Community
-    Provident Bank
-    Quontic
-    Quorum FCU
-    Radius Bank
-    Regions Bank
-    Republic Bank
-    Ridgewood Savings Bank
-    Rockland Trust Bank
-    Salem Five
-    Sandy Spring Bank
-    Santander
-    Seacoast Bank
-    SEFCU
-    SFGI
-    SkyOne Federal Credit Union
-    South Shore Bank
-    S&T Bank
-    Suffolk Credit Union
-    SunTrust
-    Synovus
-    Talmer Bank
-    TCF Bank
-    Tech CU
-    TD Bank
-    TIAA Direct
-    Truist
-    UFB Direct
-    Unify
-    Union Bank
-    Union Bank & Trust
-    United Bank
-    USAA
-    U.S Bank
-    Valley National Bank
-    VantageWest
-    Varo Money
-    Verity Credit Union
-    Webster Bank
-    Wells Fargo
-    Westfield Bank (MA)
-    Wings Credit Union
-    Wintrust Bank
+    {bank_list_text}
 
     Comment:'{comment.text}'
     """
@@ -249,8 +125,6 @@ def create_by_bank_json():
                     success=attempt.success,
                     timestamp=extracted.timestamp
                 )
-                if attempt.bank_name not in by_bank:
-                    by_bank[attempt.bank_name] = []
                 by_bank[attempt.bank_name].append(bank_attempt.model_dump())
 
     for bank_name in by_bank:
