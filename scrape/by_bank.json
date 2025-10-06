@@ -215,9 +215,7 @@
       "method": "secure-message",
       "success": true,
       "timestamp": 1702231200
-    }
-  ],
-  "Associated Bank": [
+    },
     {
       "comment_id": "272209",
       "method": "0-balance",
@@ -271,9 +269,7 @@
       "method": "chat",
       "success": true,
       "timestamp": 1635949800
-    }
-  ],
-  "Astoria Bank": [
+    },
     {
       "comment_id": "223866",
       "method": "secure-message",
@@ -287,9 +283,7 @@
       "method": "chat",
       "success": true,
       "timestamp": 1736714220
-    }
-  ],
-  "Axos Bank": [
+    },
     {
       "comment_id": "1893542",
       "method": "chat",
@@ -1733,9 +1727,7 @@
       "method": "secure-message",
       "success": true,
       "timestamp": 1755127020
-    }
-  ],
-  "Chase Bank": [
+    },
     {
       "comment_id": "496050",
       "method": "secure-message",
@@ -2151,9 +2143,7 @@
       "method": "chat",
       "success": true,
       "timestamp": 1754339220
-    }
-  ],
-  "Citi Bank": [
+    },
     {
       "comment_id": "1816772",
       "method": "chat",
@@ -2167,9 +2157,7 @@
       "method": "chat",
       "success": true,
       "timestamp": 1683921120
-    }
-  ],
-  "Citizens Bank": [
+    },
     {
       "comment_id": "219259",
       "method": "phone",
@@ -2631,9 +2619,7 @@
       "method": "on-platform",
       "success": true,
       "timestamp": 1691866560
-    }
-  ],
-  "Fidelity Bank": [
+    },
     {
       "comment_id": "284448",
       "method": "chat",
@@ -2863,9 +2849,7 @@
       "method": "phone",
       "success": true,
       "timestamp": 1751462580
-    }
-  ],
-  "Fifth Third Bank": [
+    },
     {
       "comment_id": "274492",
       "method": "phone",
@@ -3103,9 +3087,7 @@
       "method": "chat",
       "success": false,
       "timestamp": 1757045040
-    }
-  ],
-  "Flagstar Bank": [
+    },
     {
       "comment_id": "2071660",
       "method": "in-branch",
@@ -3439,9 +3421,7 @@
       "method": "chat",
       "success": true,
       "timestamp": 1672531860
-    }
-  ],
-  "HSBC Bank": [
+    },
     {
       "comment_id": "266709",
       "method": "phone",
@@ -3505,9 +3485,7 @@
       "method": "phone",
       "success": true,
       "timestamp": 1584983340
-    }
-  ],
-  "Hancock Whitney Bank": [
+    },
     {
       "comment_id": "496050",
       "method": "phone",
@@ -3815,9 +3793,7 @@
       "method": "chat",
       "success": true,
       "timestamp": 1578504540
-    }
-  ],
-  "Iberiabank": [
+    },
     {
       "comment_id": "993014",
       "method": "chat",
@@ -4719,9 +4695,7 @@
       "method": "secure-message",
       "success": true,
       "timestamp": 1721785920
-    }
-  ],
-  "Northwest Bank": [
+    },
     {
       "comment_id": "610229",
       "method": "secure-message",
@@ -5359,9 +5333,7 @@
       "method": "secure-message",
       "success": true,
       "timestamp": 1501091940
-    }
-  ],
-  "Regions Bank": [
+    },
     {
       "comment_id": "281031",
       "method": "secure-message",
@@ -5431,9 +5403,7 @@
       "method": "secure-message",
       "success": true,
       "timestamp": 1616257020
-    }
-  ],
-  "Rockland Trust Bank": [
+    },
     {
       "comment_id": "749020",
       "method": "chat",
@@ -5637,9 +5607,7 @@
       "method": "phone",
       "success": false,
       "timestamp": 1738368780
-    }
-  ],
-  "Santander Bank": [
+    },
     {
       "comment_id": "280081",
       "method": "in-branch",
@@ -5689,9 +5657,7 @@
       "method": "secure-message",
       "success": true,
       "timestamp": 1574724420
-    }
-  ],
-  "Simple Bank": [
+    },
     {
       "comment_id": "955522",
       "method": "secure-message",
@@ -6181,7 +6147,7 @@
       "timestamp": 1754688960
     }
   ],
-  "U.S Bank": [
+  "U.S. Bank": [
     {
       "comment_id": "219259",
       "method": "phone",
@@ -6385,9 +6351,7 @@
       "method": "phone",
       "success": true,
       "timestamp": 1759263960
-    }
-  ],
-  "U.S. Bank": [
+    },
     {
       "comment_id": "219201",
       "method": "secure-message",
@@ -6441,23 +6405,7 @@
       "method": "chat",
       "success": true,
       "timestamp": 1754417100
-    }
-  ],
-  "UFB Direct": [
-    {
-      "comment_id": "970296",
-      "method": "phone",
-      "success": true,
-      "timestamp": 1588439640
     },
-    {
-      "comment_id": "2000569",
-      "method": "secure-message",
-      "success": true,
-      "timestamp": 1739024820
-    }
-  ],
-  "US Bank": [
     {
       "comment_id": "1250474",
       "method": "phone",
@@ -6475,6 +6423,20 @@
       "method": "unknown",
       "success": false,
       "timestamp": 1735854900
+    }
+  ],
+  "UFB Direct": [
+    {
+      "comment_id": "970296",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1588439640
+    },
+    {
+      "comment_id": "2000569",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1739024820
     }
   ],
   "USAA": [
@@ -6671,9 +6633,7 @@
       "method": "secure-message",
       "success": true,
       "timestamp": 1572497880
-    }
-  ],
-  "Varo Bank": [
+    },
     {
       "comment_id": "1480680",
       "method": "chat",

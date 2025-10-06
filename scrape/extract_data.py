@@ -125,7 +125,9 @@ def create_by_bank_json():
                     success=attempt.success,
                     timestamp=extracted.timestamp
                 )
-                by_bank[attempt.bank_name].append(bank_attempt.model_dump())
+                by_bank_name = by_bank.get(attempt.bank_name, [])
+                by_bank_name.append(bank_attempt.model_dump())
+                by_bank[attempt.bank_name] = by_bank_name
 
     for bank_name in by_bank:
         by_bank[bank_name].sort(key=lambda x: x['timestamp'])
