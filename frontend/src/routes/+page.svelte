@@ -22,6 +22,10 @@
 	<title>Close My Bank Account</title>
 </svelte:head>
 
+<a href="https://github.com/Mattwmaster58/close-my-bank-account/issues" target="_blank" rel="noopener noreferrer" class="top-right-link">
+	Found an issue? Report it on GitHub
+</a>
+
 <div class="container">
 	<header>
 		<h1>Close My Bank Account</h1>
@@ -43,8 +47,8 @@
 			<p class="result-count">
 				{resultCount} {resultCount === 1 ? 'bank' : 'banks'} found
 			</p>
-			<a href="https://github.com/Mattwmaster58/close-my-bank-account/issues" target="_blank" rel="noopener noreferrer" class="issue-link">
-				Found an issue? Report it on GitHub
+			<a href="https://www.doctorofcredit.com/complete-list-of-ways-to-close-bank-accounts-at-each-bank/?utm_source=closemybankaccount" target="_blank" rel="noopener noreferrer" class="contribute-link">
+				Have your own datapoint? Add it here
 			</a>
 		</div>
 	</div>
@@ -65,6 +69,20 @@
 			sans-serif;
 		background: #f8f9fa;
 		color: #333;
+	}
+
+	.top-right-link {
+		position: absolute;
+		top: 1rem;
+		right: 1rem;
+		color: #4a90e2;
+		text-decoration: none;
+		font-size: 0.9rem;
+		z-index: 100;
+	}
+
+	.top-right-link:hover {
+		text-decoration: underline;
 	}
 
 	.container {
@@ -130,13 +148,13 @@
 		font-size: 0.9rem;
 	}
 
-	.issue-link {
+	.contribute-link {
 		color: #4a90e2;
 		text-decoration: none;
 		font-size: 0.9rem;
 	}
 
-	.issue-link:hover {
+	.contribute-link:hover {
 		text-decoration: underline;
 	}
 

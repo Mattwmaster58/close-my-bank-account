@@ -8,10 +8,12 @@ Visit the site itself [here](https://mattwmaster58.github.io/close-my-bank-accou
 
 Banks often offer sign-up bonuses for opening an account. Some people like to sign up for dozens of accounts and rake in the cash from all the sign-up bonuses. For these people, finding how to close an account quickly can be a legitimate time saver.
 
+The leading source of how to close bank accounts is this (Doctor Of Credit thread)[https://www.doctorofcredit.com/complete-list-of-ways-to-close-bank-accounts-at-each-bank/?utm_source=closemybankaccount#], but since it's manually updated, it often falls out of date.
+
 ## Structure
 
 - `scrape/` - Python scripts for scraping and processing bank closure data. This uses Gemini 2.5 Flash to convert unstructured comment data into structured data that the frontend consumes
-- `frontend/` - SvelteKit web application - I vibe coded this. My intention was to learn Svelte, but the site was so simple that it was basically one shotted.
+- `frontend/` - SvelteKit web application - I vibe coded this. My intention was to learn Svelte, but the site was so simple that it was basically one-shotted
 
 ## Setup
 
