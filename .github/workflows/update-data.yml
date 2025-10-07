@@ -46,11 +46,10 @@ jobs:
       - name: Check for scrape changes
         id: check_scrape
         run: |
-          cd scrape
-          if python check_changes.py comments.jsonl; then
-            echo "has_changes=true" >> $GITHUB_OUTPUT
-          else
+          if git diff --quiet HEAD -- scrape/comments.jsonl; then
             echo "has_changes=false" >> $GITHUB_OUTPUT
+          else
+            echo "has_changes=true" >> $GITHUB_OUTPUT
           fi
       
       - name: Commit scrape results
@@ -72,11 +71,10 @@ jobs:
         if: steps.check_scrape.outputs.has_changes == 'true'
         id: check_extract
         run: |
-          cd scrape
-          if python check_changes.py comments_extracted.jsonl by_bank.json; then
-            echo "has_changes=true" >> $GITHUB_OUTPUT
-          else
+          if git diff --quiet HEAD -- scrape/comments_extracted.jsonl scrape/by_bank.json; then
             echo "has_changes=false" >> $GITHUB_OUTPUT
+          else
+            echo "has_changes=true" >> $GITHUB_OUTPUT
           fi
       
       - name: Commit extracted data
