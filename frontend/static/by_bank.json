@@ -1,0 +1,7096 @@
+{
+  "1st Source": [
+    {
+      "comment_id": "650939",
+      "method": "unknown",
+      "success": false,
+      "timestamp": 1538595720
+    }
+  ],
+  "1st United Bank": [
+    {
+      "comment_id": "566117",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1520027700
+    }
+  ],
+  "AXOS Bank": [
+    {
+      "comment_id": "1589832",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1680375060
+    }
+  ],
+  "Albert Neobank": [
+    {
+      "comment_id": "1745281",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1700959740
+    }
+  ],
+  "All America Bank": [
+    {
+      "comment_id": "574238",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1522104480
+    }
+  ],
+  "Alliant": [
+    {
+      "comment_id": "1767028",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1703868780
+    }
+  ],
+  "Alliant Credit Union": [
+    {
+      "comment_id": "659090",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1539795540
+    },
+    {
+      "comment_id": "710972",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1548296460
+    },
+    {
+      "comment_id": "2112936",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1754433240
+    }
+  ],
+  "Ally": [
+    {
+      "comment_id": "1878629",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1721495580
+    }
+  ],
+  "AmEx": [
+    {
+      "comment_id": "1762705",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1703178060
+    }
+  ],
+  "Amalgamated Bank": [
+    {
+      "comment_id": "296185",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1474118460
+    },
+    {
+      "comment_id": "321176",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1480441740
+    }
+  ],
+  "Amboy": [
+    {
+      "comment_id": "219225",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1453403880
+    }
+  ],
+  "Amegy Bank": [
+    {
+      "comment_id": "744770",
+      "method": "0-balance",
+      "success": true,
+      "timestamp": 1554465900
+    },
+    {
+      "comment_id": "744770",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1554465900
+    }
+  ],
+  "American Eagle Financial Credit Union": [
+    {
+      "comment_id": "375284",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1490238840
+    }
+  ],
+  "American Express": [
+    {
+      "comment_id": "1982801",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1736527620
+    },
+    {
+      "comment_id": "2157138",
+      "method": "on-platform",
+      "success": true,
+      "timestamp": 1759318980
+    }
+  ],
+  "American Pride Bank": [
+    {
+      "comment_id": "907148",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1581551340
+    },
+    {
+      "comment_id": "907148",
+      "method": "in-branch",
+      "success": true,
+      "timestamp": 1581551340
+    },
+    {
+      "comment_id": "907148",
+      "method": "phone",
+      "success": false,
+      "timestamp": 1581551340
+    }
+  ],
+  "Andigo Credit Union": [
+    {
+      "comment_id": "563672",
+      "method": "phone",
+      "success": false,
+      "timestamp": 1519472040
+    },
+    {
+      "comment_id": "563672",
+      "method": "unknown",
+      "success": true,
+      "timestamp": 1519472040
+    },
+    {
+      "comment_id": "655316",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1539199800
+    }
+  ],
+  "Andrews FCU": [
+    {
+      "comment_id": "1755372",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1702231200
+    }
+  ],
+  "Ascend FCU": [
+    {
+      "comment_id": "659095",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1539795840
+    }
+  ],
+  "Associated": [
+    {
+      "comment_id": "414001",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1496495160
+    },
+    {
+      "comment_id": "650939",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1538595720
+    },
+    {
+      "comment_id": "1755372",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1702231200
+    }
+  ],
+  "Associated Bank": [
+    {
+      "comment_id": "272209",
+      "method": "0-balance",
+      "success": true,
+      "timestamp": 1467395220
+    },
+    {
+      "comment_id": "317350",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1479687720
+    },
+    {
+      "comment_id": "344258",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1485454380
+    },
+    {
+      "comment_id": "500030",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1508862900
+    },
+    {
+      "comment_id": "500913",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1508958240
+    },
+    {
+      "comment_id": "752660",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1556293080
+    },
+    {
+      "comment_id": "1277207",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1635949800
+    }
+  ],
+  "Astoria Bank": [
+    {
+      "comment_id": "223866",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1455014280
+    }
+  ],
+  "Axos Bank": [
+    {
+      "comment_id": "1893542",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1723753740
+    },
+    {
+      "comment_id": "1981738",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1736388840
+    },
+    {
+      "comment_id": "1983817",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1736714220
+    },
+    {
+      "comment_id": "2037780",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1743735420
+    }
+  ],
+  "BB&T": [
+    {
+      "comment_id": "220430",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1453872120
+    },
+    {
+      "comment_id": "454685",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1502137680
+    },
+    {
+      "comment_id": "618593",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1531924980
+    },
+    {
+      "comment_id": "632401",
+      "method": "secure-message",
+      "success": false,
+      "timestamp": 1534958700
+    },
+    {
+      "comment_id": "632401",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1534958700
+    },
+    {
+      "comment_id": "632401",
+      "method": "phone",
+      "success": false,
+      "timestamp": 1534958700
+    },
+    {
+      "comment_id": "632401",
+      "method": "in-branch",
+      "success": true,
+      "timestamp": 1534958700
+    },
+    {
+      "comment_id": "644442",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1537368480
+    },
+    {
+      "comment_id": "686987",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1544195940
+    },
+    {
+      "comment_id": "710633",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1548264000
+    },
+    {
+      "comment_id": "716473",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1549238280
+    },
+    {
+      "comment_id": "746353",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1554838320
+    },
+    {
+      "comment_id": "815513",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1569595860
+    },
+    {
+      "comment_id": "817228",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1569991380
+    },
+    {
+      "comment_id": "970296",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1588439640
+    },
+    {
+      "comment_id": "1140110",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1612536540
+    }
+  ],
+  "BBVA": [
+    {
+      "comment_id": "324139",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1481089920
+    },
+    {
+      "comment_id": "686987",
+      "method": "in-branch",
+      "success": true,
+      "timestamp": 1544195940
+    },
+    {
+      "comment_id": "746361",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1554838860
+    },
+    {
+      "comment_id": "746361",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1554838860
+    },
+    {
+      "comment_id": "797598",
+      "method": "in-branch",
+      "success": true,
+      "timestamp": 1565714820
+    },
+    {
+      "comment_id": "1094327",
+      "method": "0-balance",
+      "success": true,
+      "timestamp": 1605821280
+    }
+  ],
+  "BMO": [
+    {
+      "comment_id": "483133",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1506456600
+    },
+    {
+      "comment_id": "557752",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1517872560
+    },
+    {
+      "comment_id": "622121",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1532615220
+    },
+    {
+      "comment_id": "702729",
+      "method": "secure-message",
+      "success": false,
+      "timestamp": 1546991580
+    },
+    {
+      "comment_id": "702729",
+      "method": "secure-message",
+      "success": false,
+      "timestamp": 1546991580
+    },
+    {
+      "comment_id": "702729",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1546991580
+    },
+    {
+      "comment_id": "853085",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1575477120
+    },
+    {
+      "comment_id": "1763387",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1703262240
+    },
+    {
+      "comment_id": "1831319",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1713215880
+    },
+    {
+      "comment_id": "1879796",
+      "method": "chat",
+      "success": false,
+      "timestamp": 1721687760
+    },
+    {
+      "comment_id": "1879796",
+      "method": "0-balance",
+      "success": true,
+      "timestamp": 1721687760
+    },
+    {
+      "comment_id": "2057605",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1746733440
+    },
+    {
+      "comment_id": "2057605",
+      "method": "chat",
+      "success": false,
+      "timestamp": 1746733440
+    },
+    {
+      "comment_id": "2086239",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1750863000
+    },
+    {
+      "comment_id": "2112314",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1754355720
+    },
+    {
+      "comment_id": "2112405",
+      "method": "secure-message",
+      "success": false,
+      "timestamp": 1754363640
+    },
+    {
+      "comment_id": "2112405",
+      "method": "0-balance",
+      "success": true,
+      "timestamp": 1754363640
+    },
+    {
+      "comment_id": "2112405",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1754363640
+    }
+  ],
+  "BMO Bank": [
+    {
+      "comment_id": "883425",
+      "method": "secure-message",
+      "success": false,
+      "timestamp": 1579622760
+    },
+    {
+      "comment_id": "883425",
+      "method": "chat",
+      "success": false,
+      "timestamp": 1579622760
+    },
+    {
+      "comment_id": "883425",
+      "method": "phone",
+      "success": false,
+      "timestamp": 1579622760
+    },
+    {
+      "comment_id": "883425",
+      "method": "phone",
+      "success": false,
+      "timestamp": 1579622760
+    }
+  ],
+  "BMO Harris": [
+    {
+      "comment_id": "220331",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1453848000
+    },
+    {
+      "comment_id": "317350",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1479687720
+    },
+    {
+      "comment_id": "348167",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1486098480
+    },
+    {
+      "comment_id": "355500",
+      "method": "unknown",
+      "success": true,
+      "timestamp": 1487318700
+    },
+    {
+      "comment_id": "355500",
+      "method": "unknown",
+      "success": true,
+      "timestamp": 1487318700
+    },
+    {
+      "comment_id": "470393",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1504360020
+    },
+    {
+      "comment_id": "487567",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1507146780
+    },
+    {
+      "comment_id": "487567",
+      "method": "secure-message",
+      "success": false,
+      "timestamp": 1507146780
+    },
+    {
+      "comment_id": "488073",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1507219860
+    },
+    {
+      "comment_id": "509010",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1509899040
+    },
+    {
+      "comment_id": "509010",
+      "method": "chat",
+      "success": false,
+      "timestamp": 1509899040
+    },
+    {
+      "comment_id": "533975",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1513031160
+    },
+    {
+      "comment_id": "546551",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1515004860
+    },
+    {
+      "comment_id": "639088",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1536172560
+    },
+    {
+      "comment_id": "728099",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1551306720
+    },
+    {
+      "comment_id": "781760",
+      "method": "secure-message",
+      "success": false,
+      "timestamp": 1562873160
+    },
+    {
+      "comment_id": "781760",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1562873160
+    },
+    {
+      "comment_id": "811686",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1568837460
+    },
+    {
+      "comment_id": "873974",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1578882540
+    },
+    {
+      "comment_id": "957441",
+      "method": "phone",
+      "success": false,
+      "timestamp": 1586923920
+    },
+    {
+      "comment_id": "1309518",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1641397200
+    },
+    {
+      "comment_id": "1924499",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1727974020
+    },
+    {
+      "comment_id": "2096932",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1752243660
+    },
+    {
+      "comment_id": "2106122",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1753468740
+    }
+  ],
+  "BMT (Bryn Mawr Trust)": [
+    {
+      "comment_id": "655125",
+      "method": "in-branch",
+      "success": false,
+      "timestamp": 1539172860
+    },
+    {
+      "comment_id": "797598",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1565714820
+    }
+  ],
+  "Bancorp": [
+    {
+      "comment_id": "405688",
+      "method": "in-branch",
+      "success": true,
+      "timestamp": 1494635940
+    }
+  ],
+  "Bank & Trust": [
+    {
+      "comment_id": "340777",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1484779320
+    },
+    {
+      "comment_id": "340777",
+      "method": "phone",
+      "success": false,
+      "timestamp": 1484779320
+    },
+    {
+      "comment_id": "636613",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1535576220
+    },
+    {
+      "comment_id": "636613",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1535576220
+    },
+    {
+      "comment_id": "678977",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1543355220
+    },
+    {
+      "comment_id": "773071",
+      "method": "secure-message",
+      "success": false,
+      "timestamp": 1561141320
+    },
+    {
+      "comment_id": "773071",
+      "method": "in-branch",
+      "success": true,
+      "timestamp": 1561141320
+    },
+    {
+      "comment_id": "905069",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1581389340
+    }
+  ],
+  "Bank Of The West": [
+    {
+      "comment_id": "708494",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1547853420
+    },
+    {
+      "comment_id": "777702",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1562109000
+    }
+  ],
+  "Bank of America": [
+    {
+      "comment_id": "219204",
+      "method": "in-branch",
+      "success": true,
+      "timestamp": 1453399020
+    },
+    {
+      "comment_id": "219208",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1453399860
+    },
+    {
+      "comment_id": "219234",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1453406040
+    },
+    {
+      "comment_id": "283691",
+      "method": "secure-message",
+      "success": false,
+      "timestamp": 1471108320
+    },
+    {
+      "comment_id": "283691",
+      "method": "chat",
+      "success": false,
+      "timestamp": 1471108320
+    },
+    {
+      "comment_id": "292299",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1473196980
+    },
+    {
+      "comment_id": "442787",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1500521640
+    },
+    {
+      "comment_id": "468358",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1504040940
+    },
+    {
+      "comment_id": "510467",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1510083120
+    },
+    {
+      "comment_id": "553823",
+      "method": "phone",
+      "success": false,
+      "timestamp": 1516815900
+    },
+    {
+      "comment_id": "553823",
+      "method": "chat",
+      "success": false,
+      "timestamp": 1516815900
+    },
+    {
+      "comment_id": "622121",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1532615220
+    },
+    {
+      "comment_id": "655151",
+      "method": "chat",
+      "success": false,
+      "timestamp": 1539177420
+    },
+    {
+      "comment_id": "655151",
+      "method": "secure-message",
+      "success": false,
+      "timestamp": 1539177420
+    },
+    {
+      "comment_id": "678977",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1543355220
+    },
+    {
+      "comment_id": "727462",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1551202320
+    },
+    {
+      "comment_id": "752660",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1556293080
+    },
+    {
+      "comment_id": "775037",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1561571580
+    },
+    {
+      "comment_id": "807287",
+      "method": "secure-message",
+      "success": false,
+      "timestamp": 1567882560
+    },
+    {
+      "comment_id": "807287",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1567882560
+    },
+    {
+      "comment_id": "815513",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1569595860
+    },
+    {
+      "comment_id": "956629",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1586804220
+    },
+    {
+      "comment_id": "1006418",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1593460260
+    },
+    {
+      "comment_id": "1127538",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1610649360
+    },
+    {
+      "comment_id": "1140110",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1612536540
+    },
+    {
+      "comment_id": "1211021",
+      "method": "on-platform",
+      "success": false,
+      "timestamp": 1624493580
+    },
+    {
+      "comment_id": "1211021",
+      "method": "secure-message",
+      "success": false,
+      "timestamp": 1624493580
+    },
+    {
+      "comment_id": "1322067",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1643312340
+    },
+    {
+      "comment_id": "1376570",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1651768920
+    },
+    {
+      "comment_id": "1376670",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1651780680
+    },
+    {
+      "comment_id": "1416158",
+      "method": "chat",
+      "success": false,
+      "timestamp": 1659019200
+    },
+    {
+      "comment_id": "1468581",
+      "method": "in-branch",
+      "success": true,
+      "timestamp": 1666158060
+    },
+    {
+      "comment_id": "1484703",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1668049080
+    },
+    {
+      "comment_id": "1553353",
+      "method": "chat",
+      "success": false,
+      "timestamp": 1675967100
+    },
+    {
+      "comment_id": "1696471",
+      "method": "chat",
+      "success": false,
+      "timestamp": 1695046200
+    },
+    {
+      "comment_id": "1831319",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1713215880
+    },
+    {
+      "comment_id": "1956156",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1732200600
+    },
+    {
+      "comment_id": "1956156",
+      "method": "chat",
+      "success": false,
+      "timestamp": 1732200600
+    },
+    {
+      "comment_id": "2005024",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1739636460
+    },
+    {
+      "comment_id": "2045057",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1744835100
+    },
+    {
+      "comment_id": "2075170",
+      "method": "secure-message",
+      "success": false,
+      "timestamp": 1749562620
+    },
+    {
+      "comment_id": "2096932",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1752243660
+    },
+    {
+      "comment_id": "2117414",
+      "method": "secure-message",
+      "success": false,
+      "timestamp": 1755009420
+    },
+    {
+      "comment_id": "2117414",
+      "method": "chat",
+      "success": false,
+      "timestamp": 1755009420
+    },
+    {
+      "comment_id": "2117414",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1755009420
+    },
+    {
+      "comment_id": "2124338",
+      "method": "on-platform",
+      "success": false,
+      "timestamp": 1755706800
+    },
+    {
+      "comment_id": "2124338",
+      "method": "chat",
+      "success": false,
+      "timestamp": 1755706800
+    },
+    {
+      "comment_id": "2143503",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1757805720
+    }
+  ],
+  "Bank of Hope": [
+    {
+      "comment_id": "2120503",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1755292500
+    }
+  ],
+  "Bank of The West": [
+    {
+      "comment_id": "273383",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1467822720
+    }
+  ],
+  "Bank of the West": [
+    {
+      "comment_id": "830354",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1571962320
+    },
+    {
+      "comment_id": "836669",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1573070220
+    }
+  ],
+  "Banner Bank": [
+    {
+      "comment_id": "1757474",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1702480500
+    }
+  ],
+  "Bask Bank": [
+    {
+      "comment_id": "2045606",
+      "method": "0-balance",
+      "success": true,
+      "timestamp": 1744911420
+    }
+  ],
+  "BluPeak CU": [
+    {
+      "comment_id": "2112330",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1754357160
+    }
+  ],
+  "BluPeak Credit Union": [
+    {
+      "comment_id": "1840312",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1714921620
+    }
+  ],
+  "Bridgeview Bank": [
+    {
+      "comment_id": "589802",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1525357500
+    },
+    {
+      "comment_id": "605234",
+      "method": "phone",
+      "success": false,
+      "timestamp": 1528920600
+    }
+  ],
+  "CIBC USA": [
+    {
+      "comment_id": "944112",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1584980160
+    }
+  ],
+  "CIBM": [
+    {
+      "comment_id": "1633146",
+      "method": "0-balance",
+      "success": true,
+      "timestamp": 1686585720
+    }
+  ],
+  "CIT Bank": [
+    {
+      "comment_id": "689442",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1544579880
+    },
+    {
+      "comment_id": "689442",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1544579880
+    },
+    {
+      "comment_id": "689442",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1544579880
+    },
+    {
+      "comment_id": "982793",
+      "method": "on-platform",
+      "success": true,
+      "timestamp": 1589875140
+    }
+  ],
+  "Cambridge Savings Bank": [
+    {
+      "comment_id": "772918",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1561123800
+    },
+    {
+      "comment_id": "886858",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1579876440
+    }
+  ],
+  "CampusUSA": [
+    {
+      "comment_id": "1210251",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1624377780
+    }
+  ],
+  "Capital Bank": [
+    {
+      "comment_id": "758884",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1557764580
+    },
+    {
+      "comment_id": "764820",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1559173860
+    },
+    {
+      "comment_id": "1271261",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1634937360
+    }
+  ],
+  "Capital One": [
+    {
+      "comment_id": "219259",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1453410900
+    },
+    {
+      "comment_id": "219259",
+      "method": "on-platform",
+      "success": true,
+      "timestamp": 1453410900
+    },
+    {
+      "comment_id": "467256",
+      "method": "on-platform",
+      "success": true,
+      "timestamp": 1503943980
+    },
+    {
+      "comment_id": "577954",
+      "method": "on-platform",
+      "success": false,
+      "timestamp": 1522888800
+    },
+    {
+      "comment_id": "642952",
+      "method": "on-platform",
+      "success": true,
+      "timestamp": 1536989880
+    },
+    {
+      "comment_id": "653588",
+      "method": "on-platform",
+      "success": false,
+      "timestamp": 1538905140
+    },
+    {
+      "comment_id": "659095",
+      "method": "on-platform",
+      "success": true,
+      "timestamp": 1539795840
+    },
+    {
+      "comment_id": "660334",
+      "method": "on-platform",
+      "success": true,
+      "timestamp": 1539975540
+    },
+    {
+      "comment_id": "692718",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1545155100
+    },
+    {
+      "comment_id": "723279",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1550334480
+    },
+    {
+      "comment_id": "751071",
+      "method": "on-platform",
+      "success": false,
+      "timestamp": 1555961700
+    },
+    {
+      "comment_id": "1172954",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1617836460
+    },
+    {
+      "comment_id": "1571552",
+      "method": "on-platform",
+      "success": false,
+      "timestamp": 1678304640
+    },
+    {
+      "comment_id": "1571552",
+      "method": "chat",
+      "success": false,
+      "timestamp": 1678304640
+    },
+    {
+      "comment_id": "1571552",
+      "method": "unknown",
+      "success": false,
+      "timestamp": 1678304640
+    },
+    {
+      "comment_id": "1599028",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1681675560
+    },
+    {
+      "comment_id": "1878629",
+      "method": "chat",
+      "success": false,
+      "timestamp": 1721495580
+    },
+    {
+      "comment_id": "1878629",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1721495580
+    },
+    {
+      "comment_id": "1982750",
+      "method": "chat",
+      "success": false,
+      "timestamp": 1736523780
+    },
+    {
+      "comment_id": "1982750",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1736523780
+    },
+    {
+      "comment_id": "2045057",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1744835100
+    },
+    {
+      "comment_id": "2113995",
+      "method": "on-platform",
+      "success": false,
+      "timestamp": 1754578380
+    },
+    {
+      "comment_id": "2113995",
+      "method": "chat",
+      "success": false,
+      "timestamp": 1754578380
+    },
+    {
+      "comment_id": "2145838",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1758051360
+    },
+    {
+      "comment_id": "2156804",
+      "method": "on-platform",
+      "success": true,
+      "timestamp": 1759271460
+    }
+  ],
+  "Capital One 360": [
+    {
+      "comment_id": "219225",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1453403880
+    },
+    {
+      "comment_id": "388347",
+      "method": "on-platform",
+      "success": true,
+      "timestamp": 1492009080
+    },
+    {
+      "comment_id": "447137",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1501091940
+    },
+    {
+      "comment_id": "459170",
+      "method": "unknown",
+      "success": false,
+      "timestamp": 1502822280
+    },
+    {
+      "comment_id": "459170",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1502822280
+    },
+    {
+      "comment_id": "482982",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1506433200
+    },
+    {
+      "comment_id": "482982",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1506433200
+    },
+    {
+      "comment_id": "489124",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1507314660
+    },
+    {
+      "comment_id": "491638",
+      "method": "on-platform",
+      "success": true,
+      "timestamp": 1507686900
+    },
+    {
+      "comment_id": "530815",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1512501120
+    },
+    {
+      "comment_id": "622121",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1532615220
+    },
+    {
+      "comment_id": "639460",
+      "method": "on-platform",
+      "success": false,
+      "timestamp": 1536251640
+    },
+    {
+      "comment_id": "639460",
+      "method": "chat",
+      "success": false,
+      "timestamp": 1536251640
+    },
+    {
+      "comment_id": "650765",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1538567280
+    },
+    {
+      "comment_id": "746353",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1554838320
+    },
+    {
+      "comment_id": "856336",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1576164480
+    },
+    {
+      "comment_id": "1150665",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1614298020
+    },
+    {
+      "comment_id": "1174115",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1618001400
+    },
+    {
+      "comment_id": "1937936",
+      "method": "chat",
+      "success": false,
+      "timestamp": 1729810080
+    },
+    {
+      "comment_id": "1937936",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1729810080
+    }
+  ],
+  "Centennial Bank and Trust": [
+    {
+      "comment_id": "385548",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1491602700
+    },
+    {
+      "comment_id": "385548",
+      "method": "0-balance",
+      "success": true,
+      "timestamp": 1491602700
+    }
+  ],
+  "Chartway CU": [
+    {
+      "comment_id": "2087096",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1750946280
+    }
+  ],
+  "Chase": [
+    {
+      "comment_id": "219208",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1453399860
+    },
+    {
+      "comment_id": "219225",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1453403880
+    },
+    {
+      "comment_id": "304091",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1475776080
+    },
+    {
+      "comment_id": "312679",
+      "method": "secure-message",
+      "success": false,
+      "timestamp": 1478397480
+    },
+    {
+      "comment_id": "361729",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1488293160
+    },
+    {
+      "comment_id": "416948",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1496897520
+    },
+    {
+      "comment_id": "428714",
+      "method": "secure-message",
+      "success": false,
+      "timestamp": 1498594860
+    },
+    {
+      "comment_id": "477068",
+      "method": "0-balance",
+      "success": true,
+      "timestamp": 1505422440
+    },
+    {
+      "comment_id": "477068",
+      "method": "secure-message",
+      "success": false,
+      "timestamp": 1505422440
+    },
+    {
+      "comment_id": "477068",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1505422440
+    },
+    {
+      "comment_id": "483347",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1506487680
+    },
+    {
+      "comment_id": "496050",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1508328180
+    },
+    {
+      "comment_id": "619624",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1532105820
+    },
+    {
+      "comment_id": "622121",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1532615220
+    },
+    {
+      "comment_id": "655316",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1539199800
+    },
+    {
+      "comment_id": "655486",
+      "method": "0-balance",
+      "success": true,
+      "timestamp": 1539216720
+    },
+    {
+      "comment_id": "686987",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1544195940
+    },
+    {
+      "comment_id": "686987",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1544195940
+    },
+    {
+      "comment_id": "720752",
+      "method": "unknown",
+      "success": true,
+      "timestamp": 1549960320
+    },
+    {
+      "comment_id": "752660",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1556293080
+    },
+    {
+      "comment_id": "1021719",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1595522460
+    },
+    {
+      "comment_id": "1271261",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1634937360
+    },
+    {
+      "comment_id": "1479454",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1667529600
+    },
+    {
+      "comment_id": "1484469",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1668027780
+    },
+    {
+      "comment_id": "1631632",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1686326400
+    },
+    {
+      "comment_id": "1779223",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1705450380
+    },
+    {
+      "comment_id": "1794910",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1707407160
+    },
+    {
+      "comment_id": "1801309",
+      "method": "secure-message",
+      "success": false,
+      "timestamp": 1708576500
+    },
+    {
+      "comment_id": "2045057",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1744835100
+    },
+    {
+      "comment_id": "2045057",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1744835100
+    },
+    {
+      "comment_id": "2112193",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1754341500
+    },
+    {
+      "comment_id": "2118825",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1755127020
+    }
+  ],
+  "Chase Bank": [
+    {
+      "comment_id": "852571",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1575393780
+    }
+  ],
+  "Chime": [
+    {
+      "comment_id": "467256",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1503943980
+    },
+    {
+      "comment_id": "1207622",
+      "method": "unknown",
+      "success": false,
+      "timestamp": 1623859800
+    },
+    {
+      "comment_id": "1219114",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1625694900
+    },
+    {
+      "comment_id": "1981738",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1736388840
+    },
+    {
+      "comment_id": "2112936",
+      "method": "on-platform",
+      "success": true,
+      "timestamp": 1754433240
+    }
+  ],
+  "Christian Community Credit Union": [
+    {
+      "comment_id": "361729",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1488293160
+    },
+    {
+      "comment_id": "655173",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1539180780
+    }
+  ],
+  "Citadel Credit Union": [
+    {
+      "comment_id": "219259",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1453410900
+    },
+    {
+      "comment_id": "1140110",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1612536540
+    },
+    {
+      "comment_id": "1631632",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1686326400
+    }
+  ],
+  "Citi": [
+    {
+      "comment_id": "219189",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1453394280
+    },
+    {
+      "comment_id": "219204",
+      "method": "in-branch",
+      "success": true,
+      "timestamp": 1453399020
+    },
+    {
+      "comment_id": "219208",
+      "method": "chat",
+      "success": false,
+      "timestamp": 1453399860
+    },
+    {
+      "comment_id": "219208",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1453399860
+    },
+    {
+      "comment_id": "219240",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1453406460
+    },
+    {
+      "comment_id": "219969",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1453713840
+    },
+    {
+      "comment_id": "235360",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1458589620
+    },
+    {
+      "comment_id": "293256",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1473424800
+    },
+    {
+      "comment_id": "304091",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1475776080
+    },
+    {
+      "comment_id": "410008",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1495644480
+    },
+    {
+      "comment_id": "417108",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1496933760
+    },
+    {
+      "comment_id": "423263",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1497890160
+    },
+    {
+      "comment_id": "484082",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1506617400
+    },
+    {
+      "comment_id": "521963",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1511385360
+    },
+    {
+      "comment_id": "539536",
+      "method": "chat",
+      "success": false,
+      "timestamp": 1513871340
+    },
+    {
+      "comment_id": "539536",
+      "method": "secure-message",
+      "success": false,
+      "timestamp": 1513871340
+    },
+    {
+      "comment_id": "554139",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1516870980
+    },
+    {
+      "comment_id": "592423",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1525894620
+    },
+    {
+      "comment_id": "622121",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1532615220
+    },
+    {
+      "comment_id": "645713",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1537552080
+    },
+    {
+      "comment_id": "655230",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1539189420
+    },
+    {
+      "comment_id": "655316",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1539199800
+    },
+    {
+      "comment_id": "719597",
+      "method": "in-branch",
+      "success": true,
+      "timestamp": 1549675320
+    },
+    {
+      "comment_id": "774101",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1561414440
+    },
+    {
+      "comment_id": "796904",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1565616660
+    },
+    {
+      "comment_id": "815513",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1569595860
+    },
+    {
+      "comment_id": "834947",
+      "method": "on-platform",
+      "success": false,
+      "timestamp": 1572893760
+    },
+    {
+      "comment_id": "834947",
+      "method": "chat",
+      "success": false,
+      "timestamp": 1572893760
+    },
+    {
+      "comment_id": "834947",
+      "method": "phone",
+      "success": false,
+      "timestamp": 1572893760
+    },
+    {
+      "comment_id": "883725",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1579640460
+    },
+    {
+      "comment_id": "929574",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1583502300
+    },
+    {
+      "comment_id": "1229952",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1627443480
+    },
+    {
+      "comment_id": "1288483",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1637784060
+    },
+    {
+      "comment_id": "1304539",
+      "method": "on-platform",
+      "success": true,
+      "timestamp": 1640366880
+    },
+    {
+      "comment_id": "1304539",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1640366880
+    },
+    {
+      "comment_id": "1450980",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1663940880
+    },
+    {
+      "comment_id": "1543287",
+      "method": "chat",
+      "success": false,
+      "timestamp": 1674842160
+    },
+    {
+      "comment_id": "1605119",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1682360580
+    },
+    {
+      "comment_id": "1816772",
+      "method": "chat",
+      "success": false,
+      "timestamp": 1710896280
+    },
+    {
+      "comment_id": "1817215",
+      "method": "chat",
+      "success": false,
+      "timestamp": 1710960120
+    },
+    {
+      "comment_id": "1817215",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1710960120
+    },
+    {
+      "comment_id": "1831319",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1713215880
+    },
+    {
+      "comment_id": "1927377",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1728323520
+    },
+    {
+      "comment_id": "1927377",
+      "method": "chat",
+      "success": false,
+      "timestamp": 1728323520
+    },
+    {
+      "comment_id": "1956143",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1732198800
+    },
+    {
+      "comment_id": "1956143",
+      "method": "chat",
+      "success": false,
+      "timestamp": 1732198800
+    },
+    {
+      "comment_id": "1966578",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1733701260
+    },
+    {
+      "comment_id": "1975564",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1735343940
+    },
+    {
+      "comment_id": "1975564",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1735343940
+    },
+    {
+      "comment_id": "1978674",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1735946280
+    },
+    {
+      "comment_id": "2025581",
+      "method": "chat",
+      "success": false,
+      "timestamp": 1742325180
+    },
+    {
+      "comment_id": "2025581",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1742325180
+    },
+    {
+      "comment_id": "2060472",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1747174260
+    },
+    {
+      "comment_id": "2060472",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1747174260
+    },
+    {
+      "comment_id": "2112073",
+      "method": "chat",
+      "success": false,
+      "timestamp": 1754330340
+    },
+    {
+      "comment_id": "2112170",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1754339220
+    }
+  ],
+  "Citibank": [
+    {
+      "comment_id": "596781",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1526678640
+    },
+    {
+      "comment_id": "1698818",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1695260700
+    }
+  ],
+  "Citizens": [
+    {
+      "comment_id": "219259",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1453410900
+    },
+    {
+      "comment_id": "264701",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1464882180
+    },
+    {
+      "comment_id": "509008",
+      "method": "secure-message",
+      "success": false,
+      "timestamp": 1509898860
+    },
+    {
+      "comment_id": "509008",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1509898860
+    },
+    {
+      "comment_id": "1006657",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1593487140
+    },
+    {
+      "comment_id": "1021715",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1595521920
+    },
+    {
+      "comment_id": "1140110",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1612536540
+    },
+    {
+      "comment_id": "1271261",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1634937360
+    },
+    {
+      "comment_id": "1373930",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1651247100
+    },
+    {
+      "comment_id": "1448873",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1663698540
+    },
+    {
+      "comment_id": "1467395",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1666030740
+    },
+    {
+      "comment_id": "1617207",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1683921120
+    },
+    {
+      "comment_id": "1631632",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1686326400
+    },
+    {
+      "comment_id": "1762194",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1703106960
+    },
+    {
+      "comment_id": "1766435",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1703781180
+    },
+    {
+      "comment_id": "1831319",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1713215880
+    },
+    {
+      "comment_id": "2096932",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1752243660
+    },
+    {
+      "comment_id": "2112193",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1754341500
+    }
+  ],
+  "City National Bank": [
+    {
+      "comment_id": "362381",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1488379140
+    }
+  ],
+  "City National Bank (WV)": [
+    {
+      "comment_id": "744455",
+      "method": "secure-message",
+      "success": false,
+      "timestamp": 1554412500
+    },
+    {
+      "comment_id": "744455",
+      "method": "chat",
+      "success": false,
+      "timestamp": 1554412500
+    },
+    {
+      "comment_id": "744455",
+      "method": "phone",
+      "success": false,
+      "timestamp": 1554412500
+    },
+    {
+      "comment_id": "744455",
+      "method": "0-balance",
+      "success": false,
+      "timestamp": 1554412500
+    },
+    {
+      "comment_id": "744455",
+      "method": "unknown",
+      "success": false,
+      "timestamp": 1554412500
+    }
+  ],
+  "Columbia Bank (NJ)": [
+    {
+      "comment_id": "619624",
+      "method": "unknown",
+      "success": true,
+      "timestamp": 1532105820
+    },
+    {
+      "comment_id": "970296",
+      "method": "in-branch",
+      "success": true,
+      "timestamp": 1588439640
+    }
+  ],
+  "Columbia Bank (WA, OR)": [
+    {
+      "comment_id": "566438",
+      "method": "unknown",
+      "success": true,
+      "timestamp": 1520129580
+    }
+  ],
+  "Columbia Bank (WA, OR, ID)": [
+    {
+      "comment_id": "707109",
+      "method": "unknown",
+      "success": false,
+      "timestamp": 1547659260
+    }
+  ],
+  "Comerica": [
+    {
+      "comment_id": "1210251",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1624377780
+    }
+  ],
+  "Community Financial Credit Union": [
+    {
+      "comment_id": "2055848",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1746548460
+    }
+  ],
+  "Credit Union West": [
+    {
+      "comment_id": "1061528",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1600973220
+    }
+  ],
+  "Dedham Savings Bank": [
+    {
+      "comment_id": "2108990",
+      "method": "unknown",
+      "success": false,
+      "timestamp": 1753905240
+    }
+  ],
+  "Delta CU": [
+    {
+      "comment_id": "1767028",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1703868780
+    }
+  ],
+  "Desert Community Bank": [
+    {
+      "comment_id": "826189",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1571264580
+    },
+    {
+      "comment_id": "826189",
+      "method": "secure-message",
+      "success": false,
+      "timestamp": 1571264580
+    },
+    {
+      "comment_id": "826189",
+      "method": "chat",
+      "success": false,
+      "timestamp": 1571264580
+    }
+  ],
+  "Discover": [
+    {
+      "comment_id": "219225",
+      "method": "secure-message",
+      "success": false,
+      "timestamp": 1453403880
+    },
+    {
+      "comment_id": "245481",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1460583540
+    },
+    {
+      "comment_id": "350668",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1486639920
+    },
+    {
+      "comment_id": "365995",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1488925500
+    },
+    {
+      "comment_id": "397596",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1493395800
+    },
+    {
+      "comment_id": "529149",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1512272460
+    },
+    {
+      "comment_id": "529149",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1512272460
+    },
+    {
+      "comment_id": "725072",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1550731380
+    },
+    {
+      "comment_id": "755292",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1556845860
+    },
+    {
+      "comment_id": "780820",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1562773020
+    },
+    {
+      "comment_id": "970295",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1588439580
+    },
+    {
+      "comment_id": "996186",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1591880940
+    },
+    {
+      "comment_id": "1767028",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1703868780
+    },
+    {
+      "comment_id": "1831319",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1713215880
+    },
+    {
+      "comment_id": "1878629",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1721495580
+    },
+    {
+      "comment_id": "1981738",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1736388840
+    },
+    {
+      "comment_id": "2112936",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1754433240
+    }
+  ],
+  "Dollar Bank": [
+    {
+      "comment_id": "744815",
+      "method": "secure-message",
+      "success": false,
+      "timestamp": 1554474060
+    },
+    {
+      "comment_id": "744815",
+      "method": "unknown",
+      "success": false,
+      "timestamp": 1554474060
+    },
+    {
+      "comment_id": "970296",
+      "method": "unknown",
+      "success": true,
+      "timestamp": 1588439640
+    },
+    {
+      "comment_id": "1138645",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1612367040
+    },
+    {
+      "comment_id": "1205709",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1623601860
+    }
+  ],
+  "E-Trade": [
+    {
+      "comment_id": "612153",
+      "method": "on-platform",
+      "success": true,
+      "timestamp": 1530631140
+    }
+  ],
+  "ECCU": [
+    {
+      "comment_id": "1395437",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1655238780
+    }
+  ],
+  "ETFCU (Evansville Teachers)": [
+    {
+      "comment_id": "1420577",
+      "method": "chat",
+      "success": false,
+      "timestamp": 1659723900
+    },
+    {
+      "comment_id": "1420577",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1659723900
+    }
+  ],
+  "East Boston Savings": [
+    {
+      "comment_id": "1040150",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1597966200
+    }
+  ],
+  "Educational Systems FCU": [
+    {
+      "comment_id": "1786741",
+      "method": "unknown",
+      "success": false,
+      "timestamp": 1706370420
+    },
+    {
+      "comment_id": "1786741",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1706370420
+    }
+  ],
+  "Elements": [
+    {
+      "comment_id": "655131",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1539174480
+    },
+    {
+      "comment_id": "689668",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1544632680
+    },
+    {
+      "comment_id": "708494",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1547853420
+    },
+    {
+      "comment_id": "722713",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1550246280
+    },
+    {
+      "comment_id": "735257",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1552651860
+    },
+    {
+      "comment_id": "816900",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1569954240
+    }
+  ],
+  "Essex Bank": [
+    {
+      "comment_id": "767848",
+      "method": "in-branch",
+      "success": true,
+      "timestamp": 1559849820
+    }
+  ],
+  "FCB South County Bank": [
+    {
+      "comment_id": "401241",
+      "method": "phone",
+      "success": false,
+      "timestamp": 1493922780
+    }
+  ],
+  "Fairwinds Credit Union": [
+    {
+      "comment_id": "1615838",
+      "method": "on-platform",
+      "success": true,
+      "timestamp": 1683741300
+    }
+  ],
+  "Fidelity": [
+    {
+      "comment_id": "749842",
+      "method": "chat",
+      "success": false,
+      "timestamp": 1555591200
+    },
+    {
+      "comment_id": "749842",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1555591200
+    },
+    {
+      "comment_id": "972589",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1588693260
+    },
+    {
+      "comment_id": "1373369",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1651152480
+    },
+    {
+      "comment_id": "1671081",
+      "method": "on-platform",
+      "success": true,
+      "timestamp": 1691866560
+    }
+  ],
+  "Fidelity Bank": [
+    {
+      "comment_id": "284448",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1471371780
+    }
+  ],
+  "Fifth Third": [
+    {
+      "comment_id": "219249",
+      "method": "0-balance",
+      "success": true,
+      "timestamp": 1453408800
+    },
+    {
+      "comment_id": "308622",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1477232520
+    },
+    {
+      "comment_id": "337288",
+      "method": "secure-message",
+      "success": false,
+      "timestamp": 1484173140
+    },
+    {
+      "comment_id": "337288",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1484173140
+    },
+    {
+      "comment_id": "361729",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1488293160
+    },
+    {
+      "comment_id": "400111",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1493823900
+    },
+    {
+      "comment_id": "447137",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1501091940
+    },
+    {
+      "comment_id": "455210",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1502208420
+    },
+    {
+      "comment_id": "546595",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1515011880
+    },
+    {
+      "comment_id": "604390",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1528754760
+    },
+    {
+      "comment_id": "611581",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1530540000
+    },
+    {
+      "comment_id": "611581",
+      "method": "secure-message",
+      "success": false,
+      "timestamp": 1530540000
+    },
+    {
+      "comment_id": "611581",
+      "method": "phone",
+      "success": false,
+      "timestamp": 1530540000
+    },
+    {
+      "comment_id": "628047",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1533767400
+    },
+    {
+      "comment_id": "816900",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1569954240
+    },
+    {
+      "comment_id": "831963",
+      "method": "in-branch",
+      "success": true,
+      "timestamp": 1572314580
+    },
+    {
+      "comment_id": "831963",
+      "method": "phone",
+      "success": false,
+      "timestamp": 1572314580
+    },
+    {
+      "comment_id": "831963",
+      "method": "secure-message",
+      "success": false,
+      "timestamp": 1572314580
+    },
+    {
+      "comment_id": "986339",
+      "method": "secure-message",
+      "success": false,
+      "timestamp": 1590435180
+    },
+    {
+      "comment_id": "1181456",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1619152680
+    },
+    {
+      "comment_id": "1338888",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1645755360
+    },
+    {
+      "comment_id": "1383622",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1653060360
+    },
+    {
+      "comment_id": "1561527",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1677081000
+    },
+    {
+      "comment_id": "1755372",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1702231200
+    },
+    {
+      "comment_id": "1878629",
+      "method": "chat",
+      "success": false,
+      "timestamp": 1721495580
+    },
+    {
+      "comment_id": "1878629",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1721495580
+    },
+    {
+      "comment_id": "1883457",
+      "method": "in-branch",
+      "success": true,
+      "timestamp": 1722158040
+    },
+    {
+      "comment_id": "1985605",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1736954520
+    },
+    {
+      "comment_id": "1985605",
+      "method": "in-branch",
+      "success": true,
+      "timestamp": 1736954520
+    },
+    {
+      "comment_id": "2090763",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1751462580
+    }
+  ],
+  "Fifth Third Bank": [
+    {
+      "comment_id": "274492",
+      "method": "phone",
+      "success": false,
+      "timestamp": 1468122900
+    },
+    {
+      "comment_id": "274492",
+      "method": "in-branch",
+      "success": true,
+      "timestamp": 1468122900
+    },
+    {
+      "comment_id": "298999",
+      "method": "unknown",
+      "success": true,
+      "timestamp": 1474815720
+    },
+    {
+      "comment_id": "445759",
+      "method": "secure-message",
+      "success": false,
+      "timestamp": 1500934920
+    },
+    {
+      "comment_id": "481413",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1506098220
+    },
+    {
+      "comment_id": "500913",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1508958240
+    },
+    {
+      "comment_id": "604319",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1528742220
+    },
+    {
+      "comment_id": "720495",
+      "method": "on-platform",
+      "success": false,
+      "timestamp": 1549920060
+    },
+    {
+      "comment_id": "1696860",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1695071880
+    }
+  ],
+  "First American Bank": [
+    {
+      "comment_id": "846366",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1574266860
+    }
+  ],
+  "First Citizens Bank": [
+    {
+      "comment_id": "219225",
+      "method": "unknown",
+      "success": false,
+      "timestamp": 1453403880
+    }
+  ],
+  "First Commonwealth FCU": [
+    {
+      "comment_id": "1345497",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1646888700
+    },
+    {
+      "comment_id": "1762705",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1703178060
+    }
+  ],
+  "First Horizon": [
+    {
+      "comment_id": "1980795",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1736284980
+    }
+  ],
+  "First Horizon Bank": [
+    {
+      "comment_id": "1228334",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1627177380
+    }
+  ],
+  "First National Bank": [
+    {
+      "comment_id": "262022",
+      "method": "phone",
+      "success": false,
+      "timestamp": 1464127800
+    },
+    {
+      "comment_id": "1228334",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1627177380
+    },
+    {
+      "comment_id": "1631632",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1686326400
+    }
+  ],
+  "First National Bank of PA": [
+    {
+      "comment_id": "340872",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1484797020
+    },
+    {
+      "comment_id": "1363511",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1649852280
+    }
+  ],
+  "First Niagara": [
+    {
+      "comment_id": "219259",
+      "method": "unknown",
+      "success": true,
+      "timestamp": 1453410900
+    },
+    {
+      "comment_id": "232534",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1457738760
+    },
+    {
+      "comment_id": "301887",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1475276400
+    }
+  ],
+  "First Tennessee": [
+    {
+      "comment_id": "276237",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1468617000
+    },
+    {
+      "comment_id": "284502",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1471382340
+    },
+    {
+      "comment_id": "304091",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1475776080
+    },
+    {
+      "comment_id": "549530",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1515621720
+    },
+    {
+      "comment_id": "674441",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1542508080
+    },
+    {
+      "comment_id": "795509",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1565281140
+    }
+  ],
+  "FirstBank": [
+    {
+      "comment_id": "304971",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1476045600
+    },
+    {
+      "comment_id": "397596",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1493395800
+    }
+  ],
+  "Firstrust": [
+    {
+      "comment_id": "1259156",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1632864900
+    }
+  ],
+  "Five Star Bank": [
+    {
+      "comment_id": "284448",
+      "method": "0-balance",
+      "success": true,
+      "timestamp": 1471371780
+    }
+  ],
+  "Flagstar": [
+    {
+      "comment_id": "655125",
+      "method": "unknown",
+      "success": false,
+      "timestamp": 1539172860
+    },
+    {
+      "comment_id": "695420",
+      "method": "secure-message",
+      "success": false,
+      "timestamp": 1545537780
+    },
+    {
+      "comment_id": "1831319",
+      "method": "in-branch",
+      "success": true,
+      "timestamp": 1713215880
+    },
+    {
+      "comment_id": "2071660",
+      "method": "in-branch",
+      "success": true,
+      "timestamp": 1748976000
+    },
+    {
+      "comment_id": "2136477",
+      "method": "chat",
+      "success": false,
+      "timestamp": 1757045040
+    }
+  ],
+  "Flagstar Bank": [
+    {
+      "comment_id": "1788843",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1706641320
+    }
+  ],
+  "Flushing Bank": [
+    {
+      "comment_id": "376085",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1490368380
+    },
+    {
+      "comment_id": "398923",
+      "method": "phone",
+      "success": false,
+      "timestamp": 1493680020
+    },
+    {
+      "comment_id": "398923",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1493680020
+    },
+    {
+      "comment_id": "655173",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1539180780
+    },
+    {
+      "comment_id": "750179",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1555681200
+    }
+  ],
+  "Fremont Bank": [
+    {
+      "comment_id": "736019",
+      "method": "0-balance",
+      "success": true,
+      "timestamp": 1552778880
+    },
+    {
+      "comment_id": "954059",
+      "method": "0-balance",
+      "success": true,
+      "timestamp": 1586358060
+    }
+  ],
+  "Fulton": [
+    {
+      "comment_id": "1140110",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1612536540
+    }
+  ],
+  "Fulton Bank": [
+    {
+      "comment_id": "577636",
+      "method": "secure-message",
+      "success": false,
+      "timestamp": 1522856460
+    },
+    {
+      "comment_id": "577636",
+      "method": "in-branch",
+      "success": true,
+      "timestamp": 1522856460
+    },
+    {
+      "comment_id": "588644",
+      "method": "secure-message",
+      "success": false,
+      "timestamp": 1525199400
+    },
+    {
+      "comment_id": "588644",
+      "method": "in-branch",
+      "success": true,
+      "timestamp": 1525199400
+    },
+    {
+      "comment_id": "619624",
+      "method": "in-branch",
+      "success": true,
+      "timestamp": 1532105820
+    },
+    {
+      "comment_id": "650766",
+      "method": "in-branch",
+      "success": true,
+      "timestamp": 1538567340
+    },
+    {
+      "comment_id": "655535",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1539224400
+    },
+    {
+      "comment_id": "956662",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1586808720
+    },
+    {
+      "comment_id": "1271261",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1634937360
+    },
+    {
+      "comment_id": "1631632",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1686326400
+    }
+  ],
+  "GTE Financial": [
+    {
+      "comment_id": "753497",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1556566140
+    }
+  ],
+  "Gesa Credit Union": [
+    {
+      "comment_id": "1028296",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1596406320
+    }
+  ],
+  "Go2Bank": [
+    {
+      "comment_id": "1631632",
+      "method": "on-platform",
+      "success": true,
+      "timestamp": 1686326400
+    },
+    {
+      "comment_id": "1776503",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1705077960
+    }
+  ],
+  "Great Lakes Credit Union": [
+    {
+      "comment_id": "727452",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1551200940
+    },
+    {
+      "comment_id": "780808",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1562771460
+    }
+  ],
+  "HSBC": [
+    {
+      "comment_id": "266709",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1465571940
+    },
+    {
+      "comment_id": "390075",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1492267980
+    },
+    {
+      "comment_id": "395354",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1493079000
+    },
+    {
+      "comment_id": "405688",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1494635940
+    },
+    {
+      "comment_id": "426302",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1498241760
+    },
+    {
+      "comment_id": "477661",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1505509560
+    },
+    {
+      "comment_id": "596781",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1526678640
+    },
+    {
+      "comment_id": "605242",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1528921260
+    },
+    {
+      "comment_id": "655173",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1539180780
+    },
+    {
+      "comment_id": "659095",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1539795840
+    },
+    {
+      "comment_id": "716754",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1549302540
+    },
+    {
+      "comment_id": "729290",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1551466980
+    },
+    {
+      "comment_id": "731420",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1551903840
+    },
+    {
+      "comment_id": "744595",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1554425700
+    },
+    {
+      "comment_id": "744595",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1554425700
+    },
+    {
+      "comment_id": "753271",
+      "method": "secure-message",
+      "success": false,
+      "timestamp": 1556517180
+    },
+    {
+      "comment_id": "753271",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1556517180
+    },
+    {
+      "comment_id": "766103",
+      "method": "secure-message",
+      "success": false,
+      "timestamp": 1559575260
+    },
+    {
+      "comment_id": "766103",
+      "method": "phone",
+      "success": false,
+      "timestamp": 1559575260
+    },
+    {
+      "comment_id": "766103",
+      "method": "in-branch",
+      "success": true,
+      "timestamp": 1559575260
+    },
+    {
+      "comment_id": "794640",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1565130000
+    },
+    {
+      "comment_id": "797598",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1565714820
+    },
+    {
+      "comment_id": "836664",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1573069980
+    },
+    {
+      "comment_id": "883540",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1579629840
+    },
+    {
+      "comment_id": "927112",
+      "method": "0-balance",
+      "success": true,
+      "timestamp": 1583284320
+    },
+    {
+      "comment_id": "929580",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1583502780
+    },
+    {
+      "comment_id": "970296",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1588439640
+    },
+    {
+      "comment_id": "996102",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1591856460
+    },
+    {
+      "comment_id": "1183903",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1619633220
+    },
+    {
+      "comment_id": "1523304",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1672531860
+    }
+  ],
+  "Hancock Bank": [
+    {
+      "comment_id": "427701",
+      "method": "unknown",
+      "success": true,
+      "timestamp": 1498502460
+    },
+    {
+      "comment_id": "491543",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1507674540
+    },
+    {
+      "comment_id": "495566",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1508260980
+    }
+  ],
+  "Hancock Whitney": [
+    {
+      "comment_id": "496050",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1508328180
+    },
+    {
+      "comment_id": "628047",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1533767400
+    },
+    {
+      "comment_id": "639382",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1536240780
+    },
+    {
+      "comment_id": "780423",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1562694540
+    },
+    {
+      "comment_id": "944145",
+      "method": "phone",
+      "success": false,
+      "timestamp": 1584983340
+    },
+    {
+      "comment_id": "944145",
+      "method": "phone",
+      "success": false,
+      "timestamp": 1584983340
+    },
+    {
+      "comment_id": "944145",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1584983340
+    }
+  ],
+  "Hanmi Bank": [
+    {
+      "comment_id": "949085",
+      "method": "0-balance",
+      "success": true,
+      "timestamp": 1585692600
+    }
+  ],
+  "Hanscom FCU": [
+    {
+      "comment_id": "2113276",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1754481660
+    }
+  ],
+  "HomeStreet": [
+    {
+      "comment_id": "219225",
+      "method": "unknown",
+      "success": false,
+      "timestamp": 1453403880
+    },
+    {
+      "comment_id": "655316",
+      "method": "unknown",
+      "success": true,
+      "timestamp": 1539199800
+    }
+  ],
+  "HomeStreet Bank": [
+    {
+      "comment_id": "267702",
+      "method": "unknown",
+      "success": true,
+      "timestamp": 1465937280
+    }
+  ],
+  "HomeTrust Bank": [
+    {
+      "comment_id": "1473872",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1666875900
+    }
+  ],
+  "Huntingdon": [
+    {
+      "comment_id": "566718",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1520231160
+    }
+  ],
+  "Huntington": [
+    {
+      "comment_id": "219259",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1453410900
+    },
+    {
+      "comment_id": "221177",
+      "method": "chat",
+      "success": false,
+      "timestamp": 1454118840
+    },
+    {
+      "comment_id": "221177",
+      "method": "unknown",
+      "success": false,
+      "timestamp": 1454118840
+    },
+    {
+      "comment_id": "221177",
+      "method": "in-branch",
+      "success": true,
+      "timestamp": 1454118840
+    },
+    {
+      "comment_id": "235360",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1458589620
+    },
+    {
+      "comment_id": "323762",
+      "method": "in-branch",
+      "success": true,
+      "timestamp": 1481036460
+    },
+    {
+      "comment_id": "323762",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1481036460
+    },
+    {
+      "comment_id": "477664",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1505509680
+    },
+    {
+      "comment_id": "569269",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1520898660
+    },
+    {
+      "comment_id": "614279",
+      "method": "in-branch",
+      "success": true,
+      "timestamp": 1530976080
+    },
+    {
+      "comment_id": "628047",
+      "method": "chat",
+      "success": false,
+      "timestamp": 1533767400
+    },
+    {
+      "comment_id": "628047",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1533767400
+    },
+    {
+      "comment_id": "694183",
+      "method": "chat",
+      "success": false,
+      "timestamp": 1545331020
+    },
+    {
+      "comment_id": "699894",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1546547460
+    },
+    {
+      "comment_id": "704946",
+      "method": "chat",
+      "success": false,
+      "timestamp": 1547324040
+    },
+    {
+      "comment_id": "704946",
+      "method": "phone",
+      "success": false,
+      "timestamp": 1547324040
+    },
+    {
+      "comment_id": "1073164",
+      "method": "0-balance",
+      "success": true,
+      "timestamp": 1602733440
+    },
+    {
+      "comment_id": "1140110",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1612536540
+    },
+    {
+      "comment_id": "1150665",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1614298020
+    },
+    {
+      "comment_id": "1271261",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1634937360
+    },
+    {
+      "comment_id": "1605119",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1682360580
+    },
+    {
+      "comment_id": "1617207",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1683921120
+    },
+    {
+      "comment_id": "1631632",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1686326400
+    },
+    {
+      "comment_id": "1828864",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1712767260
+    },
+    {
+      "comment_id": "1852204",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1717091760
+    },
+    {
+      "comment_id": "1968811",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1734034920
+    },
+    {
+      "comment_id": "2030648",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1742909100
+    }
+  ],
+  "Huntington Bank": [
+    {
+      "comment_id": "219249",
+      "method": "0-balance",
+      "success": true,
+      "timestamp": 1453408800
+    },
+    {
+      "comment_id": "641872",
+      "method": "phone",
+      "success": false,
+      "timestamp": 1536803820
+    },
+    {
+      "comment_id": "643632",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1537213860
+    },
+    {
+      "comment_id": "679316",
+      "method": "chat",
+      "success": false,
+      "timestamp": 1543379160
+    },
+    {
+      "comment_id": "719414",
+      "method": "phone",
+      "success": false,
+      "timestamp": 1549653600
+    },
+    {
+      "comment_id": "1059505",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1600727040
+    },
+    {
+      "comment_id": "1677447",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1692721500
+    },
+    {
+      "comment_id": "1915970",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1726848720
+    },
+    {
+      "comment_id": "1915970",
+      "method": "in-branch",
+      "success": true,
+      "timestamp": 1726848720
+    }
+  ],
+  "Iberia Bank": [
+    {
+      "comment_id": "868663",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1578504540
+    },
+    {
+      "comment_id": "993014",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1591363200
+    }
+  ],
+  "Iberiabank": [
+    {
+      "comment_id": "293114",
+      "method": "chat",
+      "success": false,
+      "timestamp": 1473384240
+    },
+    {
+      "comment_id": "293114",
+      "method": "phone",
+      "success": false,
+      "timestamp": 1473384240
+    },
+    {
+      "comment_id": "293114",
+      "method": "in-branch",
+      "success": true,
+      "timestamp": 1473384240
+    }
+  ],
+  "Igo Bank": [
+    {
+      "comment_id": "222162",
+      "method": "unknown",
+      "success": false,
+      "timestamp": 1454529180
+    }
+  ],
+  "Incredible Bank": [
+    {
+      "comment_id": "640551",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1536534720
+    },
+    {
+      "comment_id": "642500",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1536884580
+    },
+    {
+      "comment_id": "655173",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1539180780
+    },
+    {
+      "comment_id": "659095",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1539795840
+    },
+    {
+      "comment_id": "660055",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1539915840
+    },
+    {
+      "comment_id": "668445",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1541497020
+    },
+    {
+      "comment_id": "708494",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1547853420
+    },
+    {
+      "comment_id": "746353",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1554838320
+    },
+    {
+      "comment_id": "875256",
+      "method": "0-balance",
+      "success": true,
+      "timestamp": 1578971160
+    }
+  ],
+  "Investors Bank": [
+    {
+      "comment_id": "747398",
+      "method": "unknown",
+      "success": false,
+      "timestamp": 1555015560
+    },
+    {
+      "comment_id": "1210251",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1624377780
+    },
+    {
+      "comment_id": "1376570",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1651768920
+    }
+  ],
+  "Jovia": [
+    {
+      "comment_id": "1631632",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1686326400
+    }
+  ],
+  "Kabbage": [
+    {
+      "comment_id": "1293529",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1638461580
+    }
+  ],
+  "Kabbage Business": [
+    {
+      "comment_id": "1376570",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1651768920
+    }
+  ],
+  "Key Bank": [
+    {
+      "comment_id": "566718",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1520231160
+    }
+  ],
+  "KeyBank": [
+    {
+      "comment_id": "219311",
+      "method": "secure-message",
+      "success": false,
+      "timestamp": 1453423800
+    },
+    {
+      "comment_id": "220310",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1453842240
+    },
+    {
+      "comment_id": "273305",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1467806640
+    },
+    {
+      "comment_id": "302613",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1475437260
+    },
+    {
+      "comment_id": "302613",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1475437260
+    },
+    {
+      "comment_id": "349336",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1486418220
+    },
+    {
+      "comment_id": "357051",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1487605860
+    },
+    {
+      "comment_id": "361729",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1488293160
+    },
+    {
+      "comment_id": "410041",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1495648500
+    },
+    {
+      "comment_id": "534087",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1513049700
+    },
+    {
+      "comment_id": "827129",
+      "method": "chat",
+      "success": false,
+      "timestamp": 1571418840
+    },
+    {
+      "comment_id": "827129",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1571418840
+    },
+    {
+      "comment_id": "933838",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1583896380
+    },
+    {
+      "comment_id": "1088326",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1605054660
+    },
+    {
+      "comment_id": "1271261",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1634937360
+    },
+    {
+      "comment_id": "1535155",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1673897640
+    },
+    {
+      "comment_id": "1631632",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1686326400
+    },
+    {
+      "comment_id": "1982750",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1736523780
+    }
+  ],
+  "KeyPoint": [
+    {
+      "comment_id": "1631632",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1686326400
+    },
+    {
+      "comment_id": "1817935",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1711051800
+    },
+    {
+      "comment_id": "2106075",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1753462980
+    }
+  ],
+  "Lake Michigan Credit Union": [
+    {
+      "comment_id": "1420545",
+      "method": "unknown",
+      "success": true,
+      "timestamp": 1659720780
+    }
+  ],
+  "Lakeland Bank": [
+    {
+      "comment_id": "632408",
+      "method": "0-balance",
+      "success": true,
+      "timestamp": 1534959480
+    }
+  ],
+  "Laurel Road": [
+    {
+      "comment_id": "1828931",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1712773500
+    },
+    {
+      "comment_id": "2071427",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1748929020
+    },
+    {
+      "comment_id": "2124156",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1755693840
+    }
+  ],
+  "LegacyTexas Bank": [
+    {
+      "comment_id": "308323",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1477085580
+    },
+    {
+      "comment_id": "329746",
+      "method": "0-balance",
+      "success": true,
+      "timestamp": 1482294000
+    },
+    {
+      "comment_id": "547074",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1515084900
+    },
+    {
+      "comment_id": "602937",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1528320300
+    },
+    {
+      "comment_id": "626528",
+      "method": "on-platform",
+      "success": true,
+      "timestamp": 1533316800
+    },
+    {
+      "comment_id": "704770",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1547260200
+    }
+  ],
+  "Level One Bank": [
+    {
+      "comment_id": "337271",
+      "method": "unknown",
+      "success": false,
+      "timestamp": 1484170260
+    }
+  ],
+  "Liberty Bank": [
+    {
+      "comment_id": "983790",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1590010620
+    }
+  ],
+  "Lili": [
+    {
+      "comment_id": "1307323",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1640980020
+    }
+  ],
+  "Live Oak Bank": [
+    {
+      "comment_id": "2147358",
+      "method": "0-balance",
+      "success": true,
+      "timestamp": 1758157320
+    }
+  ],
+  "M&T": [
+    {
+      "comment_id": "225327",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1455324960
+    },
+    {
+      "comment_id": "348167",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1486098480
+    },
+    {
+      "comment_id": "362381",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1488379140
+    },
+    {
+      "comment_id": "533825",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1513012320
+    },
+    {
+      "comment_id": "533825",
+      "method": "secure-message",
+      "success": false,
+      "timestamp": 1513012320
+    },
+    {
+      "comment_id": "557752",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1517872560
+    }
+  ],
+  "M&T Bank": [
+    {
+      "comment_id": "219188",
+      "method": "secure-message",
+      "success": false,
+      "timestamp": 1453394160
+    },
+    {
+      "comment_id": "219259",
+      "method": "in-branch",
+      "success": true,
+      "timestamp": 1453410900
+    },
+    {
+      "comment_id": "232536",
+      "method": "phone",
+      "success": false,
+      "timestamp": 1457739000
+    },
+    {
+      "comment_id": "232536",
+      "method": "in-branch",
+      "success": true,
+      "timestamp": 1457739000
+    },
+    {
+      "comment_id": "473418",
+      "method": "secure-message",
+      "success": false,
+      "timestamp": 1504841340
+    },
+    {
+      "comment_id": "495566",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1508260980
+    },
+    {
+      "comment_id": "517386",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1510886160
+    },
+    {
+      "comment_id": "520838",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1511288760
+    },
+    {
+      "comment_id": "543219",
+      "method": "secure-message",
+      "success": false,
+      "timestamp": 1514555460
+    },
+    {
+      "comment_id": "543219",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1514555460
+    },
+    {
+      "comment_id": "566845",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1520272140
+    },
+    {
+      "comment_id": "587357",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1524850860
+    },
+    {
+      "comment_id": "625295",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1533156960
+    },
+    {
+      "comment_id": "642790",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1536944640
+    },
+    {
+      "comment_id": "648146",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1538001600
+    },
+    {
+      "comment_id": "658529",
+      "method": "secure-message",
+      "success": false,
+      "timestamp": 1539724800
+    },
+    {
+      "comment_id": "658529",
+      "method": "phone",
+      "success": false,
+      "timestamp": 1539724800
+    },
+    {
+      "comment_id": "719248",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1549639620
+    },
+    {
+      "comment_id": "744497",
+      "method": "secure-message",
+      "success": false,
+      "timestamp": 1554415200
+    },
+    {
+      "comment_id": "749853",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1555593180
+    },
+    {
+      "comment_id": "821871",
+      "method": "phone",
+      "success": false,
+      "timestamp": 1570739340
+    },
+    {
+      "comment_id": "821871",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1570739340
+    },
+    {
+      "comment_id": "823363",
+      "method": "phone",
+      "success": false,
+      "timestamp": 1570816380
+    },
+    {
+      "comment_id": "832894",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1572464640
+    },
+    {
+      "comment_id": "832894",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1572464640
+    },
+    {
+      "comment_id": "1831319",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1713215880
+    }
+  ],
+  "Marcus By Goldman Sachs": [
+    {
+      "comment_id": "817667",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1570056120
+    },
+    {
+      "comment_id": "1018892",
+      "method": "on-platform",
+      "success": true,
+      "timestamp": 1595127960
+    },
+    {
+      "comment_id": "1380601",
+      "method": "on-platform",
+      "success": true,
+      "timestamp": 1652454600
+    },
+    {
+      "comment_id": "1999668",
+      "method": "on-platform",
+      "success": true,
+      "timestamp": 1738891080
+    },
+    {
+      "comment_id": "2065470",
+      "method": "on-platform",
+      "success": true,
+      "timestamp": 1747870440
+    }
+  ],
+  "Memory Bank": [
+    {
+      "comment_id": "590428",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1525443660
+    },
+    {
+      "comment_id": "609858",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1530211680
+    },
+    {
+      "comment_id": "638641",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1536083580
+    },
+    {
+      "comment_id": "642237",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1536869400
+    },
+    {
+      "comment_id": "655131",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1539174480
+    },
+    {
+      "comment_id": "655157",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1539178680
+    },
+    {
+      "comment_id": "659095",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1539795840
+    },
+    {
+      "comment_id": "700218",
+      "method": "0-balance",
+      "success": true,
+      "timestamp": 1546616340
+    },
+    {
+      "comment_id": "708494",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1547853420
+    },
+    {
+      "comment_id": "722930",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1550263440
+    },
+    {
+      "comment_id": "775039",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1561571700
+    }
+  ],
+  "MidFirst Bank": [
+    {
+      "comment_id": "926650",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1583252940
+    },
+    {
+      "comment_id": "1123458",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1609998120
+    }
+  ],
+  "MidFlorida CU": [
+    {
+      "comment_id": "2108739",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1753887720
+    }
+  ],
+  "Midland States Bank": [
+    {
+      "comment_id": "1813234",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1710365760
+    },
+    {
+      "comment_id": "1823789",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1711984140
+    }
+  ],
+  "Monifi": [
+    {
+      "comment_id": "1232864",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1627937280
+    },
+    {
+      "comment_id": "1272966",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1635274980
+    }
+  ],
+  "Mountain America Credit Union": [
+    {
+      "comment_id": "387935",
+      "method": "chat",
+      "success": false,
+      "timestamp": 1491947460
+    },
+    {
+      "comment_id": "744467",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1554413700
+    },
+    {
+      "comment_id": "744467",
+      "method": "secure-message",
+      "success": false,
+      "timestamp": 1554413700
+    }
+  ],
+  "MountainOne Bank": [
+    {
+      "comment_id": "224875",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1455219900
+    }
+  ],
+  "NBKC": [
+    {
+      "comment_id": "655122",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1539172440
+    }
+  ],
+  "NYCB Family Of Banks": [
+    {
+      "comment_id": "1831319",
+      "method": "in-branch",
+      "success": true,
+      "timestamp": 1713215880
+    }
+  ],
+  "Nationwide": [
+    {
+      "comment_id": "219225",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1453403880
+    },
+    {
+      "comment_id": "219259",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1453410900
+    }
+  ],
+  "Navy Federal Credit Union": [
+    {
+      "comment_id": "709978",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1548169740
+    }
+  ],
+  "North Shore Bank": [
+    {
+      "comment_id": "853595",
+      "method": "phone",
+      "success": false,
+      "timestamp": 1575567240
+    },
+    {
+      "comment_id": "853595",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1575567240
+    }
+  ],
+  "Northfield Bank": [
+    {
+      "comment_id": "786860",
+      "method": "in-branch",
+      "success": true,
+      "timestamp": 1563849300
+    }
+  ],
+  "Northpointe": [
+    {
+      "comment_id": "272209",
+      "method": "0-balance",
+      "success": true,
+      "timestamp": 1467395220
+    },
+    {
+      "comment_id": "441271",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1500310740
+    },
+    {
+      "comment_id": "569269",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1520898660
+    }
+  ],
+  "Northpointe Bank": [
+    {
+      "comment_id": "283339",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1470989460
+    },
+    {
+      "comment_id": "308323",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1477085580
+    },
+    {
+      "comment_id": "983215",
+      "method": "on-platform",
+      "success": true,
+      "timestamp": 1589929380
+    }
+  ],
+  "Northwest": [
+    {
+      "comment_id": "480853",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1506011220
+    },
+    {
+      "comment_id": "583926",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1524157860
+    },
+    {
+      "comment_id": "610229",
+      "method": "chat",
+      "success": false,
+      "timestamp": 1530275520
+    },
+    {
+      "comment_id": "610229",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1530275520
+    }
+  ],
+  "Northwest Bank": [
+    {
+      "comment_id": "378067",
+      "method": "in-branch",
+      "success": false,
+      "timestamp": 1490666460
+    },
+    {
+      "comment_id": "1762194",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1703106960
+    }
+  ],
+  "Northwest Federal Credit Union": [
+    {
+      "comment_id": "993031",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1591364880
+    },
+    {
+      "comment_id": "1880921",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1721785920
+    },
+    {
+      "comment_id": "1903003",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1725128160
+    }
+  ],
+  "Ocean First Bank": [
+    {
+      "comment_id": "541906",
+      "method": "secure-message",
+      "success": false,
+      "timestamp": 1514397780
+    }
+  ],
+  "Old Missouri Bank": [
+    {
+      "comment_id": "995777",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1591817280
+    }
+  ],
+  "Old National": [
+    {
+      "comment_id": "571248",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1521300240
+    },
+    {
+      "comment_id": "571248",
+      "method": "in-branch",
+      "success": true,
+      "timestamp": 1521300240
+    }
+  ],
+  "Old National Bank": [
+    {
+      "comment_id": "645904",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1537572000
+    },
+    {
+      "comment_id": "649079",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1538182080
+    },
+    {
+      "comment_id": "650939",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1538595720
+    },
+    {
+      "comment_id": "727447",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1551200460
+    }
+  ],
+  "OnPoint CU": [
+    {
+      "comment_id": "1088328",
+      "method": "secure-message",
+      "success": false,
+      "timestamp": 1605054720
+    },
+    {
+      "comment_id": "1088328",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1605054720
+    }
+  ],
+  "One American Bank": [
+    {
+      "comment_id": "984836",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1590163740
+    }
+  ],
+  "One West Bank": [
+    {
+      "comment_id": "781296",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1562799360
+    }
+  ],
+  "OnePay": [
+    {
+      "comment_id": "2044442",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1744749420
+    },
+    {
+      "comment_id": "2112936",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1754433240
+    }
+  ],
+  "Orion Federal Credit Union": [
+    {
+      "comment_id": "826189",
+      "method": "unknown",
+      "success": true,
+      "timestamp": 1571264580
+    },
+    {
+      "comment_id": "826189",
+      "method": "phone",
+      "success": false,
+      "timestamp": 1571264580
+    },
+    {
+      "comment_id": "826189",
+      "method": "secure-message",
+      "success": false,
+      "timestamp": 1571264580
+    },
+    {
+      "comment_id": "953427",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1586284140
+    },
+    {
+      "comment_id": "2113274",
+      "method": "unknown",
+      "success": true,
+      "timestamp": 1754481480
+    }
+  ],
+  "PNC": [
+    {
+      "comment_id": "219205",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1453399380
+    },
+    {
+      "comment_id": "367036",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1489032660
+    },
+    {
+      "comment_id": "375724",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1490312280
+    },
+    {
+      "comment_id": "413810",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1496438400
+    },
+    {
+      "comment_id": "445759",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1500934920
+    },
+    {
+      "comment_id": "447716",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1501166760
+    },
+    {
+      "comment_id": "455210",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1502208420
+    },
+    {
+      "comment_id": "467256",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1503943980
+    },
+    {
+      "comment_id": "483133",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1506456600
+    },
+    {
+      "comment_id": "496518",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1508379960
+    },
+    {
+      "comment_id": "533827",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1513012440
+    },
+    {
+      "comment_id": "553064",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1516636620
+    },
+    {
+      "comment_id": "554725",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1517006820
+    },
+    {
+      "comment_id": "566718",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1520231160
+    },
+    {
+      "comment_id": "579359",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1523284560
+    },
+    {
+      "comment_id": "619624",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1532105820
+    },
+    {
+      "comment_id": "622121",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1532615220
+    },
+    {
+      "comment_id": "628047",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1533767400
+    },
+    {
+      "comment_id": "726592",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1551039540
+    },
+    {
+      "comment_id": "747190",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1554985020
+    },
+    {
+      "comment_id": "798471",
+      "method": "chat",
+      "success": false,
+      "timestamp": 1565826480
+    },
+    {
+      "comment_id": "798471",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1565826480
+    },
+    {
+      "comment_id": "807182",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1567854420
+    },
+    {
+      "comment_id": "815513",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1569595860
+    },
+    {
+      "comment_id": "962607",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1587601740
+    },
+    {
+      "comment_id": "998656",
+      "method": "secure-message",
+      "success": false,
+      "timestamp": 1592255280
+    },
+    {
+      "comment_id": "998656",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1592255280
+    },
+    {
+      "comment_id": "1086062",
+      "method": "secure-message",
+      "success": false,
+      "timestamp": 1604685600
+    },
+    {
+      "comment_id": "1086062",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1604685600
+    },
+    {
+      "comment_id": "1123731",
+      "method": "secure-message",
+      "success": false,
+      "timestamp": 1610050920
+    },
+    {
+      "comment_id": "1123731",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1610050920
+    },
+    {
+      "comment_id": "1133462",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1611599280
+    },
+    {
+      "comment_id": "1392727",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1654744500
+    },
+    {
+      "comment_id": "1498984",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1669848780
+    },
+    {
+      "comment_id": "1535732",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1673973660
+    },
+    {
+      "comment_id": "1601966",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1681937160
+    },
+    {
+      "comment_id": "1619504",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1684334220
+    },
+    {
+      "comment_id": "1718693",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1697736120
+    },
+    {
+      "comment_id": "1982801",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1736527620
+    },
+    {
+      "comment_id": "2145838",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1758051360
+    }
+  ],
+  "PNC Bank": [
+    {
+      "comment_id": "219202",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1453397520
+    }
+  ],
+  "PenFed": [
+    {
+      "comment_id": "1121297",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1609743060
+    },
+    {
+      "comment_id": "1875061",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1721066820
+    },
+    {
+      "comment_id": "1990225",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1737642000
+    }
+  ],
+  "Penfed": [
+    {
+      "comment_id": "2115055",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1754692140
+    }
+  ],
+  "People Driven Credit Union": [
+    {
+      "comment_id": "2031187",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1742943480
+    }
+  ],
+  "PeoplesBank": [
+    {
+      "comment_id": "1006657",
+      "method": "unknown",
+      "success": true,
+      "timestamp": 1593487140
+    }
+  ],
+  "Personal Capital Cash": [
+    {
+      "comment_id": "1385456",
+      "method": "unknown",
+      "success": true,
+      "timestamp": 1653527220
+    }
+  ],
+  "Pinnacle Bank": [
+    {
+      "comment_id": "272209",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1467395220
+    },
+    {
+      "comment_id": "320840",
+      "method": "0-balance",
+      "success": true,
+      "timestamp": 1480368420
+    },
+    {
+      "comment_id": "330741",
+      "method": "chat",
+      "success": false,
+      "timestamp": 1482538080
+    },
+    {
+      "comment_id": "416950",
+      "method": "in-branch",
+      "success": true,
+      "timestamp": 1496897760
+    },
+    {
+      "comment_id": "435244",
+      "method": "secure-message",
+      "success": false,
+      "timestamp": 1499448780
+    },
+    {
+      "comment_id": "435244",
+      "method": "chat",
+      "success": false,
+      "timestamp": 1499448780
+    },
+    {
+      "comment_id": "435244",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1499448780
+    },
+    {
+      "comment_id": "574641",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1522184400
+    },
+    {
+      "comment_id": "574641",
+      "method": "chat",
+      "success": false,
+      "timestamp": 1522184400
+    }
+  ],
+  "Pinnacle Bank (Texas)": [
+    {
+      "comment_id": "308323",
+      "method": "chat",
+      "success": false,
+      "timestamp": 1477085580
+    },
+    {
+      "comment_id": "308323",
+      "method": "phone",
+      "success": false,
+      "timestamp": 1477085580
+    },
+    {
+      "comment_id": "308323",
+      "method": "in-branch",
+      "success": true,
+      "timestamp": 1477085580
+    },
+    {
+      "comment_id": "316844",
+      "method": "0-balance",
+      "success": true,
+      "timestamp": 1479516660
+    }
+  ],
+  "Popular Bank": [
+    {
+      "comment_id": "569269",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1520898660
+    },
+    {
+      "comment_id": "584015",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1524165180
+    }
+  ],
+  "Popular Community Bank": [
+    {
+      "comment_id": "297109",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1474402080
+    }
+  ],
+  "Porte Bank": [
+    {
+      "comment_id": "1293059",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1638398040
+    }
+  ],
+  "Premier Bank": [
+    {
+      "comment_id": "1419496",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1659561360
+    }
+  ],
+  "Premier Bank (OH)": [
+    {
+      "comment_id": "1901678",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1724946360
+    }
+  ],
+  "Provident Bank": [
+    {
+      "comment_id": "673526",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1542321960
+    },
+    {
+      "comment_id": "970296",
+      "method": "in-branch",
+      "success": true,
+      "timestamp": 1588439640
+    }
+  ],
+  "Quontic": [
+    {
+      "comment_id": "1307323",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1640980020
+    }
+  ],
+  "Quorum FCU": [
+    {
+      "comment_id": "459199",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1502825880
+    },
+    {
+      "comment_id": "483133",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1506456600
+    }
+  ],
+  "Radius Bank": [
+    {
+      "comment_id": "459358",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1502840880
+    }
+  ],
+  "Regions": [
+    {
+      "comment_id": "281031",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1470280080
+    },
+    {
+      "comment_id": "447137",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1501091940
+    },
+    {
+      "comment_id": "483133",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1506456600
+    },
+    {
+      "comment_id": "663427",
+      "method": "secure-message",
+      "success": false,
+      "timestamp": 1540560840
+    },
+    {
+      "comment_id": "663427",
+      "method": "in-branch",
+      "success": false,
+      "timestamp": 1540560840
+    },
+    {
+      "comment_id": "746361",
+      "method": "in-branch",
+      "success": true,
+      "timestamp": 1554838860
+    },
+    {
+      "comment_id": "819523",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1570373580
+    },
+    {
+      "comment_id": "1285508",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1637263500
+    },
+    {
+      "comment_id": "1623801",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1685038500
+    }
+  ],
+  "Republic Bank": [
+    {
+      "comment_id": "830757",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1572030120
+    }
+  ],
+  "Rockland Trust": [
+    {
+      "comment_id": "749020",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1555427280
+    },
+    {
+      "comment_id": "772735",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1561076520
+    },
+    {
+      "comment_id": "1163833",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1616257020
+    }
+  ],
+  "S&T Bank": [
+    {
+      "comment_id": "566719",
+      "method": "unknown",
+      "success": false,
+      "timestamp": 1520231220
+    },
+    {
+      "comment_id": "570762",
+      "method": "secure-message",
+      "success": false,
+      "timestamp": 1521172080
+    },
+    {
+      "comment_id": "1271261",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1634937360
+    },
+    {
+      "comment_id": "1271261",
+      "method": "chat",
+      "success": false,
+      "timestamp": 1634937360
+    },
+    {
+      "comment_id": "1271261",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1634937360
+    }
+  ],
+  "SEFCU": [
+    {
+      "comment_id": "816900",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1569954240
+    }
+  ],
+  "Sacramento Credit Union": [
+    {
+      "comment_id": "1142746",
+      "method": "on-platform",
+      "success": false,
+      "timestamp": 1612975080
+    }
+  ],
+  "Safe Credit Union": [
+    {
+      "comment_id": "1156975",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1615415400
+    }
+  ],
+  "Sandy Spring Bank": [
+    {
+      "comment_id": "559030",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1518146040
+    },
+    {
+      "comment_id": "756483",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1557188280
+    }
+  ],
+  "Santander": [
+    {
+      "comment_id": "219259",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1453410900
+    },
+    {
+      "comment_id": "280081",
+      "method": "in-branch",
+      "success": true,
+      "timestamp": 1470058920
+    },
+    {
+      "comment_id": "284502",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1471382340
+    },
+    {
+      "comment_id": "304091",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1475776080
+    },
+    {
+      "comment_id": "336078",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1483996800
+    },
+    {
+      "comment_id": "338832",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1484421360
+    },
+    {
+      "comment_id": "398924",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1493680080
+    },
+    {
+      "comment_id": "450089",
+      "method": "phone",
+      "success": false,
+      "timestamp": 1501528320
+    },
+    {
+      "comment_id": "481550",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1506112380
+    },
+    {
+      "comment_id": "534092",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1513050660
+    },
+    {
+      "comment_id": "566718",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1520231160
+    },
+    {
+      "comment_id": "619624",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1532105820
+    },
+    {
+      "comment_id": "662739",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1540426320
+    },
+    {
+      "comment_id": "733626",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1552391880
+    },
+    {
+      "comment_id": "747398",
+      "method": "unknown",
+      "success": false,
+      "timestamp": 1555015560
+    },
+    {
+      "comment_id": "1140110",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1612536540
+    },
+    {
+      "comment_id": "1261699",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1633385280
+    },
+    {
+      "comment_id": "1271261",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1634937360
+    },
+    {
+      "comment_id": "1762148",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1703103780
+    },
+    {
+      "comment_id": "1762194",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1703106960
+    },
+    {
+      "comment_id": "1831319",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1713215880
+    },
+    {
+      "comment_id": "1982750",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1736523780
+    },
+    {
+      "comment_id": "1995049",
+      "method": "phone",
+      "success": false,
+      "timestamp": 1738368780
+    }
+  ],
+  "Schwab": [
+    {
+      "comment_id": "2131600",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1756505700
+    }
+  ],
+  "Seacoast Bank": [
+    {
+      "comment_id": "272222",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1467397200
+    },
+    {
+      "comment_id": "1704981",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1695942300
+    }
+  ],
+  "Service Credit Union": [
+    {
+      "comment_id": "1790264",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1706777940
+    },
+    {
+      "comment_id": "1898194",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1724437680
+    }
+  ],
+  "Simple": [
+    {
+      "comment_id": "848997",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1574724420
+    },
+    {
+      "comment_id": "955522",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1586547600
+    },
+    {
+      "comment_id": "955522",
+      "method": "secure-message",
+      "success": false,
+      "timestamp": 1586547600
+    }
+  ],
+  "SkyOne Federal Credit Union": [
+    {
+      "comment_id": "1369433",
+      "method": "secure-message",
+      "success": false,
+      "timestamp": 1650404160
+    },
+    {
+      "comment_id": "1369433",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1650404160
+    }
+  ],
+  "SoFi": [
+    {
+      "comment_id": "1963191",
+      "method": "on-platform",
+      "success": true,
+      "timestamp": 1733237940
+    }
+  ],
+  "South Shore Bank": [
+    {
+      "comment_id": "1187294",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1620334440
+    }
+  ],
+  "South State Bank": [
+    {
+      "comment_id": "1228334",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1627177380
+    },
+    {
+      "comment_id": "1434590",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1661861880
+    },
+    {
+      "comment_id": "1434590",
+      "method": "phone",
+      "success": false,
+      "timestamp": 1661861880
+    }
+  ],
+  "SouthState": [
+    {
+      "comment_id": "1862305",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1718905800
+    }
+  ],
+  "Spruce": [
+    {
+      "comment_id": "1755372",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1702231200
+    }
+  ],
+  "Star One": [
+    {
+      "comment_id": "1307323",
+      "method": "unknown",
+      "success": false,
+      "timestamp": 1640980020
+    }
+  ],
+  "State Bank of India": [
+    {
+      "comment_id": "736019",
+      "method": "0-balance",
+      "success": true,
+      "timestamp": 1552778880
+    }
+  ],
+  "Suffolk Credit Union": [
+    {
+      "comment_id": "1907010",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1725742200
+    }
+  ],
+  "SunTrust": [
+    {
+      "comment_id": "219225",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1453403880
+    },
+    {
+      "comment_id": "335898",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1483976220
+    },
+    {
+      "comment_id": "351880",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1486835280
+    },
+    {
+      "comment_id": "744595",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1554425700
+    },
+    {
+      "comment_id": "746361",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1554838860
+    },
+    {
+      "comment_id": "780423",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1562694540
+    },
+    {
+      "comment_id": "815513",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1569595860
+    },
+    {
+      "comment_id": "1142705",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1612970700
+    },
+    {
+      "comment_id": "1292576",
+      "method": "unknown",
+      "success": false,
+      "timestamp": 1638341100
+    }
+  ],
+  "Synchrony Bank": [
+    {
+      "comment_id": "1169482",
+      "method": "secure-message",
+      "success": false,
+      "timestamp": 1617296160
+    },
+    {
+      "comment_id": "1169482",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1617296160
+    }
+  ],
+  "Synovus Bank": [
+    {
+      "comment_id": "1704981",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1695942300
+    }
+  ],
+  "TBK Bank": [
+    {
+      "comment_id": "1419496",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1659561360
+    }
+  ],
+  "TCF": [
+    {
+      "comment_id": "849004",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1574725500
+    }
+  ],
+  "TCF Bank": [
+    {
+      "comment_id": "717085",
+      "method": "on-platform",
+      "success": false,
+      "timestamp": 1549334280
+    },
+    {
+      "comment_id": "816900",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1569954240
+    },
+    {
+      "comment_id": "884550",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1579710240
+    },
+    {
+      "comment_id": "884550",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1579710240
+    },
+    {
+      "comment_id": "905069",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1581389340
+    },
+    {
+      "comment_id": "1000774",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1592591040
+    }
+  ],
+  "TD Bank": [
+    {
+      "comment_id": "219259",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1453410900
+    },
+    {
+      "comment_id": "297109",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1474402080
+    },
+    {
+      "comment_id": "324210",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1481122500
+    },
+    {
+      "comment_id": "438433",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1499891220
+    },
+    {
+      "comment_id": "447137",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1501091940
+    },
+    {
+      "comment_id": "535945",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1513362840
+    },
+    {
+      "comment_id": "594109",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1526260200
+    },
+    {
+      "comment_id": "655173",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1539180780
+    },
+    {
+      "comment_id": "709225",
+      "method": "secure-message",
+      "success": false,
+      "timestamp": 1548042480
+    },
+    {
+      "comment_id": "815513",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1569595860
+    },
+    {
+      "comment_id": "1271261",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1634937360
+    },
+    {
+      "comment_id": "1425492",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1660577100
+    },
+    {
+      "comment_id": "1631632",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1686326400
+    },
+    {
+      "comment_id": "1831319",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1713215880
+    }
+  ],
+  "TIAA": [
+    {
+      "comment_id": "794640",
+      "method": "secure-message",
+      "success": false,
+      "timestamp": 1565130000
+    },
+    {
+      "comment_id": "794640",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1565130000
+    }
+  ],
+  "TIAA Bank": [
+    {
+      "comment_id": "744917",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1554490260
+    }
+  ],
+  "TIAA Direct": [
+    {
+      "comment_id": "362725",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1488421680
+    },
+    {
+      "comment_id": "405688",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1494635940
+    },
+    {
+      "comment_id": "970296",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1588439640
+    }
+  ],
+  "Talmer Bank": [
+    {
+      "comment_id": "287779",
+      "method": "phone",
+      "success": false,
+      "timestamp": 1472070720
+    },
+    {
+      "comment_id": "304091",
+      "method": "unknown",
+      "success": false,
+      "timestamp": 1475776080
+    }
+  ],
+  "Teachers Federal Credit Union": [
+    {
+      "comment_id": "1523304",
+      "method": "unknown",
+      "success": true,
+      "timestamp": 1672531860
+    }
+  ],
+  "Tech CU": [
+    {
+      "comment_id": "281031",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1470280080
+    }
+  ],
+  "Travis Credit Union": [
+    {
+      "comment_id": "1794142",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1707277680
+    }
+  ],
+  "Truist": [
+    {
+      "comment_id": "1683777",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1693521000
+    },
+    {
+      "comment_id": "1878629",
+      "method": "in-branch",
+      "success": true,
+      "timestamp": 1721495580
+    },
+    {
+      "comment_id": "1899614",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1724692740
+    },
+    {
+      "comment_id": "1989459",
+      "method": "in-branch",
+      "success": true,
+      "timestamp": 1737504480
+    },
+    {
+      "comment_id": "2037392",
+      "method": "secure-message",
+      "success": false,
+      "timestamp": 1743704580
+    },
+    {
+      "comment_id": "2037392",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1743704580
+    },
+    {
+      "comment_id": "2040231",
+      "method": "0-balance",
+      "success": true,
+      "timestamp": 1744118160
+    },
+    {
+      "comment_id": "2040231",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1744118160
+    },
+    {
+      "comment_id": "2040231",
+      "method": "chat",
+      "success": false,
+      "timestamp": 1744118160
+    },
+    {
+      "comment_id": "2040231",
+      "method": "on-platform",
+      "success": false,
+      "timestamp": 1744118160
+    },
+    {
+      "comment_id": "2100467",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1752679260
+    },
+    {
+      "comment_id": "2105621",
+      "method": "0-balance",
+      "success": true,
+      "timestamp": 1753386600
+    },
+    {
+      "comment_id": "2145838",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1758051360
+    },
+    {
+      "comment_id": "2145838",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1758051360
+    }
+  ],
+  "Trustco Bank": [
+    {
+      "comment_id": "2114982",
+      "method": "0-balance",
+      "success": true,
+      "timestamp": 1754688960
+    }
+  ],
+  "U.S. Bank": [
+    {
+      "comment_id": "219201",
+      "method": "secure-message",
+      "success": false,
+      "timestamp": 1453397460
+    },
+    {
+      "comment_id": "219235",
+      "method": "unknown",
+      "success": true,
+      "timestamp": 1453406040
+    },
+    {
+      "comment_id": "219259",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1453410900
+    },
+    {
+      "comment_id": "308323",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1477085580
+    },
+    {
+      "comment_id": "388796",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1492062060
+    },
+    {
+      "comment_id": "467256",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1503943980
+    },
+    {
+      "comment_id": "489120",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1507314240
+    },
+    {
+      "comment_id": "563758",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1519507920
+    },
+    {
+      "comment_id": "659095",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1539795840
+    },
+    {
+      "comment_id": "744630",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1554429420
+    },
+    {
+      "comment_id": "746361",
+      "method": "in-branch",
+      "success": true,
+      "timestamp": 1554838860
+    },
+    {
+      "comment_id": "754686",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1556741640
+    },
+    {
+      "comment_id": "768144",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1559910960
+    },
+    {
+      "comment_id": "820481",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1570564080
+    },
+    {
+      "comment_id": "901794",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1581100320
+    },
+    {
+      "comment_id": "956666",
+      "method": "0-balance",
+      "success": true,
+      "timestamp": 1586809920
+    },
+    {
+      "comment_id": "967696",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1588201020
+    },
+    {
+      "comment_id": "970296",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1588439640
+    },
+    {
+      "comment_id": "999460",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1592399460
+    },
+    {
+      "comment_id": "1049435",
+      "method": "unknown",
+      "success": true,
+      "timestamp": 1599342480
+    },
+    {
+      "comment_id": "1060007",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1600801200
+    },
+    {
+      "comment_id": "1090625",
+      "method": "0-balance",
+      "success": true,
+      "timestamp": 1605307500
+    },
+    {
+      "comment_id": "1146178",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1613587860
+    },
+    {
+      "comment_id": "1185023",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1619823300
+    },
+    {
+      "comment_id": "1250474",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1631201040
+    },
+    {
+      "comment_id": "1458104",
+      "method": "0-balance",
+      "success": true,
+      "timestamp": 1664893680
+    },
+    {
+      "comment_id": "1522682",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1672439220
+    },
+    {
+      "comment_id": "1535732",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1673973660
+    },
+    {
+      "comment_id": "1605086",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1682358420
+    },
+    {
+      "comment_id": "1674887",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1692390180
+    },
+    {
+      "comment_id": "1819999",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1711473420
+    },
+    {
+      "comment_id": "1936884",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1729694460
+    },
+    {
+      "comment_id": "1945253",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1730856840
+    },
+    {
+      "comment_id": "1978019",
+      "method": "unknown",
+      "success": false,
+      "timestamp": 1735854900
+    },
+    {
+      "comment_id": "2030332",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1742855520
+    },
+    {
+      "comment_id": "2037377",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1743703680
+    },
+    {
+      "comment_id": "2045057",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1744835100
+    },
+    {
+      "comment_id": "2047917",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1745331360
+    },
+    {
+      "comment_id": "2067677",
+      "method": "on-platform",
+      "success": false,
+      "timestamp": 1748274900
+    },
+    {
+      "comment_id": "2067677",
+      "method": "on-platform",
+      "success": false,
+      "timestamp": 1748274900
+    },
+    {
+      "comment_id": "2067677",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1748274900
+    },
+    {
+      "comment_id": "2077715",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1749865440
+    },
+    {
+      "comment_id": "2087725",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1751033280
+    },
+    {
+      "comment_id": "2112713",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1754417100
+    },
+    {
+      "comment_id": "2120888",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1755354540
+    },
+    {
+      "comment_id": "2156718",
+      "method": "on-platform",
+      "success": true,
+      "timestamp": 1759263960
+    }
+  ],
+  "UFB Direct": [
+    {
+      "comment_id": "219268",
+      "method": "unknown",
+      "success": true,
+      "timestamp": 1453414440
+    },
+    {
+      "comment_id": "970296",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1588439640
+    },
+    {
+      "comment_id": "2000569",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1739024820
+    }
+  ],
+  "USAA": [
+    {
+      "comment_id": "687843",
+      "method": "0-balance",
+      "success": true,
+      "timestamp": 1544344500
+    },
+    {
+      "comment_id": "1754061",
+      "method": "on-platform",
+      "success": true,
+      "timestamp": 1702045620
+    },
+    {
+      "comment_id": "1870118",
+      "method": "on-platform",
+      "success": true,
+      "timestamp": 1720205880
+    }
+  ],
+  "USAlliance": [
+    {
+      "comment_id": "1762194",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1703106960
+    }
+  ],
+  "USE Credit Union": [
+    {
+      "comment_id": "1156975",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1615415400
+    }
+  ],
+  "Umpqua Bank": [
+    {
+      "comment_id": "759403",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1557864360
+    },
+    {
+      "comment_id": "759403",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1557864360
+    }
+  ],
+  "Unify": [
+    {
+      "comment_id": "722713",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1550246280
+    },
+    {
+      "comment_id": "886858",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1579876440
+    }
+  ],
+  "Union Bank": [
+    {
+      "comment_id": "566438",
+      "method": "unknown",
+      "success": true,
+      "timestamp": 1520129580
+    },
+    {
+      "comment_id": "596781",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1526678640
+    },
+    {
+      "comment_id": "966882",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1588106940
+    }
+  ],
+  "Union Bank & Trust": [
+    {
+      "comment_id": "753272",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1556517660
+    },
+    {
+      "comment_id": "1206871",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1623781260
+    },
+    {
+      "comment_id": "1206871",
+      "method": "in-branch",
+      "success": true,
+      "timestamp": 1623781260
+    },
+    {
+      "comment_id": "1206871",
+      "method": "secure-message",
+      "success": false,
+      "timestamp": 1623781260
+    }
+  ],
+  "Unity Bank": [
+    {
+      "comment_id": "588661",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1525200240
+    }
+  ],
+  "Univest": [
+    {
+      "comment_id": "559582",
+      "method": "on-platform",
+      "success": true,
+      "timestamp": 1518297300
+    }
+  ],
+  "Unknown Bank": [
+    {
+      "comment_id": "744918",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1554490620
+    },
+    {
+      "comment_id": "1105735",
+      "method": "on-platform",
+      "success": true,
+      "timestamp": 1607525820
+    }
+  ],
+  "Upgrade": [
+    {
+      "comment_id": "1984861",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1736867040
+    },
+    {
+      "comment_id": "2046592",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1745074800
+    }
+  ],
+  "Valley National Bank": [
+    {
+      "comment_id": "604570",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1528809600
+    },
+    {
+      "comment_id": "722713",
+      "method": "secure-message",
+      "success": false,
+      "timestamp": 1550246280
+    },
+    {
+      "comment_id": "759726",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1557942360
+    },
+    {
+      "comment_id": "1843744",
+      "method": "0-balance",
+      "success": true,
+      "timestamp": 1715547900
+    },
+    {
+      "comment_id": "1843744",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1715547900
+    },
+    {
+      "comment_id": "1983155",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1736565900
+    }
+  ],
+  "VantageWest": [
+    {
+      "comment_id": "1025378",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1595984520
+    }
+  ],
+  "Varo": [
+    {
+      "comment_id": "833154",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1572497880
+    },
+    {
+      "comment_id": "1480680",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1667677320
+    }
+  ],
+  "Verity Credit Union": [
+    {
+      "comment_id": "753862",
+      "method": "secure-message",
+      "success": false,
+      "timestamp": 1556634480
+    },
+    {
+      "comment_id": "1028296",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1596406320
+    }
+  ],
+  "VyStar": [
+    {
+      "comment_id": "1755372",
+      "method": "chat",
+      "success": false,
+      "timestamp": 1702231200
+    }
+  ],
+  "Webster Bank": [
+    {
+      "comment_id": "410240",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1495671060
+    },
+    {
+      "comment_id": "521963",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1511385360
+    }
+  ],
+  "Wells Fargo": [
+    {
+      "comment_id": "272209",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1467395220
+    },
+    {
+      "comment_id": "397591",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1493395320
+    },
+    {
+      "comment_id": "423265",
+      "method": "in-branch",
+      "success": true,
+      "timestamp": 1497890160
+    },
+    {
+      "comment_id": "476382",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1505325720
+    },
+    {
+      "comment_id": "565366",
+      "method": "0-balance",
+      "success": true,
+      "timestamp": 1519916160
+    },
+    {
+      "comment_id": "585831",
+      "method": "0-balance",
+      "success": true,
+      "timestamp": 1524600720
+    },
+    {
+      "comment_id": "592364",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1525886280
+    },
+    {
+      "comment_id": "668019",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1541442000
+    },
+    {
+      "comment_id": "674329",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1542478620
+    },
+    {
+      "comment_id": "674578",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1542558000
+    },
+    {
+      "comment_id": "678977",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1543355220
+    },
+    {
+      "comment_id": "702369",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1546962420
+    },
+    {
+      "comment_id": "714838",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1548956220
+    },
+    {
+      "comment_id": "746361",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1554838860
+    },
+    {
+      "comment_id": "747398",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1555015560
+    },
+    {
+      "comment_id": "751083",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1555963620
+    },
+    {
+      "comment_id": "752660",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1556293080
+    },
+    {
+      "comment_id": "769097",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1560262320
+    },
+    {
+      "comment_id": "790578",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1564409940
+    },
+    {
+      "comment_id": "809234",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1568297280
+    },
+    {
+      "comment_id": "998477",
+      "method": "0-balance",
+      "success": true,
+      "timestamp": 1592236860
+    },
+    {
+      "comment_id": "1020461",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1595359320
+    },
+    {
+      "comment_id": "1022746",
+      "method": "0-balance",
+      "success": false,
+      "timestamp": 1595629320
+    },
+    {
+      "comment_id": "1022746",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1595629320
+    },
+    {
+      "comment_id": "1022746",
+      "method": "0-balance",
+      "success": true,
+      "timestamp": 1595629320
+    },
+    {
+      "comment_id": "1022746",
+      "method": "in-branch",
+      "success": true,
+      "timestamp": 1595629320
+    },
+    {
+      "comment_id": "1028296",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1596406320
+    },
+    {
+      "comment_id": "1384038",
+      "method": "on-platform",
+      "success": true,
+      "timestamp": 1653162960
+    },
+    {
+      "comment_id": "1434590",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1661861880
+    },
+    {
+      "comment_id": "1471242",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1666557780
+    },
+    {
+      "comment_id": "1471242",
+      "method": "in-branch",
+      "success": true,
+      "timestamp": 1666557780
+    },
+    {
+      "comment_id": "1542650",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1674765540
+    },
+    {
+      "comment_id": "1631632",
+      "method": "on-platform",
+      "success": true,
+      "timestamp": 1686326400
+    },
+    {
+      "comment_id": "1811885",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1710176280
+    },
+    {
+      "comment_id": "1831319",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1713215880
+    },
+    {
+      "comment_id": "1849364",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1716518160
+    },
+    {
+      "comment_id": "1849364",
+      "method": "chat",
+      "success": false,
+      "timestamp": 1716518160
+    },
+    {
+      "comment_id": "1849364",
+      "method": "secure-message",
+      "success": false,
+      "timestamp": 1716518160
+    },
+    {
+      "comment_id": "1849364",
+      "method": "on-platform",
+      "success": false,
+      "timestamp": 1716518160
+    },
+    {
+      "comment_id": "1862885",
+      "method": "on-platform",
+      "success": true,
+      "timestamp": 1718993940
+    },
+    {
+      "comment_id": "1866020",
+      "method": "on-platform",
+      "success": true,
+      "timestamp": 1719595320
+    },
+    {
+      "comment_id": "1878629",
+      "method": "0-balance",
+      "success": true,
+      "timestamp": 1721495580
+    },
+    {
+      "comment_id": "1898165",
+      "method": "on-platform",
+      "success": true,
+      "timestamp": 1724434320
+    },
+    {
+      "comment_id": "1910048",
+      "method": "on-platform",
+      "success": true,
+      "timestamp": 1726112400
+    },
+    {
+      "comment_id": "1945083",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1730840340
+    },
+    {
+      "comment_id": "2049392",
+      "method": "on-platform",
+      "success": true,
+      "timestamp": 1745524500
+    },
+    {
+      "comment_id": "2096932",
+      "method": "on-platform",
+      "success": true,
+      "timestamp": 1752243660
+    },
+    {
+      "comment_id": "2105520",
+      "method": "on-platform",
+      "success": true,
+      "timestamp": 1753379400
+    },
+    {
+      "comment_id": "2112170",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1754339220
+    },
+    {
+      "comment_id": "2117414",
+      "method": "on-platform",
+      "success": true,
+      "timestamp": 1755009420
+    },
+    {
+      "comment_id": "2132298",
+      "method": "secure-message",
+      "success": false,
+      "timestamp": 1756589760
+    }
+  ],
+  "Wesbanco": [
+    {
+      "comment_id": "886848",
+      "method": "phone",
+      "success": false,
+      "timestamp": 1579875660
+    }
+  ],
+  "Westfield Bank": [
+    {
+      "comment_id": "661209",
+      "method": "in-branch",
+      "success": false,
+      "timestamp": 1540215360
+    }
+  ],
+  "Wings Credit Union": [
+    {
+      "comment_id": "1223352",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1626396420
+    },
+    {
+      "comment_id": "1980566",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1736268480
+    },
+    {
+      "comment_id": "2001657",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1739216580
+    },
+    {
+      "comment_id": "2112660",
+      "method": "secure-message",
+      "success": false,
+      "timestamp": 1754412120
+    }
+  ],
+  "Wintrust": [
+    {
+      "comment_id": "1307323",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1640980020
+    }
+  ],
+  "unknown": [
+    {
+      "comment_id": "611804",
+      "method": "0-balance",
+      "success": true,
+      "timestamp": 1530568860
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+name: Update Bank Closure Data
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.13'
+      
+      - name: Install uv
+        run: |
+          curl -LsSf https://astral.sh/uv/install.sh | sh
+          echo "$HOME/.cargo/bin" >> $GITHUB_PATH
+      
+      - name: Install Python dependencies
+        run: |
+          cd scrape
+          uv pip install --system -e .
+      
+      - name: Configure git
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+      
+      - name: Run scrape
+        run: |
+          cd scrape
+          python scrape.py
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+      
+      - name: Check for scrape changes
+        id: check_scrape
+        run: |
+          cd scrape
+          if python check_changes.py comments.jsonl; then
+            echo "has_changes=true" >> $GITHUB_OUTPUT
+          else
+            echo "has_changes=false" >> $GITHUB_OUTPUT
+          fi
+      
+      - name: Commit scrape results
+        if: steps.check_scrape.outputs.has_changes == 'true'
+        run: |
+          git add scrape/comments.jsonl
+          git commit -m "Update scraped comments data"
+          git push
+      
+      - name: Run extract_data
+        if: steps.check_scrape.outputs.has_changes == 'true'
+        run: |
+          cd scrape
+          python extract_data.py
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+      
+      - name: Check for extract changes
+        if: steps.check_scrape.outputs.has_changes == 'true'
+        id: check_extract
+        run: |
+          cd scrape
+          if python check_changes.py comments_extracted.jsonl by_bank.json; then
+            echo "has_changes=true" >> $GITHUB_OUTPUT
+          else
+            echo "has_changes=false" >> $GITHUB_OUTPUT
+          fi
+      
+      - name: Commit extracted data
+        if: steps.check_extract.outputs.has_changes == 'true'
+        run: |
+          git add scrape/comments_extracted.jsonl scrape/by_bank.json
+          git commit -m "Update extracted bank closure data"
+          git push
+      
+      - name: Setup Node.js
+        if: steps.check_extract.outputs.has_changes == 'true'
+        uses: actions/setup-node@v4
+        with:
+          node-version-file: 'frontend/.nvmrc'
+          cache: 'npm'
+          cache-dependency-path: 'frontend/package-lock.json'
+      
+      - name: Install frontend dependencies
+        if: steps.check_extract.outputs.has_changes == 'true'
+        run: |
+          cd frontend
+          npm ci
+      
+      - name: Deploy to GitHub Pages
+        if: steps.check_extract.outputs.has_changes == 'true'
+        run: |
+          cd frontend
+          npm run deploy
+        env:
+          NODE_ENV: production

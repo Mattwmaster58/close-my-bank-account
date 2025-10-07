@@ -50,7 +50,7 @@
 	};
 
 	const getCommentUrl = (commentId: string) => {
-		return `https://www.doctorofcredit.com/complete-list-of-ways-to-close-bank-accounts-at-each-bank/#comment-${commentId}`;
+		return `https://www.doctorofcredit.com/complete-list-of-ways-to-close-bank-accounts-at-each-bank/?utm_source=closemybankaccount#comment-${commentId}`;
 	};
 
 	const sortedDates = $derived(

@@ -1,5 +1,7 @@
 import type { PageLoad } from './$types';
 
+export const prerender = true;
+
 export interface BankAttempt {
 	comment_id: string;
 	method: string;

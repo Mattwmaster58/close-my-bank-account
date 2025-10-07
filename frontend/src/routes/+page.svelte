@@ -25,7 +25,10 @@
 <div class="container">
 	<header>
 		<h1>Close My Bank Account</h1>
-		<p class="subtitle">Search bank closure methods and their success rates</p>
+		<p class="subtitle">
+			Search bank closure methods and their success rates. Data from 
+			<a href="https://www.doctorofcredit.com/complete-list-of-ways-to-close-bank-accounts-at-each-bank/?utm_source=closemybankaccount" target="_blank" rel="noopener noreferrer">Doctor of Credit</a>
+		</p>
 	</header>
 
 	<div class="search-section">
