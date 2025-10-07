@@ -39,9 +39,14 @@
 			class="search-input"
 			autofocus
 		/>
-		<p class="result-count">
-			{resultCount} {resultCount === 1 ? 'bank' : 'banks'} found
-		</p>
+		<div class="search-footer">
+			<p class="result-count">
+				{resultCount} {resultCount === 1 ? 'bank' : 'banks'} found
+			</p>
+			<a href="https://github.com/Mattwmaster58/close-my-bank-account/issues" target="_blank" rel="noopener noreferrer" class="issue-link">
+				Found an issue? Report it on GitHub
+			</a>
+		</div>
 	</div>
 
 	<div class="results">
@@ -112,10 +117,27 @@
 		box-shadow: 0 0 0 3px rgba(74, 144, 226, 0.1);
 	}
 
+	.search-footer {
+		display: flex;
+		justify-content: space-between;
+		align-items: center;
+		margin-top: 0.75rem;
+	}
+
 	.result-count {
-		margin: 0.75rem 0 0 0;
+		margin: 0;
 		color: #666;
 		font-size: 0.9rem;
+	}
+
+	.issue-link {
+		color: #4a90e2;
+		text-decoration: none;
+		font-size: 0.9rem;
+	}
+
+	.issue-link:hover {
+		text-decoration: underline;
 	}
 
 	.results {
