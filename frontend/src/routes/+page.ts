@@ -12,7 +12,7 @@ export interface BankData {
 }
 
 export const load: PageLoad = async ({ fetch }) => {
-	const response = await fetch('/scrape/by_bank.json');
+	const response = await fetch('/by_bank.json');
 	const data: BankData = await response.json();
 	return { banks: data };
 };

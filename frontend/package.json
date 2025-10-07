@@ -4,8 +4,9 @@
 	"version": "0.0.1",
 	"type": "module",
 	"scripts": {
-		"dev": "vite dev",
-		"build": "vite build",
+		"sync-data": "mkdir -p static && cp ../scrape/by_bank.json static/by_bank.json",
+		"dev": "npm run sync-data && vite dev",
+		"build": "npm run sync-data && vite build",
 		"preview": "vite preview",
 		"prepare": "svelte-kit sync || echo ''",
 		"check": "svelte-kit sync && svelte-check --tsconfig ./tsconfig.json",
