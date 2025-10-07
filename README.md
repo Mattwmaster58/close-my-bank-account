@@ -1,6 +1,10 @@
 # Close My Bank Account
 
-A searchable database of bank account closure methods and their success rates, compiled from community-reported data on [Doctor of Credit](https://www.doctorofcredit.com/complete-list-of-ways-to-close-bank-accounts-at-each-bank/), updated daily. See an issue? Report it [here](https://github.com/Mattwmaster58/close-my-bank-account/issues).
+An AI-powered database of bank account closure methods and their success rates, compiled from community-reported data on [Doctor of Credit](https://www.doctorofcredit.com/complete-list-of-ways-to-close-bank-accounts-at-each-bank/), updated daily. See an issue? Report it [here](https://github.com/Mattwmaster58/close-my-bank-account/issues).
+
+## Why?
+
+Banks often offer sign-up bonuses for opening an account. Some people like to sign up for dozens of accounts and rake in the cash from all the sign-up bonuses. For these people, finding how to close an account quickly can be a legitimate time saver.
 
 ## Structure
 
