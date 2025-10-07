@@ -73,7 +73,7 @@
 
 	{#if expanded}
 		<ul class="dates">
-			{#each sortedDates as { date, success, comment_id } (comment_id + date.getTime())}
+			{#each sortedDates as { date, success, comment_id }, index (comment_id + '-' + index)}
 				<li class="date-item">
 					<a href={getCommentUrl(comment_id)} target="_blank" rel="noopener noreferrer" class:success class:fail={!success}>
 						<span class="status-icon">{success ? '✓' : '✗'}</span>
