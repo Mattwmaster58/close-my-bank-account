@@ -71,8 +71,8 @@ def parse_top_level_comments(html_element: _Element) -> List[Comment]:
     comments = []
 
     for comment_el in html_element.cssselect(".wpd_comment_level-1"):
-
-        date_el = comment_el.cssselect(".wpd-comment-timestamp")
+        # this isn't stable?
+        date_el = comment_el.cssselect(".wpd-comment-timestamp, .wpd-comment-date")
         date_raw = date_el[0].text_content().strip() if date_el else None
 
         text_el = comment_el.cssselect(".wpd-comment-text")
