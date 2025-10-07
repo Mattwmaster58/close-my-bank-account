@@ -1,19 +1,18 @@
 # Close My Bank Account
 
-A searchable database of bank account closure methods and their success rates, compiled from community-reported data on [Doctor of Credit](https://www.doctorofcredit.com/complete-list-of-ways-to-close-bank-accounts-at-each-bank/), updated daily. See an issue? Report it [here](/issues).
+A searchable database of bank account closure methods and their success rates, compiled from community-reported data on [Doctor of Credit](https://www.doctorofcredit.com/complete-list-of-ways-to-close-bank-accounts-at-each-bank/), updated daily. See an issue? Report it [here](https://github.com/Mattwmaster58/close-my-bank-account/issues).
 
-## Project Structure
+## Structure
 
+- `scrape/` - Python scripts for scraping and processing bank closure data. This uses Gemini 2.5 Flash to convert unstructured comment data into structured data that the frontend consumes
 - `frontend/` - SvelteKit web application - I vibe coded this. My intention was to learn Svelte, but the site was so simple that it was basically one shotted.
-- `scrape/` - Python scripts for scraping and processing bank closure data
 
 ## Setup
 
 ### Prerequisites
 
-- Node.js (see `frontend/.nvmrc` for version)
-- Python 3.13+ (for scraping)
-- [uv](https://github.com/astral-sh/uv) package manager (recommended for Python)
+- Node.js, npm
+- Python, [uv](https://github.com/astral-sh/uv)
 
 ### Environment Variables
 
@@ -22,8 +21,6 @@ Create a `.env` file in the `scrape/` directory:
 ```bash
 GEMINI_API_KEY=your_api_key_here
 ```
-
-You can obtain a Gemini API key from [Google AI Studio](https://aistudio.google.com/app/apikey).
 
 ### Frontend Setup
 
