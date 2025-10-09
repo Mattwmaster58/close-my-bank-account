@@ -13,8 +13,16 @@ export interface BankData {
 	[bankName: string]: BankAttempt[];
 }
 
+export interface Metadata {
+	lastUpdated: number;
+}
+
 export const load: PageLoad = async ({ fetch }) => {
-	const response = await fetch('/by_bank.json');
-	const data: BankData = await response.json();
-	return { banks: data };
+	const [dataResponse, metadataResponse] = await Promise.all([
+		fetch('/by_bank.json'),
+		fetch('/metadata.json')
+	]);
+	const data: BankData = await dataResponse.json();
+	const metadata: Metadata = await metadataResponse.json();
+	return { banks: data, metadata };
 };

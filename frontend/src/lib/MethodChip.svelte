@@ -161,14 +161,6 @@
 		line-height: 1.4;
 	}
 
-	.date-item.success::before {
-		color: #2e7d32;
-	}
-
-	.date-item.fail::before {
-		color: #c62828;
-	}
-
 	.date-item a {
 		display: inline-flex;
 		align-items: center;
@@ -180,7 +172,7 @@
 		transition: opacity 0.15s ease;
 	}
 
-	.date-item a:hover {
+	a:hover {
 		opacity: 0.7;
 		text-decoration: underline;
 	}

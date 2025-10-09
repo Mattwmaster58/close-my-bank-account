@@ -11,16 +11,30 @@
 	const filteredBanks = $derived.by(() => {
 		if (!searchQuery.trim()) return bankEntries;
 
-		const query = searchQuery.toLowerCase();
-		return bankEntries.filter(([bankName]) => bankName.toLowerCase().includes(query));
+		const query = searchQuery.toLowerCase().replace(/\./g, '');
+		return bankEntries
+			.map(([bankName, attempts]) => {
+				const normalized = bankName.toLowerCase().replace(/\./g, '');
+				const idx = normalized.indexOf(query);
+				return idx !== -1 ? { bankName, attempts, idx } : null;
+			})
+			.filter(Boolean)
+			.sort((a, b) => a.idx - b.idx)
+			.map(({ bankName, attempts }) => [bankName, attempts]);
 	});
 
 	const resultCount = $derived(filteredBanks.length);
+
+	const lastUpdatedDate = $derived(new Date(data.metadata.lastUpdated).toLocaleString());
 </script>
 
 <svelte:head>
 	<title>Close My Bank Account</title>
 </svelte:head>
+
+<a href="https://github.com/Mattwmaster58/close-my-bank-account/actions" target="_blank" rel="noopener noreferrer" class="top-left-link">
+	Last updated: {lastUpdatedDate}
+</a>
 
 <a href="https://github.com/Mattwmaster58/close-my-bank-account/issues" target="_blank" rel="noopener noreferrer" class="top-right-link">
 	Found an issue? Report it on GitHub
@@ -31,7 +45,7 @@
 		<h1>Close My Bank Account</h1>
 		<p class="subtitle">
 			Search bank closure methods and their success rates. Data from 
-			<a href="https://www.doctorofcredit.com/complete-list-of-ways-to-close-bank-accounts-at-each-bank/?utm_source=closemybankaccount" target="_blank" rel="noopener noreferrer">Doctor of Credit</a>
+			<a href="https://www.doctorofcredit.com/complete-list-of-ways-to-close-bank-accounts-at-each-bank/?utm_source=closemybankaccount#comments" target="_blank" rel="noopener noreferrer">Doctor of Credit</a>
 		</p>
 	</header>
 
@@ -71,6 +85,20 @@
 		color: #333;
 	}
 
+	.top-left-link {
+		position: absolute;
+		top: 1rem;
+		left: 1rem;
+		color: #4a90e2;
+		text-decoration: none;
+		font-size: 0.9rem;
+		z-index: 100;
+	}
+
+	.top-left-link:hover {
+		text-decoration: underline;
+	}
+
 	.top-right-link {
 		position: absolute;
 		top: 1rem;
@@ -107,6 +135,15 @@
 		margin: 0.5rem 0 0 0;
 		color: #666;
 		font-size: 1.1rem;
+	}
+
+	.subtitle a {
+		color: #4a90e2;
+		text-decoration: none;
+	}
+
+	.subtitle a:hover {
+		text-decoration: underline;
 	}
 
 	.search-section {
