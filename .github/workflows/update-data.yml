@@ -93,13 +93,26 @@ jobs:
           cache-dependency-path: 'frontend/package-lock.json'
       
       - name: Install frontend dependencies
+        working-directory: frontend
         run: |
-          cd frontend
           npm ci
-      
+          npm run build
+          ls -la
+
+      - name: Upload static files as artifact
+        id: deployment
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: frontend/build/
+
+  deploy:
+    needs: update-data
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    steps:
       - name: Deploy to GitHub Pages
-        run: |
-          cd frontend
-          npm run deploy
-        env:
-          NODE_ENV: production
+        id: deployment
+        uses: actions/deploy-pages@v4
+
