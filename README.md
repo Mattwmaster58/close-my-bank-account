@@ -8,7 +8,7 @@ Visit the site itself [here](https://mattwmaster58.github.io/close-my-bank-accou
 
 Banks often offer sign-up bonuses for opening an account. Some people like to sign up for dozens of accounts and rake in the cash from all the sign-up bonuses. For these people, finding how to close an account quickly can be a legitimate time saver.
 
-The leading source of how to close bank accounts is this (Doctor Of Credit thread)[https://www.doctorofcredit.com/complete-list-of-ways-to-close-bank-accounts-at-each-bank/?utm_source=closemybankaccount#], but since it's manually updated, it often falls out of date.
+The leading source of how to close bank accounts is this [Doctor Of Credit thread](https://www.doctorofcredit.com/complete-list-of-ways-to-close-bank-accounts-at-each-bank/?utm_source=closemybankaccount), but since it's manually updated, it often falls out of date.
 
 ## Structure
 
@@ -22,14 +22,6 @@ The leading source of how to close bank accounts is this (Doctor Of Credit threa
 - Node.js, npm
 - Python, [uv](https://github.com/astral-sh/uv)
 
-### Environment Variables
-
-Create a `.env` file in the `scrape/` directory:
-
-```bash
-GEMINI_API_KEY=your_api_key_here
-```
-
 ### Frontend Setup
 
 ```bash
@@ -38,9 +30,13 @@ npm install
 npm run dev
 ```
 
-The site will be available at `http://localhost:5173`
-
 ### Scraper Setup
+
+Create a `.env` file in the `scrape/` directory:
+
+```bash
+GEMINI_API_KEY=your_api_key_here
+```
 
 ```bash
 cd scrape
