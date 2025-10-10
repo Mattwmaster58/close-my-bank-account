@@ -63,30 +63,29 @@ jobs:
           git commit -m "Update scraped comments data [skip ci]"
           git push
       
-      - name: Run extract_data
-        if: steps.check_scrape.outputs.has_changes == 'true'
-        run: |
-          cd scrape
-          python extract_data.py
-        env:
-          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+       - name: Run extract_data
+         run: |
+           cd scrape
+           python extract_data.py
+         env:
+           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
       
-      - name: Check for extract changes
-        if: steps.check_scrape.outputs.has_changes == 'true'
-        id: check_extract
-        run: |
-          if git diff --quiet HEAD -- scrape/comments_extracted.jsonl scrape/by_bank.json; then
-            echo "has_changes=false" >> $GITHUB_OUTPUT
-          else
-            echo "has_changes=true" >> $GITHUB_OUTPUT
-          fi
+       - name: Check for extract changes
+         id: check_extract
+         run: |
+           if git diff --quiet HEAD -- scrape/comments_extracted.jsonl scrape/by_bank.json; then
+             echo "has_changes=false" >> $GITHUB_OUTPUT
+           else
+             echo "has_changes=true" >> $GITHUB_OUTPUT
+           fi
       
-      - name: Commit extracted data
-        if: steps.check_extract.outputs.has_changes == 'true'
-        run: |
-          git add scrape/comments_extracted.jsonl scrape/by_bank.json
-          git commit -m "Update extracted bank closure data [skip ci]"
-          git push
+       - name: Commit extracted data
+         if: steps.check_extract.outputs.has_changes == 'true'
+         run: |
+           git add scrape/comments_extracted.jsonl scrape/by_bank.json
+           git commit -m "Update extracted bank closure data [skip ci]"
+           git push
+
       
       - name: Setup Node.js
         uses: actions/setup-node@v4
