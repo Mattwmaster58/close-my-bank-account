@@ -11,26 +11,15 @@
 
 
   function* generateMatchChunkPermutations(query: string) {
-    // this considers that each chunk of the query may be an abbreviation (cu -> credit union)
-    const chunks = query
-      .split(/\s+/)
-    const chunkIndexes = chunks
-      .entries()
-      .toArray()
-      .sort((chunk1, chunk2) => chunk2.length - chunk1.length)
-      .map(([index, _]) => index);
-    // shorter chunks are more likely to be abbreviations so we yield those first
-    for (const abbreviationChunkIndex of chunkIndexes) {
-      let permutation: string[] = [];
-      for (const [chunkIndex, chunk] of chunks.entries()) {
-        if (chunkIndex === abbreviationChunkIndex) {
-          // selected for expansion
-          permutation.push(...[...chunk])
-        } else {
-          permutation.push(chunk);
-        }
-      }
-      yield permutation;
+    // yields permutation of chunks expanded for matching abbreviations
+    // eg query="Alliant CU" yields
+    //  - ["a", "l", "l", "i", "a", "n", "t", "cu"]
+    //  - ["alliant", "c", "u"]
+    const chunks = query.split(/\s+/)
+    for (const [abbreviationChunkIndex, _] of chunks.entries()) {
+      yield chunks.entries().flatMap(([index, chunk]) =>
+        index === abbreviationChunkIndex ? [...[...chunk]] : [chunk]
+      ).toArray();
     }
   }
 
@@ -39,10 +28,6 @@
   const bankEntries = $derived(Object.entries(data.banks));
 
   const spaceNormalize = (str: string) => str.toLowerCase().replace(/\./g, '').replace(/\s+/g, ' ').trim();
-  const zip = (...arrays) => {
-    const minLen = Math.min(...arrays.map(arr => arr.length));
-    return Array.from({length: minLen}, (_, i) => arrays.map(arr => arr[i]));
-  }
 
   const filteredBanks = $derived.by(() => {
     if (!searchQuery.trim()) return bankEntries;
@@ -51,9 +36,9 @@
     return bankEntries
       .map(([bankName, attempts]) => {
         const normalized = spaceNormalize(bankName);
-        const idx = normalized.indexOf(query);
-        if (idx !== -1) {
-          return {bankName, attempts, idx, rank: 0};
+        const index = normalized.indexOf(query);
+        if (index !== -1) {
+          return {bankName, attempts, index, rank: 0};
         }
 
         // Abbreviation match - you can search "alliant cu"
@@ -61,13 +46,26 @@
         const bankNameChunks = normalized.split(/\s+/);
         for (const perms of generateMatchChunkPermutations(query)) {
           if (perms.length > bankNameChunks.length) continue;
-          // needs a lot more work
+
+          let queryIndex = 0;
+          let chunksMatched = false;
+          for (const bankChunk of bankNameChunks) {
+            chunksMatched = (perms[queryIndex].length == 1) ?
+              bankChunk.startsWith(perms[queryIndex]) :
+              bankChunk === perms[queryIndex];
+            if (queryIndex > 0 && !chunksMatched) break;
+            queryIndex += Number(chunksMatched);
+          }
+          if (chunksMatched && queryIndex == perms.length) {
+            return {bankName, attempts, index: 0, rank: 1}
+          }
+          
         }
 
         return null;
       })
       .filter(Boolean)
-      .sort((a, b) => a.rank - b.rank || a.idx - b.idx)
+      .sort((a, b) => a.rank - b.rank || a.index - b.index)
       .map(({bankName, attempts}) => [bankName, attempts]);
   });
 
