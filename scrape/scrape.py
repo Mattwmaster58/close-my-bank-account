@@ -160,11 +160,10 @@ def update_comment_dump(file_path: Path = Path(__file__).parent / "comments.json
 
     print(f"Found {len(existing_comments)} existing comments in {file_path}")
 
-    # Fetch new comments until we encounter an ID we've seen before
     new_comments: List[Comment] = []
     last_id = None
 
-    for page in itertools.count(start=1):  # Start counting from 1 for human-readable output
+    for page in itertools.count(start=1):
         print(f"Fetching page {page} of comments...", end="\r")
 
         comments_batch = load_older_comments(last_id)
@@ -172,11 +171,14 @@ def update_comment_dump(file_path: Path = Path(__file__).parent / "comments.json
             print("\nNo more comments to fetch")
             break
 
-        if any(comment.id in seen_comment_ids for comment in comments_batch):
+        only_new_comments_from_batch = [comment for comment in comments_batch if comment.id not in seen_comment_ids]
+        batch_contains_seen_comments = len(only_new_comments_from_batch) < len(comments_batch)
+        new_comments.extend(only_new_comments_from_batch)
+
+        if batch_contains_seen_comments:
             print("Reached previously scraped comments, stopping fetch")
             break
 
-        new_comments.extend(comments_batch)
         last_id = comments_batch[-1].id
         print(f"Page {page}, {len(comments_batch)} comments")
 
