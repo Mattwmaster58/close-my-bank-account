@@ -27,15 +27,15 @@
 
   const bankEntries = $derived(Object.entries(data.banks));
 
-  const spaceNormalize = (str: string) => str.toLowerCase().replace(/\./g, '').replace(/\s+/g, ' ').trim();
+  const normalize = (str: string) => str.toLowerCase().replace(/\./g, '').replace(/\s+/g, ' ').trim();
 
   const filteredBanks = $derived.by(() => {
     if (!searchQuery.trim()) return bankEntries;
 
-    const query = spaceNormalize(searchQuery);
+    const query = normalize(searchQuery);
     return bankEntries
       .map(([bankName, attempts]) => {
-        const normalized = spaceNormalize(bankName);
+        const normalized = normalize(bankName);
         const index = normalized.indexOf(query);
         if (index !== -1) {
           return {bankName, attempts, index, rank: 0};
