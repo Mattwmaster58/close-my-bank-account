@@ -760,3 +760,7 @@
 {"commentId": "2156804", "timestamp": 1759271460, "extracted_data": {"closure_attempts": [{"success": true, "bank_name": "Capital One", "method": "on-platform"}]}}
 {"commentId": "2157138", "timestamp": 1759318980, "extracted_data": {"closure_attempts": [{"success": true, "bank_name": "American Express", "method": "on-platform"}]}}
 {"commentId": "2157987", "timestamp": 1759371540, "extracted_data": {"closure_attempts": []}}
+{"commentId":"2161053","timestamp":1759772700,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Unknown Bank","method":"on-platform"}]}}
+{"commentId":"2161821","timestamp":1759855800,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Marcus","method":"on-platform"}]}}
+{"commentId":"2172810","timestamp":1761243780,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Bank of Missouri","method":"0-balance"}]}}
+{"commentId":"2173877","timestamp":1761343380,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"PNC","method":"chat"}]}}
