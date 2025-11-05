@@ -1061,6 +1061,12 @@
       "method": "phone",
       "success": true,
       "timestamp": 1757805720
+    },
+    {
+      "comment_id": "2181206",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1762271100
     }
   ],
   "Bank of Hope": [
@@ -6413,6 +6419,12 @@
       "method": "on-platform",
       "success": true,
       "timestamp": 1759263960
+    },
+    {
+      "comment_id": "2181464",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1762284240
     }
   ],
   "UFB Direct": [
