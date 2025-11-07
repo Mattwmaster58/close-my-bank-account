@@ -766,3 +766,4 @@
 {"commentId":"2173877","timestamp":1761343380,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"PNC","method":"chat"}]}}
 {"commentId":"2181206","timestamp":1762271100,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Bank of America","method":"phone"}]}}
 {"commentId":"2181464","timestamp":1762284240,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"U.S. Bank","method":"phone"}]}}
+{"commentId":"2182879","timestamp":1762390440,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Chase","method":"secure-message"}]}}
