@@ -767,3 +767,5 @@
 {"commentId":"2181206","timestamp":1762271100,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Bank of America","method":"phone"}]}}
 {"commentId":"2181464","timestamp":1762284240,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"U.S. Bank","method":"phone"}]}}
 {"commentId":"2182879","timestamp":1762390440,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Chase","method":"secure-message"}]}}
+{"commentId":"2184132","timestamp":1762532160,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Alliant Credit Union","method":"unknown"}]}}
+{"commentId":"2184136","timestamp":1762532520,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"T-Mobile Money","method":"phone"}]}}
