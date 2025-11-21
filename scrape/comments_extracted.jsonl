@@ -770,3 +770,4 @@
 {"commentId":"2184132","timestamp":1762532160,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Alliant Credit Union","method":"unknown"}]}}
 {"commentId":"2184136","timestamp":1762532520,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"T-Mobile Money","method":"phone"}]}}
 {"commentId":"2188681","timestamp":1763065800,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"U.S. Bank","method":"chat"}]}}
+{"commentId":"2193936","timestamp":1763664540,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"BMO","method":"chat"}]}}
