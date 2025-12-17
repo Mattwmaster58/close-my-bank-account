@@ -772,3 +772,4 @@
 {"commentId":"2188681","timestamp":1763065800,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"U.S. Bank","method":"chat"}]}}
 {"commentId":"2193936","timestamp":1763664540,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"BMO","method":"chat"}]}}
 {"commentId":"2209693","timestamp":1765581780,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Central Bank","method":"chat"}]}}
+{"commentId":"2211813","timestamp":1765909500,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"BMO","method":"chat"}]}}
