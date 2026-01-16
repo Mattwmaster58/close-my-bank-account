@@ -7081,6 +7081,12 @@
       "method": "secure-message",
       "success": false,
       "timestamp": 1756589760
+    },
+    {
+      "comment_id": "2229940",
+      "method": "on-platform",
+      "success": true,
+      "timestamp": 1768445160
     }
   ],
   "Wesbanco": [
