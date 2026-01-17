@@ -4,7 +4,7 @@
 	"version": "0.0.1",
 	"type": "module",
 	"scripts": {
-		"sync-data": "mkdir -p static && cp ../scrape/by_bank.json static/by_bank.json && echo \"{\\\"lastUpdated\\\": $(date +%s)000}\" > static/metadata.json",
+		"sync-data": "mkdir -p static && cp ../scrape/by_bank.json static/by_bank.json && node sync-metadata.js",
 		"dev": "npm run sync-data && vite dev",
 		"build": "npm run sync-data && vite build",
 		"preview": "vite preview",

@@ -72,7 +72,20 @@
   const resultCount = $derived(filteredBanks.length);
   const resultDatapoints = $derived(filteredBanks.reduce((sum, [_, attempts]) => sum + attempts.length, 0));
 
-  const lastUpdatedDate = $derived(new Date(data.metadata.lastUpdated).toLocaleString());
+  let maxTimestamp = $derived.by(() => {
+    let max = 0;
+    for (const attempts of Object.values(data.banks)) {
+      for (const attempt of attempts) {
+        if (attempt.timestamp > max) {
+          max = attempt.timestamp;
+        }
+      }
+    }
+    return max;
+  });
+
+  const lastCheckedDate = $derived(new Date(data.metadata.lastUpdated).toLocaleDateString());
+  const lastDatapointAddedDate = $derived(new Date(maxTimestamp * 1000).toLocaleDateString());
 </script>
 
 <!-- svelte-ignore a11y-autofocus -->
@@ -81,8 +94,11 @@
 </svelte:head>
 
 <a href="https://github.com/Mattwmaster58/close-my-bank-account/actions" target="_blank" rel="noopener noreferrer"
-   class="top-left-link" title="Last updated: {lastUpdatedDate}">
-    <span class="desktop-text">Last updated: {lastUpdatedDate}</span>
+   class="top-left-link">
+    <span class="desktop-text">
+      Last checked {lastCheckedDate}<br>
+      Last datapoint added {lastDatapointAddedDate}
+    </span>
     <span class="mobile-icon">🔄</span>
 </a>
 
