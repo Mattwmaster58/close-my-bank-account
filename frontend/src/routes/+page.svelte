@@ -129,7 +129,7 @@
             <p class="result-count">
                 {resultCount} {resultCount === 1 ? 'bank' : 'banks'} / {resultDatapoints} datapoints
             </p>
-            <a href="https://www.doctorofcredit.com/complete-list-of-ways-to-close-bank-accounts-at-each-bank/?utm_source=closemybankaccount"
+            <a href="https://www.doctorofcredit.com/complete-list-of-ways-to-close-bank-accounts-at-each-bank/?utm_source=closemybankaccount#comments"
                target="_blank" rel="noopener noreferrer" class="contribute-link">
                 Have your own datapoint? Add it here
             </a>
