@@ -1239,6 +1239,12 @@
       "method": "on-platform",
       "success": true,
       "timestamp": 1589875140
+    },
+    {
+      "comment_id": "2231121",
+      "method": "on-platform",
+      "success": true,
+      "timestamp": 1768529400
     }
   ],
   "Cambridge Savings Bank": [
@@ -6511,6 +6517,14 @@
       "method": "secure-message",
       "success": true,
       "timestamp": 1739024820
+    }
+  ],
+  "US Bank": [
+    {
+      "comment_id": "2231196",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1768533780
     }
   ],
   "USAA": [

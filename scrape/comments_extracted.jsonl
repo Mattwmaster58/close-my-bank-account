@@ -777,3 +777,5 @@
 {"commentId":"2218327","timestamp":1767051840,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Bask Bank","method":"secure-message"}]}}
 {"commentId":"2224309","timestamp":1767837780,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Blue Foundry","method":"secure-message"}]}}
 {"commentId":"2229940","timestamp":1768445160,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Wells Fargo","method":"on-platform"}]}}
+{"commentId":"2231121","timestamp":1768529400,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"CIT Bank","method":"on-platform"}]}}
+{"commentId":"2231196","timestamp":1768533780,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"US Bank","method":"phone"}]}}
