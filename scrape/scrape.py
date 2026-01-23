@@ -13,6 +13,10 @@ from pydantic import BaseModel
 session = requests.session()
 session.headers.update({'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64; rv:142.0) Gecko/20100101 Firefox/142.0'})
 
+# we need to set some cookies by making an initial request
+# we keep track of that here
+has_made_initial_request = None
+
 
 class Comment(BaseModel):
     id: str
@@ -30,6 +34,9 @@ def load_older_comments(last_parent_id: Optional[int] = None) -> List[Comment]:
     Returns:
         List of parsed top-level comments
     """
+    if not has_made_initial_request:
+        session.get("https://www.doctorofcredit.com/wp-admin/admin-ajax.php")
+
     # https://www.doctorofcredit.com/complete-list-of-ways-to-close-bank-accounts-at-each-bank/#comments
     BANK_ACCOUNT_CLOSURES_POST = 24906
     data = {
@@ -41,9 +48,7 @@ def load_older_comments(last_parent_id: Optional[int] = None) -> List[Comment]:
     }
 
     comments_endpoint = "https://www.doctorofcredit.com/wp-admin/admin-ajax.php"
-    response = session.post(comments_endpoint,
-                            # hack to get filename that requests would usually add off the multi-part form
-                            files={k: (None, v) for k, v in data.items()})
+    response = session.post(comments_endpoint, data=data)
 
     response.raise_for_status()
     comment_html = response.json()["data"]["comment_list"]
