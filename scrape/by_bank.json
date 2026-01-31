@@ -1595,6 +1595,12 @@
       "method": "secure-message",
       "success": true,
       "timestamp": 1750946280
+    },
+    {
+      "comment_id": "2243090",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1769788800
     }
   ],
   "Chase": [

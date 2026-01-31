@@ -780,3 +780,4 @@
 {"commentId":"2231121","timestamp":1768529400,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"CIT Bank","method":"on-platform"}]}}
 {"commentId":"2231196","timestamp":1768533780,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"US Bank","method":"phone"}]}}
 {"commentId":"2235784","timestamp":1769043420,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"BMO","method":"chat"}]}}
+{"commentId":"2243090","timestamp":1769788800,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Chartway Credit Union","method":"phone"}]}}
