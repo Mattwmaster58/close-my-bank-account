@@ -782,3 +782,4 @@
 {"commentId":"2235784","timestamp":1769043420,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"BMO","method":"chat"}]}}
 {"commentId":"2243090","timestamp":1769788800,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Chartway Credit Union","method":"phone"}]}}
 {"commentId":"2247436","timestamp":1770206220,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Maspeth Federal Savings Bank","method":"secure-message"}]}}
+{"commentId":"2258365","timestamp":1771360200,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Veridian","method":"chat"}]}}
