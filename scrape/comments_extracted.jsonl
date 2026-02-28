@@ -784,3 +784,4 @@
 {"commentId":"2247436","timestamp":1770206220,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Maspeth Federal Savings Bank","method":"secure-message"}]}}
 {"commentId":"2258365","timestamp":1771360200,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Veridian","method":"chat"}]}}
 {"commentId":"2264087","timestamp":1772026320,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Wells Fargo","method":"on-platform"}]}}
+{"commentId":"2266022","timestamp":1772209380,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Truist","method":"chat"}]}}
