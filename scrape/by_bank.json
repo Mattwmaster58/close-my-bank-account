@@ -729,6 +729,12 @@
       "method": "chat",
       "success": true,
       "timestamp": 1769043420
+    },
+    {
+      "comment_id": "2271289",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1772813520
     }
   ],
   "BMT (Bryn Mawr Trust)": [
