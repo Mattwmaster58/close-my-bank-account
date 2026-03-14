@@ -1,4 +1,5 @@
 import itertools
+import json
 import re
 from datetime import datetime
 from pathlib import Path
@@ -55,7 +56,6 @@ def load_older_comments(last_parent_id: Optional[str] = None) -> List[Comment]:
     response = session.post(comments_endpoint, data=data)
 
     response.raise_for_status()
-    import json
 
     comment_html = json.loads(response.content.decode("utf-8-sig"))["data"][
         "comment_list"
