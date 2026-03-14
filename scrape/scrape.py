@@ -11,7 +11,11 @@ from lxml.etree import _Element, ParserError
 from pydantic import BaseModel
 
 session = requests.session()
-session.headers.update({'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64; rv:142.0) Gecko/20100101 Firefox/142.0'})
+session.headers.update(
+    {
+        "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:142.0) Gecko/20100101 Firefox/142.0"
+    }
+)
 
 # we need to set some cookies by making an initial request
 # we keep track of that here
@@ -24,7 +28,7 @@ class Comment(BaseModel):
     text: str
 
 
-def load_older_comments(last_parent_id: Optional[int] = None) -> List[Comment]:
+def load_older_comments(last_parent_id: Optional[str] = None) -> List[Comment]:
     """
     Loads more comments using the given parameters.
 
@@ -44,17 +48,23 @@ def load_older_comments(last_parent_id: Optional[int] = None) -> List[Comment]:
         "action": "wpdLoadMoreComments",
         "sorting": "newest",
         "wpdType": "",
-        **({"lastParentId": last_parent_id} if last_parent_id is not None else {})
+        **({"lastParentId": last_parent_id} if last_parent_id is not None else {}),
     }
 
     comments_endpoint = "https://www.doctorofcredit.com/wp-admin/admin-ajax.php"
     response = session.post(comments_endpoint, data=data)
 
     response.raise_for_status()
-    comment_html = response.json()["data"]["comment_list"]
+    import json
+
+    comment_html = json.loads(response.content.decode("utf-8-sig"))["data"][
+        "comment_list"
+    ]
 
     try:
-        parsed_html = html.fromstring(comment_html, base_url="https://www.doctorofcredit.com")
+        parsed_html = html.fromstring(
+            comment_html, base_url="https://www.doctorofcredit.com"
+        )
     except ParserError as e:
         if "document is empty" in str(e).lower():
             return []
@@ -92,7 +102,13 @@ def parse_top_level_comments(html_element: _Element) -> List[Comment]:
         else:
             raise ValueError(f"Unable to parse comment id from url: {url}")
 
-        comments.append(Comment(id=comment_id, timestamp=to_unix_timestamp(date_raw), text=text))
+        if not date_raw or not text:
+            print(f"Warning: Skipping comment {comment_id} due to missing date or text")
+            continue
+
+        comments.append(
+            Comment(id=comment_id, timestamp=to_unix_timestamp(date_raw), text=text)
+        )
 
     return comments
 
@@ -122,27 +138,29 @@ def get_all_comments() -> List[Comment]:
 
 def to_unix_timestamp(raw: str) -> int:
     # eg "December 30, 2022 17:27"
-    pattern = r'(\w+)\s+(\d+),\s+(\d{4})\s+(\d{1,2}):(\d{2})'
+    pattern = r"(\w+)\s+(\d+),\s+(\d{4})\s+(\d{1,2}):(\d{2})"
     match = re.search(pattern, raw, re.IGNORECASE)
     if not match:
         raise ValueError(f"Could not parse timestamp string: {raw}")
     month, day, year, hour, minute = match.groups()
-    month_num = datetime.strptime(month, '%B').month
+    month_num = datetime.strptime(month, "%B").month
     dt = datetime(int(year), month_num, int(day), int(hour), int(minute))
     # Assume Eastern time, convert to UTC
-    eastern = pytz.timezone('US/Eastern')
+    eastern = pytz.timezone("US/Eastern")
     dt_eastern = eastern.localize(dt)
     dt_utc = dt_eastern.astimezone(pytz.UTC)
     return int(dt_utc.timestamp())
 
 
-def update_comment_dump(file_path: Path = Path(__file__).parent / "comments.jsonl") -> List[Comment]:
+def update_comment_dump(
+    file_path: Path = Path(__file__).parent / "comments.jsonl",
+) -> List[Comment]:
     """
     Update comment dump by fetching new comments and organizing them chronologically.
-    
-    Reads existing comments from file, fetches new comments until it finds ones 
+
+    Reads existing comments from file, fetches new comments until it finds ones
     we've already seen, and dumps all comments in chronological order (oldest first).
-    
+
     Args:
         file_path: Path to the JSONL file for comment storage
 
@@ -157,7 +175,7 @@ def update_comment_dump(file_path: Path = Path(__file__).parent / "comments.json
 
     # Read existing comments if file exists
     if file_path.exists():
-        with file_path.open('r') as f:
+        with file_path.open("r") as f:
             for line in f:
                 comment = Comment.model_validate_json(line.strip())
                 existing_comments.append(comment)
@@ -176,8 +194,12 @@ def update_comment_dump(file_path: Path = Path(__file__).parent / "comments.json
             print("\nNo more comments to fetch")
             break
 
-        only_new_comments_from_batch = [comment for comment in comments_batch if comment.id not in seen_comment_ids]
-        batch_contains_seen_comments = len(only_new_comments_from_batch) < len(comments_batch)
+        only_new_comments_from_batch = [
+            comment for comment in comments_batch if comment.id not in seen_comment_ids
+        ]
+        batch_contains_seen_comments = len(only_new_comments_from_batch) < len(
+            comments_batch
+        )
         new_comments.extend(only_new_comments_from_batch)
 
         if batch_contains_seen_comments:
@@ -192,7 +214,7 @@ def update_comment_dump(file_path: Path = Path(__file__).parent / "comments.json
     sorted_comments = sorted(all_comments, key=lambda x: x.timestamp)
 
     if new_comments:
-        with file_path.open('w') as f:
+        with file_path.open("w") as f:
             for comment in sorted_comments:
                 f.write(comment.model_dump_json() + "\n")
         print(f"Successfully updated {file_path} with comments in chronological order")
