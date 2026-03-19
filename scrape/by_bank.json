@@ -735,6 +735,12 @@
       "method": "secure-message",
       "success": true,
       "timestamp": 1772813520
+    },
+    {
+      "comment_id": "2279623",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1773870720
     }
   ],
   "BMT (Bryn Mawr Trust)": [
@@ -1845,6 +1851,12 @@
       "method": "on-platform",
       "success": true,
       "timestamp": 1754433240
+    },
+    {
+      "comment_id": "2279622",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1773870660
     }
   ],
   "Christian Community Credit Union": [
@@ -4795,6 +4807,14 @@
       "method": "secure-message",
       "success": true,
       "timestamp": 1725128160
+    }
+  ],
+  "Ocean First": [
+    {
+      "comment_id": "2279033",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1773800460
     }
   ],
   "Ocean First Bank": [
