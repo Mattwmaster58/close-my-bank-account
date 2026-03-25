@@ -790,3 +790,4 @@
 {"commentId":"2279033","timestamp":1773800460,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Ocean First","method":"chat"}]}}
 {"commentId":"2279622","timestamp":1773870660,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Chime","method":"chat"}]}}
 {"commentId":"2279623","timestamp":1773870720,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"BMO","method":"chat"}]}}
+{"commentId":"2283451","timestamp":1774382820,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Axos Bank","method":"secure-message"}]}}
