@@ -1863,6 +1863,12 @@
       "method": "chat",
       "success": true,
       "timestamp": 1773870660
+    },
+    {
+      "comment_id": "2287299",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1774821060
     }
   ],
   "Christian Community Credit Union": [
