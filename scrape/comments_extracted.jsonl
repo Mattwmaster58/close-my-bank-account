@@ -793,3 +793,4 @@
 {"commentId":"2283451","timestamp":1774382820,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Axos Bank","method":"secure-message"}]}}
 {"commentId":"2287299","timestamp":1774821060,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Chime","method":"phone"}]}}
 {"commentId":"2293542","timestamp":1775582280,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"SoFi","method":"on-platform"}]}}
+{"commentId":"2296668","timestamp":1775836080,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Citi","method":"chat"}]}}
