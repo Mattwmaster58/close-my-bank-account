@@ -6613,6 +6613,18 @@
       "method": "phone",
       "success": true,
       "timestamp": 1768533780
+    },
+    {
+      "comment_id": "2315410",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1778002680
+    },
+    {
+      "comment_id": "2315410",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1778002680
     }
   ],
   "USAA": [
@@ -7203,6 +7215,12 @@
       "method": "on-platform",
       "success": true,
       "timestamp": 1772026320
+    },
+    {
+      "comment_id": "2315272",
+      "method": "on-platform",
+      "success": true,
+      "timestamp": 1777989840
     }
   ],
   "Wesbanco": [

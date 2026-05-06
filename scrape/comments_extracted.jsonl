@@ -796,3 +796,5 @@
 {"commentId":"2296668","timestamp":1775836080,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Citi","method":"chat"}]}}
 {"commentId":"2301340","timestamp":1776354060,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Live Oak Bank","method":"chat"}]}}
 {"commentId":"2305728","timestamp":1776880560,"extracted_data":{"closure_attempts":[]}}
+{"commentId":"2315272","timestamp":1777989840,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Wells Fargo","method":"on-platform"}]}}
+{"commentId":"2315410","timestamp":1778002680,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"US Bank","method":"phone"},{"success":true,"bank_name":"US Bank","method":"chat"}]}}
