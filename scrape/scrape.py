@@ -20,7 +20,17 @@ session.headers.update(
 
 # we need to set some cookies by making an initial request
 # we keep track of that here
-has_made_initial_request = None
+_has_made_initial_request = False
+
+
+def _get_nonce() -> str:
+    """Fetch a wpdiscuz nonce via the wpdGetNonce AJAX action."""
+    response = session.post(
+        "https://www.doctorofcredit.com/wp-admin/admin-ajax.php",
+        data={"action": "wpdGetNonce"},
+    )
+    response.raise_for_status()
+    return response.json()["data"]["wpdiscuz_nonce"]
 
 
 class Comment(BaseModel):
@@ -39,8 +49,10 @@ def load_older_comments(last_parent_id: Optional[str] = None) -> List[Comment]:
     Returns:
         List of parsed top-level comments
     """
-    if not has_made_initial_request:
+    global _has_made_initial_request
+    if not _has_made_initial_request:
         session.get("https://www.doctorofcredit.com/wp-admin/admin-ajax.php")
+        _has_made_initial_request = True
 
     # https://www.doctorofcredit.com/complete-list-of-ways-to-close-bank-accounts-at-each-bank/#comments
     BANK_ACCOUNT_CLOSURES_POST = 24906
@@ -49,6 +61,7 @@ def load_older_comments(last_parent_id: Optional[str] = None) -> List[Comment]:
         "action": "wpdLoadMoreComments",
         "sorting": "newest",
         "wpdType": "",
+        "wpdiscuz_nonce": _get_nonce(),
         **({"lastParentId": last_parent_id} if last_parent_id is not None else {}),
     }
 
