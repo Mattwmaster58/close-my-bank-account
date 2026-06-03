@@ -802,3 +802,4 @@
 {"commentId":"2328710","timestamp":1779802740,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Middlesex Saving Bank","method":"secure-message"}]}}
 {"commentId":"2330542","timestamp":1779989340,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"4Front Credit Union","method":"phone"}]}}
 {"commentId":"2332959","timestamp":1780332600,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Wells Fargo","method":"on-platform"}]}}
+{"commentId":"2334129","timestamp":1780444140,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"PNC","method":"chat"},{"success":true,"bank_name":"PNC","method":"chat"}]}}
