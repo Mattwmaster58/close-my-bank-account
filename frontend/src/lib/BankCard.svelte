@@ -1,6 +1,7 @@
 <script lang="ts">
 	import type { BankAttempt } from '../routes/+page';
 	import MethodChip from './MethodChip.svelte';
+	import { computeAllMethodScores } from '$lib/bankScores';
 
 	interface Props {
 		bankName: string;
@@ -48,10 +49,14 @@
 			});
 		}
 
+		// Compute intelligent scores for sorting
+		const scores = computeAllMethodScores(attempts);
+		const scoreOrder = new Map(scores.map((s) => [s.method, s.score]));
+
 		return Array.from(stats.values()).sort((a, b) => {
-			const totalA = a.successCount + a.failCount;
-			const totalB = b.successCount + b.failCount;
-			return totalB - totalA;
+			const scoreA = scoreOrder.get(a.method) ?? -Infinity;
+			const scoreB = scoreOrder.get(b.method) ?? -Infinity;
+			return scoreB - scoreA;
 		});
 	});
 </script>

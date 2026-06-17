@@ -1,6 +1,7 @@
 <script lang="ts">
   import type { PageData } from './$types';
   import BankCard from '$lib/BankCard.svelte';
+  import { getBestMethodScore } from '$lib/bankScores';
 
   let {data}: { data: PageData } = $props();
 
@@ -65,7 +66,7 @@
         return null;
       })
       .filter(Boolean)
-      .sort((a, b) => a.rank - b.rank || a.index - b.index)
+      .sort((a, b) => a.rank - b.rank || a.index - b.index || getBestMethodScore(b.attempts) - getBestMethodScore(a.attempts))
       .map(({bankName, attempts}) => [bankName, attempts]);
   });
 
