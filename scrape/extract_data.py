@@ -35,7 +35,13 @@ class BankAttempt(BaseModel):
 
 
 load_dotenv()
-ai_client = genai.Client(api_key=os.getenv('GENAI_API_KEY'))
+
+def _get_ai_client():
+    """Lazy-init the AI client so the module doesn't crash on import if no key is set."""
+    key = os.getenv('GOOGLE_API_KEY')
+    if not key:
+        return None
+    return genai.Client(api_key=key)
 
 
 def get_existing_banks() -> list[str]:
@@ -52,6 +58,9 @@ def get_existing_banks() -> list[str]:
 
 
 def extract_comment_data(comment: Comment) -> ClosureData:
+    client = _get_ai_client()
+    if client is None:
+        raise RuntimeError("GOOGLE_API_KEY is not set — cannot run extraction")
     existing_banks = get_existing_banks()
     bank_list_text = "\n".join(existing_banks)
     prompt = f"""
@@ -67,8 +76,8 @@ def extract_comment_data(comment: Comment) -> ClosureData:
 
     Comment:'{comment.text}'
     """
-    response = ai_client.models.generate_content(
-        model="gemini-2.5-flash",
+    response = client.models.generate_content(
+        model="gemini-3.5-flash",
         contents=prompt,
         config={
             "response_mime_type": "application/json",

@@ -15,6 +15,14 @@
       "timestamp": 1520027700
     }
   ],
+  "4Front Credit Union": [
+    {
+      "comment_id": "2330542",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1779989340
+    }
+  ],
   "Albert Neobank": [
     {
       "comment_id": "1745281",
@@ -55,6 +63,12 @@
       "method": "chat",
       "success": true,
       "timestamp": 1754433240
+    },
+    {
+      "comment_id": "2184132",
+      "method": "unknown",
+      "success": true,
+      "timestamp": 1762532160
     }
   ],
   "Ally": [
@@ -285,6 +299,12 @@
       "method": "secure-message",
       "success": true,
       "timestamp": 1743735420
+    },
+    {
+      "comment_id": "2283451",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1774382820
     }
   ],
   "BB&T": [
@@ -699,6 +719,42 @@
       "method": "chat",
       "success": true,
       "timestamp": 1754363640
+    },
+    {
+      "comment_id": "2193936",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1763664540
+    },
+    {
+      "comment_id": "2211813",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1765909500
+    },
+    {
+      "comment_id": "2213666",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1766159160
+    },
+    {
+      "comment_id": "2235784",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1769043420
+    },
+    {
+      "comment_id": "2271289",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1772813520
+    },
+    {
+      "comment_id": "2279623",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1773870720
     }
   ],
   "BMT (Bryn Mawr Trust)": [
@@ -1061,6 +1117,12 @@
       "method": "phone",
       "success": true,
       "timestamp": 1757805720
+    },
+    {
+      "comment_id": "2181206",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1762271100
     }
   ],
   "Bank of Hope": [
@@ -1069,6 +1131,14 @@
       "method": "phone",
       "success": true,
       "timestamp": 1755292500
+    }
+  ],
+  "Bank of Missouri": [
+    {
+      "comment_id": "2172810",
+      "method": "0-balance",
+      "success": true,
+      "timestamp": 1761243780
     }
   ],
   "Bank of the West": [
@@ -1117,6 +1187,12 @@
       "method": "0-balance",
       "success": true,
       "timestamp": 1744911420
+    },
+    {
+      "comment_id": "2218327",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1767051840
     }
   ],
   "BluPeak Credit Union": [
@@ -1131,6 +1207,14 @@
       "method": "secure-message",
       "success": true,
       "timestamp": 1754357160
+    }
+  ],
+  "Blue Foundry": [
+    {
+      "comment_id": "2224309",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1767837780
     }
   ],
   "Bridgeview Bank": [
@@ -1187,6 +1271,12 @@
       "method": "on-platform",
       "success": true,
       "timestamp": 1589875140
+    },
+    {
+      "comment_id": "2231121",
+      "method": "on-platform",
+      "success": true,
+      "timestamp": 1768529400
     }
   ],
   "Cambridge Savings Bank": [
@@ -1517,12 +1607,26 @@
       "timestamp": 1491602700
     }
   ],
+  "Central Bank": [
+    {
+      "comment_id": "2209693",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1765581780
+    }
+  ],
   "Chartway Credit Union": [
     {
       "comment_id": "2087096",
       "method": "secure-message",
       "success": true,
       "timestamp": 1750946280
+    },
+    {
+      "comment_id": "2243090",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1769788800
     }
   ],
   "Chase": [
@@ -1723,6 +1827,12 @@
       "method": "secure-message",
       "success": true,
       "timestamp": 1755127020
+    },
+    {
+      "comment_id": "2182879",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1762390440
     }
   ],
   "Chime": [
@@ -1755,6 +1865,18 @@
       "method": "on-platform",
       "success": true,
       "timestamp": 1754433240
+    },
+    {
+      "comment_id": "2279622",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1773870660
+    },
+    {
+      "comment_id": "2287299",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1774821060
     }
   ],
   "Christian Community Credit Union": [
@@ -2139,6 +2261,12 @@
       "method": "chat",
       "success": true,
       "timestamp": 1754339220
+    },
+    {
+      "comment_id": "2296668",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1775836080
     }
   ],
   "Citizens": [
@@ -4163,6 +4291,12 @@
       "method": "0-balance",
       "success": true,
       "timestamp": 1758157320
+    },
+    {
+      "comment_id": "2301340",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1776354060
     }
   ],
   "M&T Bank": [
@@ -4389,6 +4523,20 @@
       "method": "on-platform",
       "success": true,
       "timestamp": 1747870440
+    },
+    {
+      "comment_id": "2161821",
+      "method": "on-platform",
+      "success": true,
+      "timestamp": 1759855800
+    }
+  ],
+  "Maspeth Federal Savings Bank": [
+    {
+      "comment_id": "2247436",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1770206220
     }
   ],
   "Memory Bank": [
@@ -4479,6 +4627,14 @@
       "method": "phone",
       "success": true,
       "timestamp": 1753887720
+    }
+  ],
+  "Middlesex Saving Bank": [
+    {
+      "comment_id": "2328710",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1779802740
     }
   ],
   "Midland States Bank": [
@@ -4693,6 +4849,14 @@
       "timestamp": 1725128160
     }
   ],
+  "Ocean First": [
+    {
+      "comment_id": "2279033",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1773800460
+    }
+  ],
   "Ocean First Bank": [
     {
       "comment_id": "541906",
@@ -4789,6 +4953,12 @@
       "method": "chat",
       "success": true,
       "timestamp": 1754433240
+    },
+    {
+      "comment_id": "2270870",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1772751420
     }
   ],
   "Orion Federal Credit Union": [
@@ -5069,6 +5239,24 @@
       "method": "chat",
       "success": true,
       "timestamp": 1758051360
+    },
+    {
+      "comment_id": "2173877",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1761343380
+    },
+    {
+      "comment_id": "2334129",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1780444140
+    },
+    {
+      "comment_id": "2334129",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1780444140
     }
   ],
   "PenFed": [
@@ -5655,6 +5843,12 @@
       "method": "on-platform",
       "success": true,
       "timestamp": 1733237940
+    },
+    {
+      "comment_id": "2293542",
+      "method": "on-platform",
+      "success": true,
+      "timestamp": 1775582280
     }
   ],
   "South Shore Bank": [
@@ -5807,6 +6001,14 @@
       "method": "phone",
       "success": true,
       "timestamp": 1695942300
+    }
+  ],
+  "T-Mobile Money": [
+    {
+      "comment_id": "2184136",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1762532520
     }
   ],
   "TBK Bank": [
@@ -6107,6 +6309,12 @@
       "method": "phone",
       "success": true,
       "timestamp": 1758051360
+    },
+    {
+      "comment_id": "2266022",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1772209380
     }
   ],
   "Trustco Bank": [
@@ -6393,6 +6601,48 @@
       "method": "on-platform",
       "success": true,
       "timestamp": 1759263960
+    },
+    {
+      "comment_id": "2181464",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1762284240
+    },
+    {
+      "comment_id": "2188681",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1763065800
+    },
+    {
+      "comment_id": "2231196",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1768533780
+    },
+    {
+      "comment_id": "2315410",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1778002680
+    },
+    {
+      "comment_id": "2315410",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1778002680
+    },
+    {
+      "comment_id": "2316073",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1778077140
+    },
+    {
+      "comment_id": "2337887",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1780939740
     }
   ],
   "UFB Direct": [
@@ -6559,6 +6809,12 @@
       "method": "on-platform",
       "success": true,
       "timestamp": 1607525820
+    },
+    {
+      "comment_id": "2161053",
+      "method": "on-platform",
+      "success": true,
+      "timestamp": 1759772700
     }
   ],
   "Upgrade": [
@@ -6633,6 +6889,14 @@
       "method": "chat",
       "success": true,
       "timestamp": 1667677320
+    }
+  ],
+  "Veridian": [
+    {
+      "comment_id": "2258365",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1771360200
     }
   ],
   "Verity Credit Union": [
@@ -6977,6 +7241,30 @@
       "method": "secure-message",
       "success": false,
       "timestamp": 1756589760
+    },
+    {
+      "comment_id": "2229940",
+      "method": "on-platform",
+      "success": true,
+      "timestamp": 1768445160
+    },
+    {
+      "comment_id": "2264087",
+      "method": "on-platform",
+      "success": true,
+      "timestamp": 1772026320
+    },
+    {
+      "comment_id": "2315272",
+      "method": "on-platform",
+      "success": true,
+      "timestamp": 1777989840
+    },
+    {
+      "comment_id": "2332959",
+      "method": "on-platform",
+      "success": true,
+      "timestamp": 1780332600
     }
   ],
   "Wesbanco": [

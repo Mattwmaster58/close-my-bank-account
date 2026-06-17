@@ -6615,6 +6615,30 @@
       "timestamp": 1763065800
     },
     {
+      "comment_id": "2231196",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1768533780
+    },
+    {
+      "comment_id": "2315410",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1778002680
+    },
+    {
+      "comment_id": "2315410",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1778002680
+    },
+    {
+      "comment_id": "2316073",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1778077140
+    },
+    {
       "comment_id": "2337887",
       "method": "chat",
       "success": true,
@@ -6639,32 +6663,6 @@
       "method": "secure-message",
       "success": true,
       "timestamp": 1739024820
-    }
-  ],
-  "US Bank": [
-    {
-      "comment_id": "2231196",
-      "method": "phone",
-      "success": true,
-      "timestamp": 1768533780
-    },
-    {
-      "comment_id": "2315410",
-      "method": "phone",
-      "success": true,
-      "timestamp": 1778002680
-    },
-    {
-      "comment_id": "2315410",
-      "method": "chat",
-      "success": true,
-      "timestamp": 1778002680
-    },
-    {
-      "comment_id": "2316073",
-      "method": "chat",
-      "success": true,
-      "timestamp": 1778077140
     }
   ],
   "USAA": [

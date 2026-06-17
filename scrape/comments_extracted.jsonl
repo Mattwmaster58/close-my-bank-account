@@ -778,7 +778,7 @@
 {"commentId":"2224309","timestamp":1767837780,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Blue Foundry","method":"secure-message"}]}}
 {"commentId":"2229940","timestamp":1768445160,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Wells Fargo","method":"on-platform"}]}}
 {"commentId":"2231121","timestamp":1768529400,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"CIT Bank","method":"on-platform"}]}}
-{"commentId":"2231196","timestamp":1768533780,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"US Bank","method":"phone"}]}}
+{"commentId":"2231196","timestamp":1768533780,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"U.S. Bank","method":"phone"}]}}
 {"commentId":"2235784","timestamp":1769043420,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"BMO","method":"chat"}]}}
 {"commentId":"2243090","timestamp":1769788800,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Chartway Credit Union","method":"phone"}]}}
 {"commentId":"2247436","timestamp":1770206220,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Maspeth Federal Savings Bank","method":"secure-message"}]}}
@@ -797,8 +797,8 @@
 {"commentId":"2301340","timestamp":1776354060,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Live Oak Bank","method":"chat"}]}}
 {"commentId":"2305728","timestamp":1776880560,"extracted_data":{"closure_attempts":[]}}
 {"commentId":"2315272","timestamp":1777989840,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Wells Fargo","method":"on-platform"}]}}
-{"commentId":"2315410","timestamp":1778002680,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"US Bank","method":"phone"},{"success":true,"bank_name":"US Bank","method":"chat"}]}}
-{"commentId":"2316073","timestamp":1778077140,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"US Bank","method":"chat"}]}}
+{"commentId":"2315410","timestamp":1778002680,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"U.S. Bank","method":"phone"},{"success":true,"bank_name":"U.S. Bank","method":"chat"}]}}
+{"commentId":"2316073","timestamp":1778077140,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"U.S. Bank","method":"chat"}]}}
 {"commentId":"2328710","timestamp":1779802740,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Middlesex Saving Bank","method":"secure-message"}]}}
 {"commentId":"2330542","timestamp":1779989340,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"4Front Credit Union","method":"phone"}]}}
 {"commentId":"2332959","timestamp":1780332600,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Wells Fargo","method":"on-platform"}]}}
