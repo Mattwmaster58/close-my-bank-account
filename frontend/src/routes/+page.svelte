@@ -89,7 +89,7 @@
   const lastDatapointAddedDate = $derived(new Date(maxTimestamp * 1000).toLocaleDateString());
 </script>
 
-<!-- svelte-ignore a11y-autofocus -->
+<!-- svelte-ignore a11y_autofocus -->
 <svelte:head>
     <title>Close My Bank Account</title>
 </svelte:head>
@@ -119,6 +119,7 @@
     </header>
 
     <div class="search-section">
+        <!-- svelte-ignore a11y_autofocus -->
         <input
                 type="search"
                 bind:value={searchQuery}
