@@ -4491,6 +4491,12 @@
       "method": "phone",
       "success": true,
       "timestamp": 1713215880
+    },
+    {
+      "comment_id": "2348356",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1781885700
     }
   ],
   "Marcus": [
