@@ -1123,6 +1123,18 @@
       "method": "phone",
       "success": true,
       "timestamp": 1762271100
+    },
+    {
+      "comment_id": "2369397",
+      "method": "chat",
+      "success": false,
+      "timestamp": 1784309820
+    },
+    {
+      "comment_id": "2369397",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1784309820
     }
   ],
   "Bank of Hope": [

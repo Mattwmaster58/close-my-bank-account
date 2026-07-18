@@ -806,3 +806,4 @@
 {"commentId":"2337887","timestamp":1780939740,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"U.S. Bank","method":"chat"}]}}
 {"commentId":"2348356","timestamp":1781885700,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"M&T Bank","method":"secure-message"}]}}
 {"commentId":"2366386","timestamp":1784037840,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Byline Bank","method":"phone"}]}}
+{"commentId":"2369397","timestamp":1784309820,"extracted_data":{"closure_attempts":[{"success":false,"bank_name":"Bank of America","method":"chat"},{"success":true,"bank_name":"Bank of America","method":"phone"}]}}
