@@ -4213,6 +4213,12 @@
       "method": "unknown",
       "success": true,
       "timestamp": 1659720780
+    },
+    {
+      "comment_id": "2374559",
+      "method": "unknown",
+      "success": true,
+      "timestamp": 1784924820
     }
   ],
   "Lakeland Bank": [
@@ -6669,6 +6675,12 @@
       "method": "chat",
       "success": true,
       "timestamp": 1780939740
+    },
+    {
+      "comment_id": "2374441",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1784914920
     }
   ],
   "UFB Direct": [
