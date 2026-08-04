@@ -809,3 +809,5 @@
 {"commentId":"2369397","timestamp":1784309820,"extracted_data":{"closure_attempts":[{"success":false,"bank_name":"Bank of America","method":"chat"},{"success":true,"bank_name":"Bank of America","method":"phone"}]}}
 {"commentId":"2374441","timestamp":1784914920,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"U.S. Bank","method":"phone"}]}}
 {"commentId":"2374559","timestamp":1784924820,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Lake Michigan Credit Union","method":"unknown"}]}}
+{"commentId":"2381124","timestamp":1785768840,"extracted_data":{"closure_attempts":[]}}
+{"commentId":"2381336","timestamp":1785785280,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Fidelity Bank","method":"phone"},{"success":true,"bank_name":"Chime","method":"on-platform"},{"success":true,"bank_name":"SoFi","method":"on-platform"}]}}

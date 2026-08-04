@@ -1897,6 +1897,12 @@
       "method": "phone",
       "success": true,
       "timestamp": 1774821060
+    },
+    {
+      "comment_id": "2381336",
+      "method": "on-platform",
+      "success": true,
+      "timestamp": 1785785280
     }
   ],
   "Christian Community Credit Union": [
@@ -2817,6 +2823,12 @@
       "method": "chat",
       "success": true,
       "timestamp": 1471371780
+    },
+    {
+      "comment_id": "2381336",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1785785280
     }
   ],
   "Fifth Third Bank": [
@@ -5881,6 +5893,12 @@
       "method": "on-platform",
       "success": true,
       "timestamp": 1775582280
+    },
+    {
+      "comment_id": "2381336",
+      "method": "on-platform",
+      "success": true,
+      "timestamp": 1785785280
     }
   ],
   "South Shore Bank": [
