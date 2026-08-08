@@ -811,3 +811,4 @@
 {"commentId":"2374559","timestamp":1784924820,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Lake Michigan Credit Union","method":"unknown"}]}}
 {"commentId":"2381124","timestamp":1785768840,"extracted_data":{"closure_attempts":[]}}
 {"commentId":"2381336","timestamp":1785785280,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Fidelity Bank","method":"phone"},{"success":true,"bank_name":"Chime","method":"on-platform"},{"success":true,"bank_name":"SoFi","method":"on-platform"}]}}
+{"commentId":"2384735","timestamp":1786126920,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Andrews Federal Credit Union","method":"chat"}]}}
