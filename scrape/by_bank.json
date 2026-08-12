@@ -1141,6 +1141,12 @@
       "method": "phone",
       "success": true,
       "timestamp": 1784309820
+    },
+    {
+      "comment_id": "2387293",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1786475820
     }
   ],
   "Bank of Hope": [
@@ -4341,6 +4347,18 @@
       "method": "chat",
       "success": true,
       "timestamp": 1776354060
+    },
+    {
+      "comment_id": "2387293",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1786475820
+    },
+    {
+      "comment_id": "2387293",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1786475820
     }
   ],
   "M&T Bank": [
