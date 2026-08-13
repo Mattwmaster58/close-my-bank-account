@@ -1865,6 +1865,12 @@
       "method": "secure-message",
       "success": true,
       "timestamp": 1762390440
+    },
+    {
+      "comment_id": "2388227",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1786557300
     }
   ],
   "Chime": [

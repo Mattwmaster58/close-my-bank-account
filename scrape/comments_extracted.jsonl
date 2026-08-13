@@ -813,3 +813,4 @@
 {"commentId":"2381336","timestamp":1785785280,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Fidelity Bank","method":"phone"},{"success":true,"bank_name":"Chime","method":"on-platform"},{"success":true,"bank_name":"SoFi","method":"on-platform"}]}}
 {"commentId":"2384735","timestamp":1786126920,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Andrews Federal Credit Union","method":"chat"}]}}
 {"commentId":"2387293","timestamp":1786475820,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Live Oak Bank","method":"chat"},{"success":true,"bank_name":"Live Oak Bank","method":"chat"},{"success":true,"bank_name":"Bank of America","method":"phone"}]}}
+{"commentId":"2388227","timestamp":1786557300,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Chase","method":"secure-message"}]}}
