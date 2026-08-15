@@ -814,3 +814,4 @@
 {"commentId":"2384735","timestamp":1786126920,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Andrews Federal Credit Union","method":"chat"}]}}
 {"commentId":"2387293","timestamp":1786475820,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Live Oak Bank","method":"chat"},{"success":true,"bank_name":"Live Oak Bank","method":"chat"},{"success":true,"bank_name":"Bank of America","method":"phone"}]}}
 {"commentId":"2388227","timestamp":1786557300,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Chase","method":"secure-message"}]}}
+{"commentId":"2389806","timestamp":1786723680,"extracted_data":{"closure_attempts":[]}}
