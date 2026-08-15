@@ -76,14 +76,13 @@ def extract_comment_data(comment: Comment) -> ClosureData:
 
     Comment:'{comment.text}'
     """
-    response = client.models.generate_content(
+    response = client.chats.create(
         model="gemini-3.5-flash",
-        contents=prompt,
         config={
             "response_mime_type": "application/json",
             "response_schema": ClosureData,
         },
-    )
+    ).send_message(prompt)
     return response.parsed
 
 
