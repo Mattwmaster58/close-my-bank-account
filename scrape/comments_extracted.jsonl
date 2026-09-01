@@ -816,3 +816,4 @@
 {"commentId":"2388227","timestamp":1786557300,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Chase","method":"secure-message"}]}}
 {"commentId":"2389806","timestamp":1786723680,"extracted_data":{"closure_attempts":[]}}
 {"commentId":"2393144","timestamp":1787178420,"extracted_data":{"closure_attempts":[]}}
+{"commentId":"2401849","timestamp":1788218520,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Brink's Armored Prepaid","method":"on-platform"}]}}
