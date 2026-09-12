@@ -817,3 +817,5 @@
 {"commentId":"2389806","timestamp":1786723680,"extracted_data":{"closure_attempts":[]}}
 {"commentId":"2393144","timestamp":1787178420,"extracted_data":{"closure_attempts":[]}}
 {"commentId":"2401849","timestamp":1788218520,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Brink's Armored Prepaid","method":"on-platform"}]}}
+{"commentId":"2410774","timestamp":1789139880,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Chase","method":"secure-message"}]}}
+{"commentId":"2410984","timestamp":1789152120,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Wells Fargo","method":"on-platform"},{"success":true,"bank_name":"Citi","method":"chat"},{"success":true,"bank_name":"YourStateBank","method":"phone"}]}}

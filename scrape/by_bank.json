@@ -1879,6 +1879,12 @@
       "method": "secure-message",
       "success": true,
       "timestamp": 1786557300
+    },
+    {
+      "comment_id": "2410774",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1789139880
     }
   ],
   "Chime": [
@@ -2319,6 +2325,12 @@
       "method": "chat",
       "success": true,
       "timestamp": 1775836080
+    },
+    {
+      "comment_id": "2410984",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1789152120
     }
   ],
   "Citizens": [
@@ -7359,6 +7371,12 @@
       "method": "on-platform",
       "success": true,
       "timestamp": 1780332600
+    },
+    {
+      "comment_id": "2410984",
+      "method": "on-platform",
+      "success": true,
+      "timestamp": 1789152120
     }
   ],
   "Wesbanco": [
@@ -7409,6 +7427,14 @@
       "method": "secure-message",
       "success": true,
       "timestamp": 1640980020
+    }
+  ],
+  "YourStateBank": [
+    {
+      "comment_id": "2410984",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1789152120
     }
   ]
 }
