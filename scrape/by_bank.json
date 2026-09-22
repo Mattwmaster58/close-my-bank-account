@@ -3985,6 +3985,18 @@
       "method": "phone",
       "success": true,
       "timestamp": 1742909100
+    },
+    {
+      "comment_id": "2417947",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1790021700
+    },
+    {
+      "comment_id": "2417947",
+      "method": "phone",
+      "success": false,
+      "timestamp": 1790021700
     }
   ],
   "Iberiabank": [
@@ -6755,6 +6767,12 @@
       "method": "phone",
       "success": true,
       "timestamp": 1784914920
+    },
+    {
+      "comment_id": "2417809",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1790011620
     }
   ],
   "UFB Direct": [

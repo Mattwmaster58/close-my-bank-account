@@ -820,3 +820,5 @@
 {"commentId":"2410774","timestamp":1789139880,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Chase","method":"secure-message"}]}}
 {"commentId":"2410984","timestamp":1789152120,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Wells Fargo","method":"on-platform"},{"success":true,"bank_name":"Citi","method":"chat"},{"success":true,"bank_name":"YourStateBank","method":"phone"}]}}
 {"commentId":"2411828","timestamp":1789322820,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Chime","method":"on-platform"}]}}
+{"commentId":"2417809","timestamp":1790011620,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"U.S. Bank","method":"phone"}]}}
+{"commentId":"2417947","timestamp":1790021700,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Huntington Bank","method":"chat"},{"success":false,"bank_name":"Huntington Bank","method":"phone"}]}}
