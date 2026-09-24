@@ -1,11 +1,14 @@
 import json
 import os
+import random
+import time
 from itertools import zip_longest
 from pathlib import Path
 from typing import Literal
 
 from dotenv import load_dotenv
 from google import genai
+from google.genai import errors as genai_errors
 from pydantic import BaseModel
 
 from scrape import Comment
@@ -44,6 +47,48 @@ def _get_ai_client():
     return genai.Client(api_key=key)
 
 
+# HTTP statuses worth retrying with backoff. Anything else (auth errors,
+# bad requests, ...) fails fast so real problems surface immediately.
+_RETRYABLE_STATUS_CODES = {408, 425, 429, 500, 502, 503, 504}
+
+
+def _is_retryable_api_error(exc: Exception) -> bool:
+    code = getattr(exc, "code", None)
+    if code is None:
+        code = getattr(exc, "status_code", None)
+    if code is None:
+        # Unknown error shape — retry only server-side error types.
+        return isinstance(exc, genai_errors.ServerError)
+    try:
+        code = int(code)
+    except (TypeError, ValueError):
+        return False
+    return code in _RETRYABLE_STATUS_CODES
+
+
+def _send_with_retry(send_fn, *, max_attempts=6, base_delay=10.0):
+    """Call send_fn(), retrying transient Gemini API errors with exponential backoff.
+
+    The Gemini API occasionally returns 503 "high demand" spikes; without a
+    retry the whole nightly workflow fails. Waits ~10s, ~20s, ~40s, ... with
+    jitter between attempts.
+    """
+    delay = base_delay
+    for attempt in range(1, max_attempts + 1):
+        try:
+            return send_fn()
+        except genai_errors.APIError as exc:
+            if not _is_retryable_api_error(exc) or attempt == max_attempts:
+                raise
+            sleep_s = delay + random.uniform(0, delay)
+            print(
+                f"Gemini API transient error (attempt {attempt}/{max_attempts}): {exc}. "
+                f"Retrying in {sleep_s:.0f}s..."
+            )
+            time.sleep(sleep_s)
+            delay *= 2
+
+
 def get_existing_banks() -> list[str]:
     """Load existing bank names from by_bank.json if it exists."""
     base_path = Path(__file__).parent
@@ -76,13 +121,16 @@ def extract_comment_data(comment: Comment) -> ClosureData:
 
     Comment:'{comment.text}'
     """
-    response = client.chats.create(
-        model="gemini-3.5-flash",
-        config={
-            "response_mime_type": "application/json",
-            "response_schema": ClosureData,
-        },
-    ).send_message(prompt)
+    def _do_send():
+        return client.chats.create(
+            model="gemini-3.5-flash",
+            config={
+                "response_mime_type": "application/json",
+                "response_schema": ClosureData,
+            },
+        ).send_message(prompt)
+
+    response = _send_with_retry(_do_send)
     return response.parsed
 
 
