@@ -1955,6 +1955,12 @@
       "method": "phone",
       "success": true,
       "timestamp": 1539180780
+    },
+    {
+      "comment_id": "2418528",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1790083920
     }
   ],
   "Citadel Credit Union": [
@@ -6001,6 +6007,12 @@
       "method": "chat",
       "success": true,
       "timestamp": 1718905800
+    },
+    {
+      "comment_id": "2418528",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1790083920
     }
   ],
   "Spruce": [
