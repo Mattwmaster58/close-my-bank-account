@@ -823,3 +823,5 @@
 {"commentId":"2417809","timestamp":1790011620,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"U.S. Bank","method":"phone"}]}}
 {"commentId":"2417947","timestamp":1790021700,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Huntington Bank","method":"chat"},{"success":false,"bank_name":"Huntington Bank","method":"phone"}]}}
 {"commentId":"2418528","timestamp":1790083920,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Christian Community Credit Union","method":"secure-message"},{"success":true,"bank_name":"SouthState Bank","method":"secure-message"}]}}
+{"commentId":"2420302","timestamp":1790265000,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Chase","method":"secure-message"}]}}
+{"commentId":"2420305","timestamp":1790265360,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Truist","method":"chat"}]}}
