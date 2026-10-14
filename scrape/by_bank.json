@@ -113,6 +113,12 @@
       "method": "secure-message",
       "success": true,
       "timestamp": 1554465900
+    },
+    {
+      "comment_id": "2434390",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1791942540
     }
   ],
   "American Eagle Financial Credit Union": [
@@ -3749,6 +3755,12 @@
       "method": "phone",
       "success": true,
       "timestamp": 1584983340
+    },
+    {
+      "comment_id": "2434390",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1791942540
     }
   ],
   "Hanmi Bank": [
@@ -4029,6 +4041,18 @@
       "method": "phone",
       "success": false,
       "timestamp": 1790021700
+    },
+    {
+      "comment_id": "2433597",
+      "method": "phone",
+      "success": false,
+      "timestamp": 1791900060
+    },
+    {
+      "comment_id": "2433597",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1791900060
     }
   ],
   "Iberiabank": [

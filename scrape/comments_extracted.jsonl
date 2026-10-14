@@ -830,3 +830,5 @@
 {"commentId":"2426014","timestamp":1790953680,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"American Express","method":"chat"}]}}
 {"commentId":"2427634","timestamp":1791159420,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"OKX","method":"chat"}]}}
 {"commentId":"2431645","timestamp":1791576480,"extracted_data":{"closure_attempts":[{"success":false,"bank_name":"Bank of America","method":"phone"}]}}
+{"commentId":"2433597","timestamp":1791900060,"extracted_data":{"closure_attempts":[{"success":false,"bank_name":"Huntington Bank","method":"phone"},{"success":true,"bank_name":"Huntington Bank","method":"phone"}]}}
+{"commentId":"2434390","timestamp":1791942540,"extracted_data":{"closure_attempts":[{"success":true,"bank_name":"Hancock Whitney","method":"phone"},{"success":true,"bank_name":"Amegy Bank","method":"secure-message"}]}}
