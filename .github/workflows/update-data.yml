@@ -57,6 +57,7 @@ jobs:
         run: |
           git add scrape/comments.jsonl
           git commit -m "Update scraped comments data [skip ci]"
+          git pull --rebase
           git push
 
       - name: Run extract_data
@@ -80,6 +81,7 @@ jobs:
         run: |
           git add scrape/comments_extracted.jsonl scrape/by_bank.json
           git commit -m "Update extracted bank closure data [skip ci]"
+          git pull --rebase
           git push
 
       - name: Setup Node.js
