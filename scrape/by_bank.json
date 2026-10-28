@@ -69,6 +69,12 @@
       "method": "unknown",
       "success": true,
       "timestamp": 1762532160
+    },
+    {
+      "comment_id": "2443573",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1793123220
     }
   ],
   "Ally": [
@@ -461,6 +467,20 @@
       "timestamp": 1605821280
     }
   ],
+  "BCU": [
+    {
+      "comment_id": "2443573",
+      "method": "chat",
+      "success": false,
+      "timestamp": 1793123220
+    },
+    {
+      "comment_id": "2443573",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1793123220
+    }
+  ],
   "BMO": [
     {
       "comment_id": "220331",
@@ -773,6 +793,12 @@
       "method": "chat",
       "success": true,
       "timestamp": 1773870720
+    },
+    {
+      "comment_id": "2443573",
+      "method": "phone",
+      "success": true,
+      "timestamp": 1793123220
     }
   ],
   "BMT (Bryn Mawr Trust)": [
@@ -1909,6 +1935,12 @@
       "method": "secure-message",
       "success": true,
       "timestamp": 1790265000
+    },
+    {
+      "comment_id": "2443573",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1793123220
     }
   ],
   "Chime": [
@@ -5711,6 +5743,12 @@
       "method": "chat",
       "success": true,
       "timestamp": 1685038500
+    },
+    {
+      "comment_id": "2443573",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1793123220
     }
   ],
   "Republic Bank": [
@@ -6011,6 +6049,14 @@
       "method": "phone",
       "success": true,
       "timestamp": 1650404160
+    }
+  ],
+  "Skyla": [
+    {
+      "comment_id": "2443573",
+      "method": "chat",
+      "success": false,
+      "timestamp": 1793123220
     }
   ],
   "SoFi": [
