@@ -215,6 +215,14 @@
       "timestamp": 1786126920
     }
   ],
+  "Apple Bank": [
+    {
+      "comment_id": "2448591",
+      "method": "secure-message",
+      "success": true,
+      "timestamp": 1793744580
+    }
+  ],
   "Ascend Federal Credit Union": [
     {
       "comment_id": "659095",
@@ -1305,6 +1313,22 @@
       "method": "on-platform",
       "success": true,
       "timestamp": 1788218520
+    }
+  ],
+  "Broadview CU": [
+    {
+      "comment_id": "2448591",
+      "method": "chat",
+      "success": true,
+      "timestamp": 1793744580
+    }
+  ],
+  "Busey": [
+    {
+      "comment_id": "2448591",
+      "method": "in-branch",
+      "success": true,
+      "timestamp": 1793744580
     }
   ],
   "Byline Bank": [
@@ -3383,6 +3407,12 @@
       "method": "chat",
       "success": false,
       "timestamp": 1757045040
+    },
+    {
+      "comment_id": "2448591",
+      "method": "in-branch",
+      "success": true,
+      "timestamp": 1793744580
     }
   ],
   "Flushing Bank": [
